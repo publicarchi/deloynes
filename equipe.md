@@ -1,6 +1,6 @@
 ---
 title: "Équipe"
-permalink: /equipe
+permalink: equipe
 ---
 
 Les noms des collègues et étudiants
