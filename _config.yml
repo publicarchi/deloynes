@@ -20,7 +20,7 @@
 
 title: Deloynes
 email: fmoulin@parisnanterre.fr
-description: "Architecture, littérature, philosophie et société au tournant des Lumières"
+description: "Une édition nu'érique collaborative de la collection Deloynes"
 baseurl: "/deloynes" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: ledouxarchi
