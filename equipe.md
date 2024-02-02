@@ -1,5 +1,6 @@
 ---
-title: "Présentation de l'équipe du projet"
+title: "Équipe"
+permalink: /equipe
 ---
 
 Les noms des collègues et étudiants
