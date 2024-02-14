@@ -1,9 +1,9 @@
 # Projet deloynes 
 Une édition numérique d'une brochure de critique d'art
 
-**JUGEMENT D'UN MUSICIEN SUR LE SALON DE PEINTURE DE 1785.**
+## JUGEMENT D'UN MUSICIEN SUR LE SALON DE PEINTURE DE 1785.
 
-> *Ubi plura nitent. . .non ego paucis   
+> Ubi plura nitent. . .non ego paucis   
 > Ofendar maculis  
 > Horace
   
