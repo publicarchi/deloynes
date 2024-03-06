@@ -5,8 +5,10 @@ Une édition numérique d'une brochure de critique d'art
 
 > Ubi plura nitent. . .non ego paucis   
 > Ofendar maculis  
-> Horace
-  
+> Horace[^1]
+  [1]: La citation est tirée de l'Epître aux Pisons (appelé aussi Art poétique), poème d'Horace, poète latin contemporain d'Auguste. « Quand le poème a des beautés, quelques taches ne me choquent pas. » ( Art poétique, 351.)
+
+ 
  A AMSTERDAM
 Et se trouve à Paris,  
 Chez QUILLAU l'aîné, Libraire, rue Christine ; et chez les Marchands de Nouveautés,   
