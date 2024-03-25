@@ -5,7 +5,9 @@ Une édition numérique d'une brochure de critique d'art
 
 > Ubi plura nitent. . .non ego paucis   
 > Ofendar maculis  
-> Horace
+> Horace[^1]
+
+[^1]: Horace est un poète latin
 
  
  A AMSTERDAM
