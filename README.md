@@ -7,7 +7,7 @@ Une édition numérique d'une brochure de critique d'art
 > Ofendar maculis  
 > Horace[^1]
 
-[^1]: La citation est tirée de l'*Epître aux Pisons* (appelé aussi Art poétique), poème d'Horace, poète latin contemporain d'Auguste. « Quand le poème a des beautés, quelques taches ne me choquent pas. » ( *Art poétique*, 351.)
+
 
  
  A AMSTERDAM
@@ -66,5 +66,5 @@ FIN
 
 
 
-
+[^1]: La citation est tirée de l'*Epître aux Pisons* (appelé aussi Art poétique), poème d'Horace, poète latin contemporain d'Auguste. « Quand le poème a des beautés, quelques taches ne me choquent pas. » ( *Art poétique*, 351.)
 
