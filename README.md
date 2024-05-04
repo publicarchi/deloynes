@@ -170,7 +170,6 @@ FIN
 [^99]: *Psiché venant à la faveur d’une lampe, pour poignarder son amant qu’elle croit un monstre : elle reconnoît l’Amour*, musée d'Angers.
 [^100]: Disponible sur la gravure, en haut du mur de droite, le premier en partant du fond.
 [^101]: Papilloter : terme de peinture, emprunté au vocabulaire des perruquier: "on dit des ombres & des lumières, qu’elles papillotent, lorsqu’elles sont distribuées les unes entre les autres par petits espaces, produisant sur un tableau le même effet que des papillotes de papier blanc, éparses sur une tête dont la chevelure est noire." (*Encyclopédie*, t. XI)
-[^102]: Nom de Zeus dans la mythologie romaine.
 [^103]: Disponible sur la gravure, au milieu de la deuxième colonne en partant du fond, sur le mur de droite.
 [^104]: Jean-Jacques Le Barbier, peintre, illustrateur et écrivain français (1738 - 1826). Il fait partie de l'école des beaux-arts de Rouen, il obtient une médaille d’or au Salon de 1808. Il devient membre de l’Académie des beaux-arts, lors de sa réorganisation en 1816, de l’Académie de Rouen et de plusieurs autres sociétés savantes.
 [^105]: Deux tableaux : [*Une Marine avec une Tempête, & naufrage d’un vaisseau*](https://salons.musee-orsay.fr/index/notice/43868) et [*Deux Tableaux, faisant pendans, l’un représente un Paysage au milieu d’un Orage, & l’autre une Marine en calme, avec l’entrée d’un Port de mer*](https://salons.musee-orsay.fr/index/notice/43869).
