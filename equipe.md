@@ -1,6 +1,5 @@
 ---
 title: "Présentation de l'équipe d'annotateurs-éditeurs"
-permalink: equipe
 ---
 
 **Pauline MAS** est en dernière année de Licence Lettres Ecriture et Culture Numérique (option Numérique) à l’Université Paris Nanterre. Elle se dirige vers un master orienté numérique et souhaite à terme devenir cheffe de projet web.
