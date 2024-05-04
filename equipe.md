@@ -1,5 +1,5 @@
 ---
-title: "Équipe"
+title: "Présentation de l'équipe d'annotateurs-éditeurs"
 permalink: equipe
 ---
 
