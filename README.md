@@ -110,7 +110,7 @@ FIN
 [^39]: Disponible sur la gravure, dans le haut à droite du mur du fond.
 [^40]: Oeuvre exposée au Salon de 1781.
 [^41]: Anicet Charles Gabriel Lemonnier, peintre français (1743 - 1824), en 1789, Lemonnier est reçu membre de l’Académie de peinture.
-[^42]: Jean-Baptiste Descamps, peintre et historien d'art français (1714 - 1791) Il est l'auteur de La Vie des Peintres Flamands, Allemands et Hollandais, un dictionnaire biographique qui a fait référence. A Rouen, il fonde, sur la base des idées des philosophes des Lumières, une école particulière de dessin qui propose des cours gratuits, qu’il obtint ensuite de rendre publique et dont il fut nommé directeur.
+[^42]: Jean-Baptiste Descamps, peintre et historien d'art français (1714 - 1791) Il est l'auteur de La Vie des Peintres flamands, Allemands et Hollandais, un dictionnaire biographique qui a fait référence. A Rouen, il fonde, sur la base des idées des philosophes des Lumières, une école particulière de dessin qui propose des cours gratuits, qu’il obtint ensuite de rendre publique et dont il fut nommé directeur.
 [^43]: Poète latin contemporain de la fin de la République romaine et du début du règne d'Auguste (70 av. J-C 19 av. J-C)
 [^44]: Eneide, Livre VI, vers 786-787. Ici l'auteur de la brochure compare le "Professeur fécond" avec l'allégorie de la Mère des Dieux, créant des héros. Le père d'Enée, Anchise, utilise cette image pour annoncer à son fils la future gloire de Rome. (L'auteur propose sa propre traduction).
 [^45]: *Serment des Horaces*, entre les mains de leur Père, conservé au musée du Louvre.
