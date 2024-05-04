@@ -35,6 +35,7 @@ plugins:
 header_pages:
   - recherche.md
   - equipe.md
+  - introduction.md
 
 # rss
 rss: rss
