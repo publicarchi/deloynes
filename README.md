@@ -131,8 +131,7 @@ FIN
 [^60]: Définition de l'*Encyclopédie* : c’est un des noms de l’acide nitreux en général. Les matérialistes & les ouvriers qui employent l’acide nitreux, appellent eau-forte l’acide retiré du nitre par l’intermede du vitriol.
 [^61]: Joseph-Marie Vien, peintre, dessinateur et graveur français (1716 - 1809). Il fut l'un des maîtres de David, et l'un des premiers initiateurs du goût à l'antique en France.
 [^62]: *Retour de Priam avec le corps d'Hector*, musée des beaux-arts d'Angers. Disponible sur la gravure, accroché à droite de la porte du fond. 
-[^63]: Il s'agit vraisemblablement du tableau *Priam partant pour supplier Achille de lui rendre le corps de son fils Hector* de M. Vien dont aujourd'hui la localisation est inconnue.
-Pour visualiser le tableau : https://atravers.hypotheses.org/4310
+[^63]: Il s'agit vraisemblablement du tableau *Priam partant pour supplier Achille de lui rendre le corps de son fils Hector* de M. Vien dont aujourd'hui la localisation est inconnue. Pour visualiser le tableau : https://atravers.hypotheses.org/4310
 [^64]: Citation tirée de l'acte 3 scène 8 de la pièce de Racine, *Andromaque*.
 [^65]: Auteur de l'*Illiade* et de l'*Odyssée*, il est le premier poète grec.
 [^66]: Connu dans l'Antiquité pour l'épreuve de course de chars qui remporte contre le roi de Pise Oenomaos afin d'obtenir la main de sa fille Hippodamie.
