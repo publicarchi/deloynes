@@ -56,6 +56,6 @@ Dans cette édition numérique, nous avons retranscrit la brochure de 1785 afin 
 La source principale et par défaut que nous avons utilisée pour répertorier nos peintures et sculptures est le site “Base Salon”, site du musée d’Orsay qui met à disposition les livrets officiels des Salons de l’Académie avec des données sur chaque tableaux, dont parfois la reproduction de l’oeuvre. Dans le cas où le site “Base Salon” ne propose pas de tableau ou de sculpture, nous renvoyons à d’autres sites de musées d’Europe.
 Enfin, quand, et c’est bien souvent le cas, les tableaux sont perdus, nous renvoyons à la gravure de Pietro Antonio Martini, _Coup d'œil exact de l'arrangement des Peintures au Salon du Louvre_, de 1785. Conservée au département des Estampes, cette gravure permet d’identifier et de visualiser certains tableaux disparus. 
 
-[left]Pauline MAS et Emma PETKOVIC[/eft]
+[left]Pauline MAS et Emma PETKOVIC[/left]
 
 
