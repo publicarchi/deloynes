@@ -8,12 +8,7 @@ title: brochurex
 > Ofendar maculis  
 > Horace
 
----
-**NOTE**
 
-It works with almost all markdown flavours (the below blank line matters).
-
----
 
  
  A AMSTERDAM
