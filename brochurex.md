@@ -4,9 +4,7 @@ title: brochurex
 
 ## JUGEMENT D'UN MUSICIEN SUR LE SALON DE PEINTURE DE 1785.
 
-> Ubi plura nitent. . .non ego paucis   
-> Ofendar maculis  
-> Horace
+
 
 
 
