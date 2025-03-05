@@ -183,49 +183,49 @@ Au Héros appelé sur les marches du Trône.
       
 Plus loin Philippe Auguste,arrachant son bandeau (26),  
 [6] 718  
-L’offre en bon citoyen à de plus dignes têtes,
-Remis sur le Pavois, et par un choix nouveau
-Confirmé dans son rang, il marche à ses conquêtes.
+L’offre en bon citoyen à de plus dignes têtes,  
+Remis sur le Pavois, et par un choix nouveau  
+Confirmé dans son rang, il marche à ses conquêtes.  
 
 
-Allons trouver Joinville auprès de ses foyers (17),
-Entendons-le conter à sa famille en larmes
-Du bon Roi qu’il servit, les vertus, les faits d’armes
-Et naïfs comme lui, retraçons les guerriers.
+Allons trouver Joinville auprès de ses foyers (17),  
+Entendons-le conter à sa famille en larmes  
+Du bon Roi qu’il servit, les vertus, les faits d’armes  
+Et naïfs comme lui, retraçons les guerriers.  
 
 
-Tressan contait de même, il avait sa magie (28)
-On l’aurait cru du temps de la Chevalerie.
-Chaque règne a ses faits, nos Rois les moins heureux
-Ont même des tableaux dignes de leurs neveux.
+Tressan contait de même, il avait sa magie (28)  
+On l’aurait cru du temps de la Chevalerie.  
+Chaque règne a ses faits, nos Rois les moins heureux  
+Ont même des tableaux dignes de leurs neveux.  
          
-Charles cinq, appuyé du brave Connétable (29)
-Présente à la peinture un fond inépuisable,
-Il vécut sagement, il fit aimer ses lois,
-Et la France le met au rang des plus grands Rois.
+Charles cinq, appuyé du brave Connétable (29)  
+Présente à la peinture un fond inépuisable,  
+Il vécut sagement, il fit aimer ses lois,  
+Et la France le met au rang des plus grands Rois.  
 
 
-Charles sept, Louis douze, un Roi dont le courage (30)
-Alla chercher les arts avec son héritage,
-Ont bien acquis le droit qu’on décore à nos yeux
-Tous nos grands monuments, de leurs faits glorieux.
-Le règne des Valois, ce cercle de misères,
-Pourrait nous, attendrir sur le fort de nos pères.
+Charles sept, Louis douze, un Roi dont le courage (30)  
+Alla chercher les arts avec son héritage,  
+Ont bien acquis le droit qu’on décore à nos yeux  
+Tous nos grands monuments, de leurs faits glorieux.  
+Le règne des Valois, ce cercle de misères,  
+Pourrait nous, attendrir sur le fort de nos pères.  
 
 
-À ces temps malheureux succède le Héros (31)
-Dont la valeur brisa les fers de la patrie,
-Son cœur mit à profit ses moments de repos,
+À ces temps malheureux succède le Héros (31)  
+Dont la valeur brisa les fers de la patrie,  
+Son cœur mit à profit ses moments de repos,  
 [7] 719
 
 
-Il voulut sous son règne assurer notre vie.
-Ce Prince était César comme il était Titus,
-Ses enfants de nos jours retracent ses vertus,
-Et la France, en fixant les traits d’un nouveau maître
+Il voulut sous son règne assurer notre vie.  
+Ce Prince était César comme il était Titus,  
+Ses enfants de nos jours retracent ses vertus,  
+Et la France, en fixant les traits d’un nouveau maître  
 Oubliant ses regrets, a cru le voir renaître.  
 Chaque instant de sa vie appartient à nos arts,  
-Des Grecs et des Romains laissons-là les ravages,  
+Des Grecs et des Romains laissons-là les ravages,     
 Peignons le Roi du peuple, et sous ses étendards  
 Rallions les pinceaux pour nos grandes images.  
 Deux siècles de grandeur, malgré quelques revers.  
@@ -280,8 +280,8 @@ Dressons-lui des autels sur nos propres rivages.
 
 
 Escortés par nos Rois, nos Peintres animés  
-Vont, d’un ordre pompeux, ouvrir la galerie  
-Des Romains, des Toscans, les maîtres renommés,  
+Vont, d’un ordre pompeux, ouvrir la galerie   
+Des Romains, des Toscans, les maîtres renommés,   
 Enfin vont faire place à ceux de la patrie.  
 Les Viens, les Vanloos, les Renauds, les Doyens,  
 [9] 721
@@ -293,7 +293,7 @@ L’Ecole de Paris n’aura plus de rivales.
 
 
 Vernet s’est emparé de l’empire des mers (35 et 36);  
-Le Brun peindra l’Amour, Vénus et nos   Colberts.                                                                              
+Le Brun peindra l’Amour, Vénus et nos   Colberts.                                                                           
                                                                
                                                                
                               F I N.            
