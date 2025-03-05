@@ -4,7 +4,7 @@ title: brochurex
 
 
 
-# Les Tableaux, ou RÉFLEXIONS TARDIVES D'UN BON HOMME Qui arrive de la Campagne,sur le SALON de 1785.                     
+# Les Tableaux, ou RÉFLEXIONS TARDIVES D'UN BON HOMME Qui arrive de la Campagne, sur le SALON de 1785.                     
                                                             
                                                                                                    
 A PARIS;                                                                                          
@@ -50,139 +50,139 @@ Dans un autre tableau tracé par la Magie,
 D’un seul coup de pinceau la ramène à la vie.  
 
 
-Sur ces riches tapis tissus pour la grandeur
-Expire dans les fers une Reine d'Afie (10);
-Les cris de sa famille amènent le vainqueur,
-Attendri par des pleurs, sa vertu les essuie.
+Sur ces riches tapis tissus pour la grandeur  
+Expire dans les fers une Reine d'Afie (10);  
+Les cris de sa famille amènent le vainqueur,  
+Attendri par des pleurs, sa vertu les essuie.  
 
 
-On aperçoit plus loin une prison s’ouvrir,
-La femme de Pœtus, dans sa romaine ivresse (11)
-D’un époux trop coupable, accusant la faiblesse.
-Lui donne en se perçant, l’exemple de mourir.
+On aperçoit plus loin une prison s’ouvrir,  
+La femme de Pœtus, dans sa romaine ivresse (11)  
+D’un époux trop coupable, accusant la faiblesse.  
+Lui donne en se perçant, l’exemple de mourir.  
 
 
-Un Palais embrasé, des ruines célèbres (12)
-Nous montre de Vénus le fils religieux,
-Il veut combattre encore au milieu des ténèbres,
-Pour disputer aux Grecs et son père et ses dieux,
-Son épouse et son fils enchaînent son courage.
+Un Palais embrasé, des ruines célèbres (12)  
+Nous montre de Vénus le fils religieux,  
+Il veut combattre encore au milieu des ténèbres,  
+Pour disputer aux Grecs et son père et ses dieux,  
+Son épouse et son fils enchaînent son courage.  
 
 
-Deux serpents, étouffés dans la main d’un enfant (13)
-D'un enfant près de lui, font pâlir le visage;
-L’un est le fils des Dieux, et c’est un Dieu naissant,
-L’autre par sa frayeur se découvre à son père.
+Deux serpents, étouffés dans la main d’un enfant (13)  
+D'un enfant près de lui, font pâlir le visage;  
+L’un est le fils des Dieux, et c’est un Dieu naissant,  
+L’autre par sa frayeur se découvre à son père.  
 
 
-Promenons-nous encore dans les riches moissons,
-Que sèment tous les ans nos fertiles crayons ;
-C'est toujours des Romains la récolte étrangère.
+Promenons-nous encore dans les riches moissons,  
+Que sèment tous les ans nos fertiles crayons ;  
+C'est toujours des Romains la récolte étrangère.  
 [3] 715
 
 
-D’un côté c'est un temple et des marbres épars (14),
-De l'autre est un portique offert à nos regards.
+D’un côté c'est un temple et des marbres épars (14),  
+De l'autre est un portique offert à nos regards.  
 
             
- Mais ici, deux brigands, à ce tronc solitaire (15),
- Attachent la vertu, préparent son tourment ;
- Ses cris font accourir un brave Militaire
- Qui fait céder le crime à son bras triomphant.
+ Mais ici, deux brigands, à ce tronc solitaire (15),  
+ Attachent la vertu, préparent son tourment ;  
+ Ses cris font accourir un brave Militaire  
+ Qui fait céder le crime à son bras triomphant.  
 
 
- Sous les yeux de leur mère assis sur des feuillages (16)
- Une Grâce et l’Amour caressent des oiseaux,
- Ils ont pris de nos bois les fragiles berceaux,
- Et nourrissent déjà les sujets de leurs âges.
- Approchons ces enfants, et sans les détourner,
- Examinons leurs traits sous ces abris champêtres,
- .... Ils font par la bonté les enfants de nos Maîtres,
- Nos cœurs, en les voyant, savent les deviner.
+ Sous les yeux de leur mère assis sur des feuillages (16)  
+ Une Grâce et l’Amour caressent des oiseaux,  
+ Ils ont pris de nos bois les fragiles berceaux,  
+ Et nourrissent déjà les sujets de leurs âges.  
+ Approchons ces enfants, et sans les détourner,  
+ Examinons leurs traits sous ces abris champêtres,  
+ .... Ils font par la bonté les enfants de nos Maîtres,  
+ Nos cœurs, en les voyant, savent les deviner.  
                                                                        
-En passant près de là, Vernet sur les rivages (17)
-Menace, tonne, éclate au milieu des orages,
-Sur tous les éléments il impose ses lois ;
-La nature docile, à ses touches savantes,
-Est calme sur les mers, ou terrible à son choix.
+En passant près de là, Vernet sur les rivages (17)  
+Menace, tonne, éclate au milieu des orages,  
+Sur tous les éléments il impose ses lois ;  
+La nature docile, à ses touches savantes,  
+Est calme sur les mers, ou terrible à son choix.  
                                                                        
                                                                        
-Sur des toiles de mort et de sang dégoûtantes,
-Deux Peintres, dans l’accès d’un délire effrayant,
-D’Achille et de son fils expriment la vengeance ;
-L’un nous montre d’Hector le cadavre sanglant (18)
-Et traîné sous des murs qu’il laisse sans défense.
+Sur des toiles de mort et de sang dégoûtantes,  
+Deux Peintres, dans l’accès d’un délire effrayant, 
+D’Achille et de son fils expriment la vengeance ;  
+L’un nous montre d’Hector le cadavre sanglant (18)  
+Et traîné sous des murs qu’il laisse sans défense.  
 [4] 716
 
 
-L’autre fait voir Pyrrhus par la rage animé (19)
-Dont le bras furieux, malgré sa voix plaintive,
-Poignarde sur l'autel un vieillard désarmé.
-Le monstre ose insulter son âme fugitive,
-Joignant le père au fils sur des marbres fumants,
-Son fer menace encore les femmes, les enfants.
-On voit couler le sang sous de vastes portiques,
-Et tomber sur des morts les colonnes antiques.
+L’autre fait voir Pyrrhus par la rage animé (19)  
+Dont le bras furieux, malgré sa voix plaintive,  
+Poignarde sur l'autel un vieillard désarmé.  
+Le monstre ose insulter son âme fugitive,  
+Joignant le père au fils sur des marbres fumants,  
+Son fer menace encore les femmes, les enfants.  
+On voit couler le sang sous de vastes portiques,  
+Et tomber sur des morts les colonnes antiques.  
 
 
-Mais pourquoi s’attendrir sur ces nobles forfaits,
-Priam n’est pas un Roi si cher à des Français (20)?
-Esclaves jusqu'ici des fables du vieux monde,
-On croirait que nos arts font grecs, italiens :
-Nous avons notre fable, ouvrons la table ronde,
-Notre grand Amadis vaut seul tous les Troyens.
-Athènes la première eut son siècle de gloire,
-Rome lui succéda, chaque peuple à son tour.
-Il peut se faire aussi qu’on nous succède un jour,
-Et la postérité doit savoir notre histoire.
+Mais pourquoi s’attendrir sur ces nobles forfaits,  
+Priam n’est pas un Roi si cher à des Français (20)?  
+Esclaves jusqu'ici des fables du vieux monde,  
+On croirait que nos arts font grecs, italiens :  
+Nous avons notre fable, ouvrons la table ronde,  
+Notre grand Amadis vaut seul tous les Troyens.  
+Athènes la première eut son siècle de gloire,  
+Rome lui succéda, chaque peuple à son tour.  
+Il peut se faire aussi qu’on nous succède un jour,  
+Et la postérité doit savoir notre histoire.  
 
 
-J’aime mieux voir Sully sur un simple brancart (21)
-Noblement entouré des drapeaux de Mayenne,
-Et pleuré par Henry, que la race troyenne
-Qui gémit sur Hector étendu sur un char.
+J’aime mieux voir Sully sur un simple brancart (21)  
+Noblement entouré des drapeaux de Mayenne,  
+Et pleuré par Henry, que la race troyenne  
+Qui gémit sur Hector étendu sur un char.  
 
 
-Ces Rois du vieil Homère, ont un air d'imposture(22);
-On aime ses aïeux, vivants par la peinture,
-Le bon Roi Dagobert, ce Roi des Chevaliers,
-Dans sa gothique Cour ferait moins ridicule,
+Ces Rois du vieil Homère, ont un air d'imposture(22);  
+On aime ses aïeux, vivants par la peinture,  
+Le bon Roi Dagobert, ce Roi des Chevaliers,  
+Dans sa gothique Cour ferait moins ridicule,  
 [5] 717
 
 
-Son fauteuil, entouré de nos braves guerriers,
-Plairait plus à nos yeux qu’une chaise curule.
+Son fauteuil, entouré de nos braves guerriers,  
+Plairait plus à nos yeux qu’une chaise curule.  
 
 
-Je voudrais qu’un David, aux yeux de tout Paris,
-Voulût représenter, dans un noble délire,
-Clovis, échafaudé sur de vastes débris (23),
-Se fondant un Royaume aux dépens de l’Empire,
+Je voudrais qu’un David, aux yeux de tout Paris,  
+Voulût représenter, dans un noble délire,  
+Clovis, échafaudé sur de vastes débris (23),  
+Se fondant un Royaume aux dépens de l’Empire,  
 
 
-Eh quoi ! toujours Achille, Hector et les Césars,
-Tandis que Charlemagne échappe à nos regards (24);
-Ce Monarque lui seul est une galerie
-Digne des arts français, de ces nobles pinceaux
-Qui des siècles passés nous retrace la vie.
-Tous nos preux Chevaliers font autant de tableaux?
-Il est temps d’attacher leur liste glorieuse.
+Eh quoi ! toujours Achille, Hector et les Césars,  
+Tandis que Charlemagne échappe à nos regards (24);  
+Ce Monarque lui seul est une galerie  
+Digne des arts français, de ces nobles pinceaux  
+Qui des siècles passés nous retrace la vie.  
+Tous nos preux Chevaliers font autant de tableaux?  
+Il est temps d’attacher leur liste glorieuse.  
 
 
-On ne voir nul part nos Rolands, nos Concis (25),
-Je n’ai point rencontré ces fiers Montmorencis,
-Dont la main pour nos Rois fidèle et courageuse
-A tenu si longtemps le sceptre des combats.
-Voyons la Nation, ses Chefs et ses soldats,
-Librement rassemblés dans une auguste enceinte,
-En ordre recueillis, méditant un bon choix,
-Et nommant un guerrier sans reproche et sans crainte,
-Pour être le tuteur de l’enfance des Rois,
-Peignons le Souverain confiant sa Couronne
-Au Héros appelé sur les marches du Trône.
+On ne voir nul part nos Rolands, nos Concis (25),  
+Je n’ai point rencontré ces fiers Montmorencis,  
+Dont la main pour nos Rois fidèle et courageuse  
+A tenu si longtemps le sceptre des combats.  
+Voyons la Nation, ses Chefs et ses soldats,  
+Librement rassemblés dans une auguste enceinte,  
+En ordre recueillis, méditant un bon choix,  
+Et nommant un guerrier sans reproche et sans crainte,  
+Pour être le tuteur de l’enfance des Rois,  
+Peignons le Souverain confiant sa Couronne  
+Au Héros appelé sur les marches du Trône.  
       
-Plus loin Philippe Auguste,arrachant son bandeau (26),
-[6] 718            
+Plus loin Philippe Auguste,arrachant son bandeau (26),  
+[6] 718  
 L’offre en bon citoyen à de plus dignes têtes,
 Remis sur le Pavois, et par un choix nouveau
 Confirmé dans son rang, il marche à ses conquêtes.
@@ -223,77 +223,77 @@ Il voulut sous son règne assurer notre vie.
 Ce Prince était César comme il était Titus,
 Ses enfants de nos jours retracent ses vertus,
 Et la France, en fixant les traits d’un nouveau maître
-Oubliant ses regrets, a cru le voir renaître.
-Chaque instant de sa vie appartient à nos arts,
-Des Grecs et des Romains laissons-là les ravages,
-Peignons le Roi du peuple, et sous ses étendards
-Rallions les pinceaux pour nos grandes images.
-Deux siècles de grandeur, malgré quelques revers.
-Nous ferment pour jamais les Archives romaines ;
-Condé seul aurait mis le monde dans les fers,
-Son Roi fut assez grand pour en prendre les rênes.
-Il savait commander, et, grâce à ses travaux,
-Il fit sortir les arts de leurs vastes tombeaux.
-Ce Monarque n’a point épuisé pour sa gloire
-Les talents étonnés, et, ses titres de Grand
-Ne peuvent déchirer les feuillets de l'histoire,
-Malgré tout son éclat, chaque règne à son rang.
-Son jeune successeur vit croître son enfance
-A l’abri des drapeaux d’un peuple triomphant ;
-Philippe gouverna ; le jour de la Régence,
-Fit pâlir nos rivaux sous le soleil naissant.
+Oubliant ses regrets, a cru le voir renaître.  
+Chaque instant de sa vie appartient à nos arts,  
+Des Grecs et des Romains laissons-là les ravages,  
+Peignons le Roi du peuple, et sous ses étendards  
+Rallions les pinceaux pour nos grandes images.  
+Deux siècles de grandeur, malgré quelques revers.  
+Nous ferment pour jamais les Archives romaines ;  
+Condé seul aurait mis le monde dans les fers,  
+Son Roi fut assez grand pour en prendre les rênes.  
+Il savait commander, et, grâce à ses travaux,  
+Il fit sortir les arts de leurs vastes tombeaux.  
+Ce Monarque n’a point épuisé pour sa gloire  
+Les talents étonnés, et, ses titres de Grand  
+Ne peuvent déchirer les feuillets de l'histoire,  
+Malgré tout son éclat, chaque règne à son rang.  
+Son jeune successeur vit croître son enfance  
+A l’abri des drapeaux d’un peuple triomphant ;  
+Philippe gouverna ; le jour de la Régence,  
+Fit pâlir nos rivaux sous le soleil naissant.  
 
 
-Mais j'allais m’égarer dans des routes profondes,
-J’allais pleurer à Metz, et le front consterné, 
-Joindre au pied des Autels un peuple prosterné.
-Dans un noble transport, parcourant les deux mondes,
-J’allais tracer en vers les tableaux de nos jours,
+Mais j'allais m’égarer dans des routes profondes,  
+J’allais pleurer à Metz, et le front consterné,   
+Joindre au pied des Autels un peuple prosterné.  
+Dans un noble transport, parcourant les deux mondes,  
+J’allais tracer en vers les tableaux de nos jours,  
 [8] 720
 
                           
-De la Cour de son père en retraçant les larmes
-A la mort du Dauphin, j’aurais peint nos alarmes
-Et trouvé des Français même dans d’autres Cours (32)
+De la Cour de son père en retraçant les larmes  
+A la mort du Dauphin, j’aurais peint nos alarmes  
+Et trouvé des Français même dans d’autres Cours (32)  
 
 
-Qui pourrait ignorer les fastes de l’Empire (33)?
-Le Sculpteur patriote, aiguisant ses ciseaux
-Par ses essais, déjà décide nos pinceaux,
-Et la France à son tour sur le marbre respire.
+Qui pourrait ignorer les fastes de l’Empire (33)?  
+Le Sculpteur patriote, aiguisant ses ciseaux  
+Par ses essais, déjà décide nos pinceaux,  
+Et la France à son tour sur le marbre respire.  
 
        
-Nous allons voir ce Prince agité sur les flots (34),
-Luttant contre la mort, défiant la tempête,
-Oubliant ses dangers, pressant les Matelots,
-Et traversant l'abîme où va plonger sa tête.
-Brunswick allait porter de généreux secours,
-Quand on le vit tomber sous la vague effrayante,
-La mort vint enlever son âme bienfaisante,
-Et la fit éclipser au milieu de son cours.
-Du sort de ce Héros, bientôt la Renommée
-Vint sonner le récit dans l’Europe alarmée :
-D’un Prince son image annonçant les regrets,
-Des talents réunis elle attend les hommages,
-Par ses vertus Brunswick est devenu Français,
-Dressons-lui des autels sur nos propres rivages.
+Nous allons voir ce Prince agité sur les flots (34),  
+Luttant contre la mort, défiant la tempête,  
+Oubliant ses dangers, pressant les Matelots,  
+Et traversant l'abîme où va plonger sa tête.  
+Brunswick allait porter de généreux secours,  
+Quand on le vit tomber sous la vague effrayante,  
+La mort vint enlever son âme bienfaisante,  
+Et la fit éclipser au milieu de son cours.  
+Du sort de ce Héros, bientôt la Renommée  
+Vint sonner le récit dans l’Europe alarmée :  
+D’un Prince son image annonçant les regrets,  
+Des talents réunis elle attend les hommages,  
+Par ses vertus Brunswick est devenu Français,  
+Dressons-lui des autels sur nos propres rivages.  
 
 
-Escortés par nos Rois, nos Peintres animés
-Vont, d’un ordre pompeux, ouvrir la galerie
-Des Romains, des Toscans, les maîtres renommés,
-Enfin vont faire place à ceux de la patrie.
-Les Viens, les Vanloos, les Renauds, les Doyens,
+Escortés par nos Rois, nos Peintres animés  
+Vont, d’un ordre pompeux, ouvrir la galerie  
+Des Romains, des Toscans, les maîtres renommés,  
+Enfin vont faire place à ceux de la patrie.  
+Les Viens, les Vanloos, les Renauds, les Doyens,  
 [9] 721
 
 
-Les Brenets, les Davids vont peindre nos annales,
-Pierre va les guider ; riche de ses moyens,
-L’Ecole de Paris n’aura plus de rivales.
+Les Brenets, les Davids vont peindre nos annales,  
+Pierre va les guider ; riche de ses moyens,  
+L’Ecole de Paris n’aura plus de rivales.  
 
 
-Vernet s’est emparé de l’empire des mers (35 et 36);
-Le Brun peindra l’Amour, Vénus et nos Colberts.                                                                            
+Vernet s’est emparé de l’empire des mers (35 et 36);  
+Le Brun peindra l’Amour, Vénus et nos   Colberts.                                                                              
                                                                
                                                                
                               F I N.            
