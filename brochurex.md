@@ -16,8 +16,11 @@ LES TABLEAUX.
 
                                                 
 J’ai cru voir l'Univers dans le Salon des arts,
+
 Je me suis cru dans Rome en voyant les Horaces (1),
+
 Pleurant comme un Troyen sur de tristes remparts (2),
+
 Le Brun me consolait en me montrant les Grâces (3).
 
 
