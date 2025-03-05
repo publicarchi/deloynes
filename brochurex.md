@@ -21,33 +21,33 @@ Pleurant comme un Troyen sur de tristes remparts (2),
 Le Brun me consolait en me montrant les Grâces (3).  
 
 
-Quel spectacle imposant m’ont offert nos pinceaux!
-Sous les voûtes du Louvre, où, dans l’antique usage (4);
-Les vassaux de nos Rois venaient leur rendre hommage,                                          
-Ces hommes demi-Dieux m’ont parus des vassaux.
+Quel spectacle imposant m’ont offert nos pinceaux!  
+Sous les voûtes du Louvre, où, dans l’antique usage (4);  
+Les vassaux de nos Rois venaient leur rendre hommage,                               
+Ces hommes demi-Dieux m’ont parus des vassaux.  
 
         
-Là,c'est un fils vainqueur condamné par son père (5);
-Auprès de ce tombeau,c'est Cléopâtre en pleurs (6);
-Regrettant son amant, qu'elle couvre de fleurs,
-Et qui va partager son urne cinéraire.
+Là,c'est un fils vainqueur condamné par son père (5);  
+Auprès de ce tombeau,c'est Cléopâtre en pleurs (6);  
+Regrettant son amant, qu'elle couvre de fleurs,  
+Et qui va partager son urne cinéraire.  
 
 
-Des Romaines, ici,c'est l’accord généreux,                  
-Pour aller du Sénat dégager la parole :
-En déposant leur luxe aux pieds du Capitole,
-On les voit s’embellir de ce trait vertueux.
+Des Romaines, ici,c'est l’accord généreux,  
+Pour aller du Sénat dégager la parole :  
+En déposant leur luxe aux pieds du Capitole,  
+On les voit s’embellir de ce trait vertueux.  
 
 
-Dans un sombre tableau, c'est Alceste mourante (8 et 9),
-Pour presser son époux par un dernier effort,
+Dans un sombre tableau, c'est Alceste mourante (8 et 9),  
+Pour presser son époux par un dernier effort,  
 [2] 714
 
         
-On lui voit tendre encore une main défaillante;
-Mais un Peintre, brisant les portes de la mort,
-Dans un autre tableau tracé par la Magie,
-D’un seul coup de pinceau la ramène à la vie.
+On lui voit tendre encore une main défaillante;  
+Mais un Peintre, brisant les portes de la mort,  
+Dans un autre tableau tracé par la Magie,  
+D’un seul coup de pinceau la ramène à la vie.  
 
 
 Sur ces riches tapis tissus pour la grandeur
