@@ -4,12 +4,7 @@ title: brochurex
 
 
 
-Les Tableaux, 
-ou
-RÉFLEXIONS TARDIVES 
-D'UN BON HOMME                    
-Qui arrive de la Campagne,                   
-sur le SALON de 1785.                     
+# Les Tableaux, ou RÉFLEXIONS TARDIVES D'UN BON HOMME Qui arrive de la Campagne,sur le SALON de 1785.                     
                                                             
                                                                                                    
 A PARIS;                                                                                          
