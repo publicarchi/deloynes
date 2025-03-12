@@ -108,7 +108,7 @@ Est calme sur les mers, ou terrible à son choix.
                                                                        
                                                                        
 Sur des toiles de mort et de sang dégoûtantes,  
-Deux Peintres, dans l’accès d’un délire effrayant, 
+Deux Peintres, dans l’accès d’un délire effrayant,  
 D’Achille et de son fils expriment la vengeance ;  
 L’un nous montre d’Hector le cadavre sanglant (18)  
 Et traîné sous des murs qu’il laisse sans défense.  
