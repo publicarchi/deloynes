@@ -188,7 +188,7 @@ Remis sur le Pavois, et par un choix nouveau
 Confirmé dans son rang, il marche à ses conquêtes.  
 
 
-Allons trouver Joinville auprès de ses foyers (17),  
+Allons trouver Joinville auprès de ses foyers (27),  
 Entendons-le conter à sa famille en larmes  
 Du bon Roi qu’il servit, les vertus, les faits d’armes  
 Et naïfs comme lui, retraçons les guerriers.  
