@@ -169,7 +169,7 @@ Tous nos preux Chevaliers font autant de tableaux?
 Il est temps d’attacher leur liste glorieuse.  
 
 
-On ne voir nul part nos Rolands, nos Concis (25),  
+On ne voit nul part nos Rolands, nos Concis (25),  
 Je n’ai point rencontré ces fiers Montmorencis,  
 Dont la main pour nos Rois fidèle et courageuse  
 A tenu si longtemps le sceptre des combats.  
