@@ -128,7 +128,7 @@ Et tomber sur des morts les colonnes antiques.
 Mais pourquoi s’attendrir sur ces nobles forfaits,  
 Priam n’est pas un Roi si cher à des Français (20)?  
 Esclaves jusqu'ici des fables du vieux monde,  
-On croirait que nos arts font grecs, italiens :  
+On croirait que nos arts sont grecs, italiens :  
 Nous avons notre fable, ouvrons la table ronde,  
 Notre grand Amadis vaut seul tous les Troyens.  
 Athènes la première eut son siècle de gloire,  
