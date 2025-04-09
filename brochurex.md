@@ -16,7 +16,7 @@ LES TABLEAUX.
 
                                                 
 J’ai cru voir l'Univers dans le Salon des arts,  
-Je me suis cru dans Rome en voyant les Horaces (1),  
+Je me suis cru dans Rome en voyant [les Horaces](https://collections.louvre.fr/ark:/53355/cl010062239) (1),  
 Pleurant comme un Troyen sur de tristes remparts (2),  
 Le Brun me consolait en me montrant les Grâces (3).  
 
@@ -437,4 +437,6 @@ F I N.
 
 Lu et approuvé, ce 5 Nov. 1785, SUARD                                                                                                                                                                                                         
 Vu l’App, permis d'impr, le 5 Nov. 1785, DE CROSNE.                                                                                                                                                                                          De l'Imprimerie de LAPORTE, rue des Noyers.                                                                                                                                             
+
+
 
