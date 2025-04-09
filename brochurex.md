@@ -24,7 +24,7 @@ Le Brun[^1] me consolait en me montrant les Grâces[^2] (3).
 Quel spectacle imposant m’ont offert nos pinceaux!  
 Sous les voûtes du Louvre, où, dans l’antique usage (4);  
 Les vassaux de nos Rois venaient leur rendre hommage,                               
-Ces hommes demi-Dieux m’ont parus des vassaux.  
+Ces hommes demi-Dieux m’ont parus des vassaux[^3].  
 
         
 Là,c'est un fils vainqueur condamné par son père (5);  
@@ -45,7 +45,7 @@ Pour presser son époux par un dernier effort,
 
         
 On lui voit tendre encore une main défaillante;  
-Mais un Peintre, brisant les portes de la mort,  
+Mais un Peintre[^4], brisant les portes de la mort,  
 Dans un autre tableau tracé par la Magie,  
 D’un seul coup de pinceau la ramène à la vie.  
 
@@ -64,12 +64,12 @@ Lui donne en se perçant, l’exemple de mourir.
 
 Un Palais embrasé, des ruines célèbres (12)  
 Nous montre de Vénus le fils religieux,  
-Il veut combattre encore au milieu des ténèbres,  
+Il veut combattre encorhttps://collections.louvre.fr/ark:/53355/cl010066445e au milieu des ténèbres,  
 Pour disputer aux Grecs et son père et ses dieux,  
 Son épouse et son fils enchaînent son courage.  
 
 
-Deux serpents, étouffés dans la main d’un enfant (13)  
+Deux serpents, étouff[és dans la main d](https://www.slam.org/collection/objects/50635/)’un enfant (13)  
 D'un enfant près de lui, font pâlir le visage;  
 L’un est le fils des Dieux, et c’est un Dieu naissant,  
 L’autre par sa frayeur se découvre à son père.  
@@ -109,7 +109,7 @@ Est calme sur les mers, ou terrible à son choix.
                                                                        
 Sur des toiles de mort et de sang dégoûtantes,  
 Deux Peintres, dans l’accès d’un délire effrayant,  
-D’Achille et de son fils expriment la vengeance ;  
+D’Achille[^5] et de son fils[^6] expriment la vengeance ;  
 L’un nous montre d’Hector le cadavre sanglant (18)  
 Et traîné sous des murs qu’il laisse sans défense.  
 [4] 716
@@ -117,7 +117,7 @@ Et traîné sous des murs qu’il laisse sans défense.
 
 L’autre fait voir Pyrrhus par la rage animé (19)  
 Dont le bras furieux, malgré sa voix plaintive,  
-Poignarde sur l'autel un vieillard désarmé.  
+Poignarde sur l'autel un vieillard désarmé[^7].  
 Le monstre ose insulter son âme fugitive,  
 Joignant le père au fils sur des marbres fumants,  
 Son fer menace encore les femmes, les enfants.  
@@ -130,7 +130,7 @@ Priam n’est pas un Roi si cher à des Français (20)?
 Esclaves jusqu'ici des fables du vieux monde,  
 On croirait que nos arts sont grecs, italiens :  
 Nous avons notre fable, ouvrons la table ronde,  
-Notre grand Amadis vaut seul tous les Troyens.  
+Notre grand Amadis[^8] vaut seul tous les Troyens.  
 Athènes la première eut son siècle de gloire,  
 Rome lui succéda, chaque peuple à son tour.  
 Il peut se faire aussi qu’on nous succède un jour,  
@@ -140,12 +140,12 @@ Et la postérité doit savoir notre histoire.
 J’aime mieux voir Sully sur un simple brancart (21)  
 Noblement entouré des drapeaux de Mayenne,  
 Et pleuré par Henry, que la race troyenne  
-Qui gémit sur Hector étendu sur un char.  
+Qui gémit sur Hector[^9] étendu sur un char.  
 
 
-Ces Rois du vieil Homère, ont un air d'imposture(22);  
+Ces Rois du vieil Homère[^10], ont un air d'imposture(22);  
 On aime ses aïeux, vivants par la peinture,  
-Le bon Roi Dagobert, ce Roi des Chevaliers,  
+Le bon Roi Dagobert[^11], ce Roi des Chevaliers,  
 Dans sa gothique Cour ferait moins ridicule,  
 [5] 717
 
@@ -156,12 +156,12 @@ Plairait plus à nos yeux qu’une chaise curule.
 
 Je voudrais qu’un David, aux yeux de tout Paris,  
 Voulût représenter, dans un noble délire,  
-Clovis, échafaudé sur de vastes débris (23),  
+Clovis[^12], échafaudé sur de vastes débris (23),  
 Se fondant un Royaume aux dépens de l’Empire,  
 
 
 Eh quoi ! toujours Achille, Hector et les Césars,  
-Tandis que Charlemagne échappe à nos regards (24);  
+Tandis que Charlemagne[^13] échappe à nos regards (24);  
 Ce Monarque lui seul est une galerie  
 Digne des arts français, de ces nobles pinceaux  
 Qui des siècles passés nous retrace la vie.  
@@ -169,8 +169,8 @@ Tous nos preux Chevaliers font autant de tableaux?
 Il est temps d’attacher leur liste glorieuse.  
 
 
-On ne voit nul part nos Rolands, nos Concis (25),  
-Je n’ai point rencontré ces fiers Montmorencis,  
+On ne voit nul part nos Rolands[^14], nos Concis (25),  
+Je n’ai point rencontré ces fiers Montmorencis[^15],  
 Dont la main pour nos Rois fidèle et courageuse  
 A tenu si longtemps le sceptre des combats.  
 Voyons la Nation, ses Chefs et ses soldats,  
@@ -438,8 +438,19 @@ F I N.
 Lu et approuvé, ce 5 Nov. 1785, SUARD                                                                                                                                                                                                         
 Vu l’App, permis d'impr, le 5 Nov. 1785, DE CROSNE.                                                                                                                                                                                          De l'Imprimerie de LAPORTE, rue des Noyers.                                                                                                                                             
 
-[^1]: Elisabeth Vigée Le Brun (1755-1842) est une artiste peintre française, considérée comme une grande portraitiste de son temps.Fervente royaliste, elle sera successivement peintre de la cour de France, de Marie-Antoinette et de Louis XVI, du royaume de Naples, de la Cour de l'empereur de Vienne, de l'empereur de Russie et de la Restauration. On lui connaît aussi plusieurs autoportraits, dont deux avec sa fille.
+[^1]:Elisabeth Vigée Le Brun (1755-1842) est une artiste peintre française, considérée comme une grande portraitiste de son temps.Fervente royaliste, elle sera successivement peintre de la cour de France, de Marie-Antoinette et de Louis XVI, du royaume de Naples, de la Cour de l'empereur de Vienne, de l'empereur de Russie et de la Restauration. On lui connaît aussi plusieurs autoportraits, dont deux avec sa fille.
 [^2]:Les portraits de Madame Le BRUN ([nom du tableau](lien),[nom du tableau](lien),[nom du tableau](lien),[nom du tableau](lien),[nom du tableau](lien), etc)
 [^3]:
+[^4]:
+[^5]:
+[^6]:
+[^7]:
+[^8]:
+[^9]:
+[^10]:
+[^11]:
+[^12]:
+[^13]:
+[^14]:
 
 
