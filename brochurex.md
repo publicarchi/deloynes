@@ -210,7 +210,7 @@ Alla chercher les arts avec son héritage,
 Ont bien acquis le droit qu’on décore à nos yeux  
 Tous nos grands monuments, de leurs faits glorieux.  
 Le règne des Valois, ce cercle de misères,  
-Pourrait nous, attendrir sur le fort de nos pères.  
+Pourrait nous, attendrir sur le sort de nos pères.  
 
 
 À ces temps malheureux succède le Héros (31)  
@@ -415,7 +415,7 @@ N° 30.
 Charles VII, déshérité sous un Gouvernement faible et partagé, se trouvait à la mort de Charles VI, son père, borné àla plus petite de ses Provinces ; il fît rentrer ses peuples sous sa domination, et les rendit heureux. Louis XII fut surnommé le père de ses peuples , et ce n'était point un vain titre, il le mérita jusqu’à sa mort. François I, héritier du Milanais, du Chef de Valentine, son aïeule, voulut en faire la conquête : ses guerres d’Italie lui donnèrent l’occasion de fixer les arts en France ; il en avait l’esprit et le goût.                              
 
 N° 31.                                                                
-Tout le monde fait le mot populaire de Henri IV, et l’on retient toujours ce qui fait plaisir.                                 
+Tout le monde sait le mot populaire de Henri IV, et l’on retient toujours ce qui fait plaisir.                                 
 
 N° 32.                                                                
 On rendit publique, quelque temps après la mort de Monseigneur le Dauphin, une lettre intéressante que M. le Duc de Nivernais reçut d’un Anglais ; on l’aurait crue d’un Français.      
