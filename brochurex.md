@@ -17,8 +17,8 @@ LES TABLEAUX.
                                                 
 J’ai cru voir l'Univers dans le Salon des arts,  
 Je me suis cru dans Rome en voyant [les Horaces](https://collections.louvre.fr/ark:/53355/cl010062239) (1),  
-Pleurant comme un Troyen sur de tristes remparts (2),  
-Le Brun me consolait en me montrant les Grâces (3).  
+Pleurant comme un Troyen sur de [tristes remparts]() (2),  
+Le Brun[^1] me consolait en me montrant les Grâces[^2] (3).  
 
 
 Quel spectacle imposant m’ont offert nos pinceaux!  
@@ -438,5 +438,8 @@ F I N.
 Lu et approuvé, ce 5 Nov. 1785, SUARD                                                                                                                                                                                                         
 Vu l’App, permis d'impr, le 5 Nov. 1785, DE CROSNE.                                                                                                                                                                                          De l'Imprimerie de LAPORTE, rue des Noyers.                                                                                                                                             
 
+[^1]: Elisabeth Vigée Le Brun (1755-1842) est une artiste peintre française, considérée comme une grande portraitiste de son temps.Fervente royaliste, elle sera successivement peintre de la cour de France, de Marie-Antoinette et de Louis XVI, du royaume de Naples, de la Cour de l'empereur de Vienne, de l'empereur de Russie et de la Restauration. On lui connaît aussi plusieurs autoportraits, dont deux avec sa fille.
+[^2]:Les portraits de Madame Le BRUN ([nom du tableau](lien),[nom du tableau](lien),[nom du tableau](lien),[nom du tableau](lien),[nom du tableau](lien), etc)
+[^3]:
 
 
