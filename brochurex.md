@@ -17,7 +17,7 @@ LES TABLEAUX.
                                                 
 J’ai cru voir l'Univers dans le Salon des arts,  
 Je me suis cru dans Rome en voyant [les Horaces](https://collections.louvre.fr/ark:/53355/cl010062239) (1),  
-Pleurant comme un Troyen sur de [tristes remparts]() (2),  
+[Pleurant comme un Troyen sur de tristes remparts](https://ow-mba.angers.fr/fr/notice/2013-22-25-retour-de-priam-avec-le-corps-d-hector-fd182676-2071-43c7-b2ab-9bc5aa36553d) (2),  
 Le Brun[^1] me consolait en me montrant les Grâces[^2] (3).  
 
 
@@ -27,7 +27,7 @@ Les vassaux de nos Rois venaient leur rendre hommage,
 Ces hommes demi-Dieux m’ont parus des vassaux[^3].  
 
         
-Là,c'est un fils vainqueur condamné par son père (5);  
+[Là,c'est un fils vainqueur condamné par son père](https://mba.tours.fr/TPL_CODE/TPL_COLLECTIONPIECE/98-18e.htm?COLLECTIONNUM=13&PIECENUM=119&NOMARTISTE=BER) (5);  
 Auprès de ce tombeau,c'est Cléopâtre en pleurs (6);  
 Regrettant son amant, qu'elle couvre de fleurs,  
 Et qui va partager son urne cinéraire.  
@@ -439,7 +439,17 @@ Lu et approuvé, ce 5 Nov. 1785, SUARD
 Vu l’App, permis d'impr, le 5 Nov. 1785, DE CROSNE.                                                                                                                                                                                          De l'Imprimerie de LAPORTE, rue des Noyers.                                                                                                                                             
 
 [^1]:Elisabeth Vigée Le Brun (1755-1842) est une artiste peintre française, considérée comme une grande portraitiste de son temps.Fervente royaliste, elle sera successivement peintre de la cour de France, de Marie-Antoinette et de Louis XVI, du royaume de Naples, de la Cour de l'empereur de Vienne, de l'empereur de Russie et de la Restauration. On lui connaît aussi plusieurs autoportraits, dont deux avec sa fille.
-[^2]:Les portraits de Madame Le BRUN ([nom du tableau](lien),[nom du tableau](lien),[nom du tableau](lien),[nom du tableau](lien),[nom du tableau](lien), etc)
+[^2]:Les portraits de Madame Le BRUN ([Portraits M. de Calonne, Ministre d’Etat & Contrôleur-Général des Finances
+
+](https://salons.musee-orsay.fr/Detail/objects/44279),[Portraits Mme la Comtesse de Ségur
+
+ ](https://salons.musee-orsay.fr/Detail/objects/44280),[Portraits Mme la Baronne de Crussol
+
+](https://salons.musee-orsay.fr/Detail/objects/44281),[Portraits Mme la Comtesse de Clermont-Tonnerre
+
+](https://salons.musee-orsay.fr/Detail/objects/44282),[Portraits Mme la Comtesse de Chatenois
+
+](https://salons.musee-orsay.fr/Detail/objects/44284), etc)
 [^3]:
 [^4]:
 [^5]:
