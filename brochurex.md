@@ -28,18 +28,18 @@ Ces hommes demi-Dieux m’ont parus des vassaux[^3].
 
         
 [Là,c'est un fils vainqueur condamné par son père](https://mba.tours.fr/TPL_CODE/TPL_COLLECTIONPIECE/98-18e.htm?COLLECTIONNUM=13&PIECENUM=119&NOMARTISTE=BER) (5);  
-Auprès de ce tombeau,c'est Cléopâtre en pleurs (6);  
+[Auprès de ce tombeau,c'est Cléopâtre en pleurs](https://ow-mba.angers.fr/fr/notice/2013-22-15-cleopatre-au-tombeau-de-marc-antoine-5d6766c6-0004-476b-84eb-8b7b3bfe5217) (6);  
 Regrettant son amant, qu'elle couvre de fleurs,  
 Et qui va partager son urne cinéraire.  
 
 
-Des Romaines, ici,c'est l’accord généreux,  
+[Des Romaines, ici,c'est l’accord généreux](https://collections.louvre.fr/ark:/53355/cl010057464),  
 Pour aller du Sénat dégager la parole :  
 En déposant leur luxe aux pieds du Capitole,  
 On les voit s’embellir de ce trait vertueux.  
 
 
-Dans un sombre tableau, c'est Alceste mourante (8 et 9),  
+Dans un sombre tableau, c'est [Alceste mourante](https://collections.louvre.fr/ark:/53355/cl010061403) (8 et 9),  
 Pour presser son époux par un dernier effort,  
 [2] 714
 
@@ -51,25 +51,25 @@ D’un seul coup de pinceau la ramène à la vie.
 
 
 Sur ces riches tapis tissus pour la grandeur  
-Expire dans les fers une Reine d'Afie (10);  
+[Expire dans les fers une Reine d'Afie](https://collections.louvre.fr/ark:/53355/cl010066445) (10);  
 Les cris de sa famille amènent le vainqueur,  
 Attendri par des pleurs, sa vertu les essuie.  
 
 
 On aperçoit plus loin une prison s’ouvrir,  
-La femme de Pœtus, dans sa romaine ivresse (11)  
+[La femme de Pœtus](https://www.slam.org/collection/objects/50635/), dans sa romaine ivresse (11)  
 D’un époux trop coupable, accusant la faiblesse.  
 Lui donne en se perçant, l’exemple de mourir.  
 
 
 Un Palais embrasé, des ruines célèbres (12)  
 Nous montre de Vénus le fils religieux,  
-Il veut combattre encorhttps://collections.louvre.fr/ark:/53355/cl010066445e au milieu des ténèbres,  
+Il veut combattre encore au milieu des ténèbres,  
 Pour disputer aux Grecs et son père et ses dieux,  
-Son épouse et son fils enchaînent son courage.  
+[Son épouse et son fils enchaînent son courage](https://collections.louvre.fr/ark:/53355/cl010057847).  
 
 
-Deux serpents, étouff[és dans la main d](https://www.slam.org/collection/objects/50635/)’un enfant (13)  
+[Deux serpents, étouffés dans la main d’un enfant](https://collections.louvre.fr/ark:/53355/cl010062503) (13)  
 D'un enfant près de lui, font pâlir le visage;  
 L’un est le fils des Dieux, et c’est un Dieu naissant,  
 L’autre par sa frayeur se découvre à son père.  
@@ -81,18 +81,18 @@ C'est toujours des Romains la récolte étrangère.
 [3] 715
 
 
-D’un côté c'est un temple et des marbres épars (14),  
-De l'autre est un portique offert à nos regards.  
+[D’un côté c'est un temple et des marbres épars](https://collections.louvre.fr/ark:/53355/cl010062544) (14),  
+[De l'autre est un portique offert à nos regards](https://collections.louvre.fr/ark:/53355/cl010056617).  
 
             
- Mais ici, deux brigands, à ce tronc solitaire (15),  
+ [Mais ici, deux brigands, à ce tronc solitaire](https://www.mahmah.ch/collection/oeuvres/le-marechal-des-logis/e-2016-0921) (15),  
  Attachent la vertu, préparent son tourment ;  
  Ses cris font accourir un brave Militaire  
  Qui fait céder le crime à son bras triomphant.  
 
 
  Sous les yeux de leur mère assis sur des feuillages (16)  
- Une Grâce et l’Amour caressent des oiseaux,  
+ [Une Grâce et l’Amour caressent des oiseaux](https://salons.musee-orsay.fr/Detail/objects/44277),  
  Ils ont pris de nos bois les fragiles berceaux,  
  Et nourrissent déjà les sujets de leurs âges.  
  Approchons ces enfants, et sans les détourner,  
