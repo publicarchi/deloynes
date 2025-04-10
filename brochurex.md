@@ -85,14 +85,14 @@ C'est toujours des Romains la récolte étrangère.
 [De l'autre est un portique offert à nos regards](https://collections.louvre.fr/ark:/53355/cl010056617).  
 
             
- [Mais ici, deux brigands, à ce tronc solitaire](https://www.mahmah.ch/collection/oeuvres/le-marechal-des-logis/e-2016-0921) (15),  
+ [Mais ici, deux brigands, à ce tronc solitaire](https://www.parismuseescollections.paris.fr/fr/petit-palais/oeuvres/le-marechal-des-logis-d-apres-borel#infos-principales) (15),  
  Attachent la vertu, préparent son tourment ;  
  Ses cris font accourir un brave Militaire  
  Qui fait céder le crime à son bras triomphant.  
 
 
  Sous les yeux de leur mère assis sur des feuillages (16)  
- [Une Grâce et l’Amour caressent des oiseaux](https://salons.musee-orsay.fr/Detail/objects/44277),  
+ [Une Grâce et l’Amour caressent des oiseaux](https://atravers.hypotheses.org/7042),  
  Ils ont pris de nos bois les fragiles berceaux,  
  Et nourrissent déjà les sujets de leurs âges.  
  Approchons ces enfants, et sans les détourner,  
@@ -292,8 +292,8 @@ Pierre va les guider ; riche de ses moyens,
 L’Ecole de Paris n’aura plus de rivales.  
 
 
-Vernet s’est emparé de l’empire des mers (35 et 36);  
-Le Brun peindra l’Amour, Vénus et nos   Colberts.                                                                           
+[Vernet s’est emparé de l’empire des mers](https://collections.louvre.fr/ark:/53355/cl010056364) (35 et 36);  
+[Le Brun peindra l’Amour, Vénus et nos   Colberts](https://collections.louvre.fr/ark:/53355/cl020610704).                                                                           
                                                                
                                                                
                               F I N.            
