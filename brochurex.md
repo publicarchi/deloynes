@@ -115,9 +115,9 @@ Et traîné sous des murs qu’il laisse sans défense](https://collections.louv
 [4] 716
 
 
-L’autre fait voir Pyrrhus par la rage animé (19)  
+[L’autre fait voir Pyrrhus par la rage animé (19)  
 Dont le bras furieux, malgré sa voix plaintive,  
-Poignarde sur l'autel un vieillard désarmé[^7].  
+Poignarde sur l'autel un vieillard désarmé](https://utpictura18.univ-amu.fr/notice/20081-mort-priam-regnault)[^7].  
 Le monstre ose insulter son âme fugitive,  
 Joignant le père au fils sur des marbres fumants,  
 Son fer menace encore les femmes, les enfants.  
@@ -137,9 +137,9 @@ Il peut se faire aussi qu’on nous succède un jour,
 Et la postérité doit savoir notre histoire.  
 
 
-J’aime mieux voir Sully sur un simple brancart (21)  
+[J’aime mieux voir Sully sur un simple brancart (21)  
 Noblement entouré des drapeaux de Mayenne,  
-Et pleuré par Henry, que la race troyenne  
+Et pleuré par Henry](https://collections.louvre.fr/ark:/53355/cl010057667), que la race troyenne  
 Qui gémit sur Hector[^9] étendu sur un char.  
 
 
