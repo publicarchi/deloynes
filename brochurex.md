@@ -100,8 +100,8 @@ C'est toujours des Romains la récolte étrangère.
  .... Ils font par la bonté les enfants de nos Maîtres,  
  Nos cœurs, en les voyant, savent les deviner.  
                                                                        
-En passant près de là, Vernet sur les rivages (17)  
-Menace, tonne, éclate au milieu des orages,  
+En passant près de là, [Vernet sur les rivages (17)  
+Menace, tonne, éclate au milieu des orages](https://utpictura18.univ-amu.fr/notice/5973-tempete-naufrage-dun-vaisseau-vernet),  
 Sur tous les éléments il impose ses lois ;  
 La nature docile, à ses touches savantes,  
 Est calme sur les mers, ou terrible à son choix.  
@@ -110,8 +110,8 @@ Est calme sur les mers, ou terrible à son choix.
 Sur des toiles de mort et de sang dégoûtantes,  
 Deux Peintres, dans l’accès d’un délire effrayant,  
 D’Achille[^5] et de son fils[^6] expriment la vengeance ;  
-L’un nous montre d’Hector le cadavre sanglant (18)  
-Et traîné sous des murs qu’il laisse sans défense.  
+[L’un nous montre d’Hector le cadavre sanglant (18)  
+Et traîné sous des murs qu’il laisse sans défense](https://collections.louvre.fr/ark:/53355/cl010061091).  
 [4] 716
 
 
