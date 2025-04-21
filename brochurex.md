@@ -43,7 +43,7 @@ On les voit s’embellir de ce trait vertueux.
 Dans un sombre tableau, c'est [Alceste mourante](https://collections.louvre.fr/ark:/53355/cl010061403) (8 et 9),  
 Pour presser son époux par un dernier effort,  
 
-<p style="text-align:center">[2] 714</p>
+<p style="text-align:center">[2;714]</p>
 
 
         
@@ -82,7 +82,7 @@ Promenons-nous encore dans les riches moissons,
 Que sèment tous les ans nos fertiles crayons ;  
 C'est toujours des Romains la récolte étrangère.  
 
-<p style="text-align:center">[3] 715</p>
+<p style="text-align:center">[3;715]</p>
 
 
 
@@ -90,20 +90,20 @@ C'est toujours des Romains la récolte étrangère.
 [De l'autre est un portique offert à nos regards](https://collections.louvre.fr/ark:/53355/cl010056617).  
 
             
- [Mais ici, deux brigands, à ce tronc solitaire](https://www.parismuseescollections.paris.fr/fr/petit-palais/oeuvres/le-marechal-des-logis-d-apres-borel#infos-principales) (15),  
- Attachent la vertu, préparent son tourment ;  
- Ses cris font accourir un brave Militaire  
- Qui fait céder le crime à son bras triomphant.  
+[Mais ici, deux brigands, à ce tronc solitaire](https://www.parismuseescollections.paris.fr/fr/petit-palais/oeuvres/le-marechal-des-logis-d-apres-borel#infos-principales) (15),  
+Attachent la vertu, préparent son tourment ;  
+Ses cris font accourir un brave Militaire  
+Qui fait céder le crime à son bras triomphant.  
 
 
- Sous les yeux de leur mère assis sur des feuillages (16)  
- [Une Grâce et l’Amour caressent des oiseaux](https://atravers.hypotheses.org/7042),  
- Ils ont pris de nos bois les fragiles berceaux,  
- Et nourrissent déjà les sujets de leurs âges.  
- Approchons ces enfants, et sans les détourner,  
- Examinons leurs traits sous ces abris champêtres,  
- .... Ils font par la bonté les enfants de nos Maîtres,  
- Nos cœurs, en les voyant, savent les deviner.  
+Sous les yeux de leur mère assis sur des feuillages (16)  
+[Une Grâce et l’Amour caressent des oiseaux](https://atravers.hypotheses.org/7042),  
+Ils ont pris de nos bois les fragiles berceaux,  
+Et nourrissent déjà les sujets de leurs âges.  
+Approchons ces enfants, et sans les détourner,  
+Examinons leurs traits sous ces abris champêtres,  
+... Ils font par la bonté les enfants de nos Maîtres,  
+Nos cœurs, en les voyant, savent les deviner.  
                                                                        
 En passant près de là, [Vernet sur les rivages (17)  
 Menace, tonne, éclate au milieu des orages](https://utpictura18.univ-amu.fr/notice/5973-tempete-naufrage-dun-vaisseau-vernet),  
@@ -118,7 +118,7 @@ D’Achille[^5] et de son fils[^6] expriment la vengeance ;
 [L’un nous montre d’Hector le cadavre sanglant (18)  
 Et traîné sous des murs qu’il laisse sans défense](https://collections.louvre.fr/ark:/53355/cl010061091).    
 
-<p style="text-align:center">[4] 716</p>
+<p style="text-align:center">[4;716]</p>
 
 
 
@@ -155,7 +155,7 @@ On aime ses aïeux, vivants par la peinture,
 Le bon Roi Dagobert[^11], ce Roi des Chevaliers,  
 Dans sa gothique Cour ferait moins ridicule,
 
-<p style="text-align:center">[5] 717</p>
+<p style="text-align:center">[5;717]</p>
 
 
 
@@ -192,7 +192,7 @@ Au Héros appelé sur les marches du Trône.
       
 Plus loin Philippe Auguste,arrachant son bandeau (26),  
 
-<p style="text-align:center">[6] 718</p>
+<p style="text-align:center">[6;718]</p>
 
 L’offre en bon citoyen à de plus dignes têtes,  
 Remis sur le Pavois, et par un choix nouveau  
@@ -228,7 +228,7 @@ Pourrait nous, attendrir sur le sort de nos pères.
 Dont la valeur brisa les fers de la patrie,  
 Son cœur mit à profit ses moments de repos,
 
-<p style="text-align:center">[7] 719</p>
+<p style="text-align:center">[7;719]</p>
 
 
 
@@ -263,7 +263,7 @@ Joindre au pied des Autels un peuple prosterné.
 Dans un noble transport, parcourant les deux mondes,  
 J’allais tracer en vers les tableaux de nos jours,
 
-<p style="text-align:center">[8] 720</p>
+<p style="text-align:center">[8;720]</p>
 
 
                           
@@ -300,7 +300,7 @@ Des Romains, des Toscans, les maîtres renommés,
 Enfin vont faire place à ceux de la patrie.  
 Les Viens, les Vanloos, les Renauds, les Doyens,
 
-<p style="text-align:center">[9] 721</p>
+<p style="text-align:center">[9;721]</p>
 
 
 
@@ -323,7 +323,7 @@ L’auteur a, de plus, fait une longue note au sujet de cette composition qu’o
 *"Mais pourquoi s’attendrir sur ces nobles forfait ?"* etc (page 716).  \
 L’auteur consacre presque toutes ses réflexions, et elle, mérite par là des éloges, à ces regrets amers sur ce que nos artistes ne s’occupent pas assez des annales. On doit, en faveur de son zèle, lui passer des négligences, des épithètes mal choisies et des expressions impropres. 
                     
-<p style="text-align:center">[ 10 ] 722</p>
+<p style="text-align:center">[10;722]</p>
 
 **NOTES TIRÉES DE L'EXPLICATION DES PEINTURES DU SALON DE 1785, ET AUTRES NOTES.**\
 
@@ -348,7 +348,7 @@ Cléopâtre rendant son dernier hommage à Antoine, et se préparant à la mort.
 N° 7.
 Piété et générosité des Dames Romaines qui se défirent de leurs bijoux, pour acquitter le vœu des Romains qui avaient promis une coupe d’or au Dieu Apollon, dans son temple de Delphes. Ce tableau est de M.Brenet[^30].
 
-<p style="text-align:center">[11] 723</p>
+<p style="text-align:center">[11;723]</p>
 
 N° 8.
 Alceste faisant ses adieux à son mari, pour lequel elle s’était dévouée à la mort. Ce tableau, sous le titre de l'Héroïsme conjugal,est de M. Peyron[^31].
@@ -368,7 +368,7 @@ Enée, au milieu de la ruine de Troye, n’ayant pu déterminer son père Anchis
 N° 13.
 Hercule, enfant, étouffant deux serpents dans son berceau. Amphitryon voulant s’assurer de la distinction qu’il devait faire de deux enfants qu'Alcmène avait mis au jour, fit lâcher deux serpents entre leurs berceaux en présence de la mère, de
 
-<p style="text-align:center">[12] 724</p>
+<p style="text-align:center">[12;724]</p>
 
 la nourrice et des femmes du Palais ; le courage du petit Hercule détermina son choix, il reçut son fils Eurysthée, qui se jetta tout effrayé dans ses bras. Ce tableau est de M. Tarraval[^35].
 
@@ -385,7 +385,7 @@ Au-dessous du portrait de la Reine, Monseigneur le Dauphin, et Madame, fille du 
 N° 17.
 Une marine avec une tempête, et le naufrage d’un vaisseau ; par M. Vernet. Je me suis rappelé, en voyant le tableau, la tempête et le danger que j’ai couru dans la rade de Bourgneuf à la hauteur de Pornic ; et à la vue des rochers qui bordent cette côte, les pinceaux de M. Vernet[^38] m'ont paru aussi fidèles que ma mémoire.
 
-<p style="text-align:center">[13] 725</p>
+<p style="text-align:center">[13;725]</p>
 
 N° 18.
 Achille traînant le corps d’Hector devant les murs de Troye ; et sous les yeux de Priam et d'Hécube qui implorent le vainqueur. Ce tableau est de M. Callet[^39].
@@ -400,7 +400,7 @@ Si les fables d'Homère ont leur mérite, la Chevalerie de M. Tressan[^41] a le 
 N° 21.
 Sully, ayant reçu plusieurs blessures à la bataille d'Ivry, se retirait le lendemain à Roni, porté dans une litière faite à la hâte de branches d’arbres ; il était précédé de son Écuyer et de ses Pages, suivi des prisonniers qu’il avait faits, et de sa Compagnie de Gens-d’Armes ; sa marche avoir l’air d’un petit triomphe. Le Roi, qui était à la chasse, l’ayant rencontré, parut se réjouir de ce spectacle, s’approcha du brancard lui donna tous les témoignages de la sensibilité qu’un ami peut donner à son ami. Ce Prince lui dit en s’éloignant : « Adieu mon ami, portez-vous bien, et soyez sûr que vous avez un bon maître ». En donnant la préférence au tableau de M. Vincent, je n’ai pas l'intention de critiquer le beau tableau de M. Vien. Cet Artiste voudra bien me pardonner d’aimer davantage l’ami de Henri IV, que le
 
-<p style="text-align:center">[14] 726</p>
+<p style="text-align:center">[14;726]</p>
 
 fils de Priam et les Troyens affligés de sa mort ; et puis il y a longtemps qu’on nous fait les tableaux d’un autre pays que le nôtre.
 
@@ -422,7 +422,7 @@ Philippe Auguste[^48], avant la bataille de Bovines, offrit sa Couronne au plus 
 N° 27.
 Joinville[^49] était le contemporain de S. Louis[^50], et son Historien ; son style naïf, touchant et vrai le rendra toujours intéressant, quoique gaulois.
 
-<p style="text-align:center">[15] 727</p>
+<p style="text-align:center">[15;727]</p>
 
 N° 28.
 On connaît les charmants contes que M. de Tressan nous a donnés dans sa vieillesse.
@@ -442,7 +442,7 @@ On rendit publique, quelque temps après la mort de Monseigneur le Dauphin, une 
 N° 33.
 Nos Sculpteurs donnent depuis quelque temps au Louvre le spectacle de nos grands hommes dans tous les genres; ils méritent les éloges de la Nation, qui leur en fait bon gré.
 
-<p style="text-align:center">[16] 728</p>
+<p style="text-align:center">[16;728]</p>
 
 N° 34.
 La mort récente de M. le Duc de Brunswick[^59], et la respectable occasion, qui a terminé ses jours, sont généralement connues. On assure qu’un de nos Princes offre une médaille de très grand prix pour celui de nos Poètes qui fera la meilleure pièce de vers, au jugement de l’Académie, sur la vie et les actions de ce bon Prince.                                                                                         
