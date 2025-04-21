@@ -194,7 +194,7 @@ Du bon Roi[^17] qu’il servit, les vertus, les faits d’armes
 Et naïfs comme lui, retraçons les guerriers.  
 
 
-Tressan contait de même, il avait sa magie (28)  
+Tressan[^18] contait de même, il avait sa magie (28)  
 On l’aurait cru du temps de la Chevalerie.  
 Chaque règne a ses faits, nos Rois les moins heureux  
 Ont même des tableaux dignes de leurs neveux.  
@@ -298,16 +298,16 @@ L’Ecole de Paris n’aura plus de rivales.
                                                                
                               F I N.            
 
-**Note manuscrite se trouvant sur la dernière page de la brochure**
-Si l’auteur n’a eu dessein que de faire, à l’égard du salon, ce qu’on fait pour la géographie et l’histoire, en soulageant par des XXX techniques la mémoire des jeunes gens qui apprennent ces sciences (?), il faut lui savoir gré de son travail. Mais sa mémoire l’a lui-même mal servi, puisqu’après avoir parlé du tableau de monsieur VIEN, il en décrit un de monsieur VINCENT qui n’a pas été exposé. Voici l’article. 
-*"J’aime mieux voir Sully sur un simple brancard etc"* (page 716).
-L’auteur a, de plus, fait une longue note au sujet de cette composition qu’on a pas vue. Il se plaint de ce  qu’il y a longtemps qu’on nous fait des tableaux d’un autre pays que le nôtre. C’est ce qui lui fait préférer  le Sully de monsieur VINCENT au Priam de monsieur VIEN, qu’il n’a pourtant pas eu, dit-il, l’intention de critiquer.
-*"Mais pourquoi s’attendrir sur ces nobles forfait ?"* etc (page 716).
+**Note manuscrite se trouvant sur la dernière page de la brochure**\
+Si l’auteur n’a eu dessein que de faire, à l’égard du salon, ce qu’on fait pour la géographie et l’histoire, en soulageant par des XXX techniques la mémoire des jeunes gens qui apprennent ces sciences (?), il faut lui savoir gré de son travail. Mais sa mémoire l’a lui-même mal servi, puisqu’après avoir parlé du tableau de monsieur VIEN, il en décrit un de monsieur VINCENT qui n’a pas été exposé. Voici l’article.\ 
+*"J’aime mieux voir Sully sur un simple brancard etc"* (page 716).\
+L’auteur a, de plus, fait une longue note au sujet de cette composition qu’on a pas vue. Il se plaint de ce  qu’il y a longtemps qu’on nous fait des tableaux d’un autre pays que le nôtre. C’est ce qui lui fait préférer  le Sully de monsieur VINCENT au Priam de monsieur VIEN, qu’il n’a pourtant pas eu, dit-il, l’intention de critiquer.\
+*"Mais pourquoi s’attendrir sur ces nobles forfait ?"* etc (page 716).\
 L’auteur consacre presque toutes ses réflexions, et elle, mérite par là des éloges, à ces regrets amers sur ce que nos artistes ne s’occupent pas assez des annales. On doit, en faveur de son zèle, lui passer des négligences, des épithètes mal choisies et des expressions impropres. 
                     
 [ 10 ] 722
 
-**Notes tirées de l'explication des Peintures du Salon de 1785, et autres notes.**
+**Notes tirées de l'explication des Peintures du Salon de 1785, et autres notes.**\
 
 N°1.
 Le serment des Horaces entre les mains de leur père. Tableau de M. David[^21].
@@ -365,79 +365,81 @@ N°16.
 Au-dessous du portrait de la Reine, Monseigneur le Dauphin, et Madame, fille du Roi, tenant un nid d'oiseaux dans un jardin. Ce tableau est de Madame le Brun.                                                             
 
 N° 17.                                               
-Une marine avec une tempête, et le naufrage d’un vaisseau ; par M. Vernet. Je me suis rappelé, en voyant le tableau, la tempête et le danger que j’ai couru dans la rade de Bourgneuf à la hauteur de Pornic ; et à la vue des rochers qui bordent cette côte, les pinceaux de M. Vernet m'ont paru aussi fidèles que ma mémoire.
+Une marine avec une tempête, et le naufrage d’un vaisseau ; par M. Vernet. Je me suis rappelé, en voyant le tableau, la tempête et le danger que j’ai couru dans la rade de Bourgneuf à la hauteur de Pornic ; et à la vue des rochers qui bordent cette côte, les pinceaux de M. Vernet[^37] m'ont paru aussi fidèles que ma mémoire.
 
-[13] 725                                                                               
+[13] 725
 
-N° 18.                                                                             
-Achille traînant le corps d’Hector devant les murs de Troye ; et sous les yeux de Priam et d'Hécube qui implorent le vainqueur. Ce tableau est de M. Callet.                                                  
+N° 18.
+Achille traînant le corps d’Hector devant les murs de Troye ; et sous les yeux de Priam et d'Hécube qui implorent le vainqueur. Ce tableau est de M. Callet[^38].
 
-N° 19.                                          
+N° 19.
 Mort de Priam.
-Priam, voyant la ville de Troye livrée aux ennemis et aux flammes, s’était réfugié avec sa femme et ses filles dans une cour de son Palais. Polite son fils, poursuivi par Pyrrhus, vient expirer à la vue de ses parents. Ce père infortuné voulant venger la mort de Polite, tombe sous le fer du vainqueur qui l’immole sur le corps du dernier de ses fils, et près d’un autel consacré aux Dieux Pénates. Ce tableau est de M. Renaud.                                      
-                                                                                     
- N° 20.                                              
-Si les fables d'Homère ont leur mérite, la Chevalerie de M. Tressan a le sien.                     
+Priam, voyant la ville de Troye livrée aux ennemis et aux flammes, s’était réfugié avec sa femme et ses filles dans une cour de son Palais. Polite son fils, poursuivi par Pyrrhus, vient expirer à la vue de ses parents. Ce père infortuné voulant venger la mort de Polite, tombe sous le fer du vainqueur qui l’immole sur le corps du dernier de ses fils, et près d’un autel consacré aux Dieux Pénates. Ce tableau est de M. Renaud[^39].
 
-N ° 21.                                                
-Sully, ayant reçu plusieurs blessures à la bataille d'Ivry, se retirait le lendemain à Roni, porté dans une litière faite à la hâte de branches d’arbres ; il était précédé de son Écuyer et de ses Pages, suivi des prisonniers qu’il avait faits, et de sa Compagnie de Gens-d’Armes ; sa marche avoir l’air d’un petit triomphe. Le Roi, qui était à la chasse, l’ayant rencontré, parut se réjouir de ce spectacle, s’approcha du brancard lui donna tous les témoignages de la sensibilité qu’un ami peut donner à son ami. Ce Prince lui dit en s’éloignant : « Adieu mon ami, portez-vous bien, et soyez sûr que vous avez un bon maître ». En donnant la préférence au tableau de M. Vincent, je n’ai pas l'intention de critiquer le beau tableau de M. Vien. Cet Artiste voudra bien me pardonner d’aimer davantage l’ami de Henri IV, que le                      
+N° 20.
+Si les fables d'Homère ont leur mérite, la Chevalerie de M. Tressan[^41] a le sien.
 
-[14] 726                                                      
-fils de Priam et les Troyens affligés de sa mort ; et puis il y a longtemps qu’on nous fait les tableaux d’un autre pays que le nôtre       
+N ° 21.
+Sully, ayant reçu plusieurs blessures à la bataille d'Ivry, se retirait le lendemain à Roni, porté dans une litière faite à la hâte de branches d’arbres ; il était précédé de son Écuyer et de ses Pages, suivi des prisonniers qu’il avait faits, et de sa Compagnie de Gens-d’Armes ; sa marche avoir l’air d’un petit triomphe. Le Roi, qui était à la chasse, l’ayant rencontré, parut se réjouir de ce spectacle, s’approcha du brancard lui donna tous les témoignages de la sensibilité qu’un ami peut donner à son ami. Ce Prince lui dit en s’éloignant : « Adieu mon ami, portez-vous bien, et soyez sûr que vous avez un bon maître ». En donnant la préférence au tableau de M. Vincent, je n’ai pas l'intention de critiquer le beau tableau de M. Vien. Cet Artiste voudra bien me pardonner d’aimer davantage l’ami de Henri IV, que le
+
+<p style="text-align:center">[14] 726</p>
+
+fils de Priam et les Troyens affligés de sa mort ; et puis il y a longtemps qu’on nous fait les tableaux d’un autre pays que le nôtre.
 
 N° 22.                                                            
-On voit encore de nos jours le fauteuil du bon Roi Dagobert dans le Trésor de Saint-Denis s’il faut en croire les Religieux de l’Abbaye, et il fait foule.                                 
+On voit encore de nos jours le fauteuil[^42] du bon Roi Dagobert dans le Trésor de Saint-Denis s’il faut en croire les Religieux de l’Abbaye, et il fait foule.
 
-N° 23.                                                            
-Clovis fut celui de nos Rois de la première race qui pénétra dans l'intérieur de la France, et qui fit plus de conquête; on le regarde comme le vrai fondateur de notre Monarchie.            
+N° 23.
+Clovis[^43] fut celui de nos Rois de la première race qui pénétra dans l'intérieur de la France, et qui fit plus de conquête; on le regarde comme le vrai fondateur de notre Monarchie.
 
-N° 24.                                                            
-Charlemagne est un des plus grands Rois qui aient existé ; nous lui devons des lois sages, et nos premières écoles ; il ne devrait pas être indifférent pour les arts.                       
+N° 24.
+Charlemagne[^44] est un des plus grands Rois qui aient existé ; nous lui devons des lois sages, et nos premières écoles ; il ne devrait pas être indifférent pour les arts.
 
-N° 25.                                                            
-Depuis Hugues Capet jusqu’à nos jours, les Montmorencis ont presque toujours commandé nos armées avec le succès qui détermine l'héroïsme : l’un d’eux épousa la veuve de Louis-le-Gros, et servit de père à son fils.
-                       
-N° 26.                                                            
-Philippe Auguste, avant la bataille de Bovines, offrit sa Couronne au plus digne de la porter ; cet acte seul de patriotisme lui eût donné le Trône dont il voulait descendre ; l’armée n'en vit pas de plus digne que lui de la commander, elle le continua dans le rang de ses pères,                               
+N° 25.
+Depuis Hugues Capet[^45] jusqu’à nos jours, les Montmorencis ont presque toujours commandé nos armées avec le succès qui détermine l'héroïsme : l’un d’eux[^46] épousa la veuve de Louis-le-Gros[^47], et servit de père à son fils.
 
-N° 27.                                                            
-Joinville était le contemporain de S. Louis, et son Historien ; son style naïf, touchant et vrai le rendra toujours intéressant, quoique gaulois.     
+N° 26.
+Philippe Auguste[^48], avant la bataille de Bovines, offrit sa Couronne au plus digne de la porter ; cet acte seul de patriotisme lui eût donné le Trône dont il voulait descendre ; l’armée n'en vit pas de plus digne que lui de la commander, elle le continua dans le rang de ses pères.
 
-[15] 727                                                                                          
+N° 27.
+Joinville[^49] était le contemporain de S. Louis[^50], et son Historien ; son style naïf, touchant et vrai le rendra toujours intéressant, quoique gaulois.
 
-N° 28.                                                                
-On connaît les charmants contes que M. de Tressan nous a donnés dans sa vieillesse.          
-                                  
-N° 29.                                                                
-Le Connétable du Guesclin chassa les Anglais du Royaume, fit rentrer les Provinces conquises et la Guyenne sous la domination de Charles V. Ce Roi voulut bien être le Sully de son temps, et confier les expéditions militaires à son brave Connétable ; il fit bien.           
-                                  
-N° 30.                                            
-Charles VII, déshérité sous un Gouvernement faible et partagé, se trouvait à la mort de Charles VI, son père, borné àla plus petite de ses Provinces ; il fît rentrer ses peuples sous sa domination, et les rendit heureux. Louis XII fut surnommé le père de ses peuples , et ce n'était point un vain titre, il le mérita jusqu’à sa mort. François I, héritier du Milanais, du Chef de Valentine, son aïeule, voulut en faire la conquête : ses guerres d’Italie lui donnèrent l’occasion de fixer les arts en France ; il en avait l’esprit et le goût.                              
+<p style="text-align:center">[15] 727</p>
 
-N° 31.                                                                
-Tout le monde sait le mot populaire de Henri IV, et l’on retient toujours ce qui fait plaisir.                                 
+N° 28.
+On connaît les charmants contes que M. de Tressan nous a donnés dans sa vieillesse.
 
-N° 32.                                                                
-On rendit publique, quelque temps après la mort de Monseigneur le Dauphin, une lettre intéressante que M. le Duc de Nivernais reçut d’un Anglais ; on l’aurait crue d’un Français.      
+N° 29.
+Le Connétable du Guesclin[^51] chassa les Anglais du Royaume, fit rentrer les Provinces conquises et la Guyenne sous la domination de Charles V[^52]. Ce Roi voulut bien être le Sully de son temps, et confier les expéditions militaires à son brave Connétable ; il fit bien.
 
-N° 33.                                                                
+N° 30.
+Charles VII[^53], déshérité sous un Gouvernement faible et partagé, se trouvait à la mort de Charles VI[^54], son père, borné àla plus petite de ses Provinces ; il fît rentrer ses peuples sous sa domination, et les rendit heureux. Louis XII[^55] fut surnommé le père de ses peuples , et ce n'était point un vain titre, il le mérita jusqu’à sa mort. François I[^56], héritier du Milanais, du Chef de Valentine, son aïeule, voulut en faire la conquête : ses guerres d’Italie lui donnèrent l’occasion de fixer les arts en France ; il en avait l’esprit et le goût.
+
+N° 31.
+Tout le monde sait le mot populaire de Henri IV[^57], et l’on retient toujours ce qui fait plaisir.
+
+N° 32.
+On rendit publique, quelque temps après la mort de Monseigneur le Dauphin, une lettre intéressante que M. le Duc de Nivernais[^58] reçut d’un Anglais ; on l’aurait crue d’un Français.
+
+N° 33.
 Nos Sculpteurs donnent depuis quelque temps au Louvre le spectacle de nos grands hommes dans tous les genres; ils méritent les éloges de la Nation, qui leur en fait bon gré.
-[16] 728
-                                                                                                                                                                                                                                   
-N° 34.                                                                                                                                                                                                                                  
-La mort récente de M. le Duc de Brunswick, et la respectable occasion, qui a terminé ses jours, sont généralement connues. On assure qu’un de nos Princes offre une médaille de très grand prix pour celui de nos Poètes qui fera la meilleure pièce de vers, au jugement de l’Académie, sur la vie et les actions de ce bon Prince.                                                                                         
 
-N° 35.                                                                                                                                                                                                                                     
+<p style="text-align:center">[16] 728</p>
+
+N° 34.
+La mort récente de M. le Duc de Brunswick[^59], et la respectable occasion, qui a terminé ses jours, sont généralement connues. On assure qu’un de nos Princes offre une médaille de très grand prix pour celui de nos Poètes qui fera la meilleure pièce de vers, au jugement de l’Académie, sur la vie et les actions de ce bon Prince.                                                                                         
+
+N° 35.
 M. Vernet est si connu par ses marines, qu’on ne peut guère lui disputer le mérite de ce genre de peinture.                                                                                                                                                                                                  
 
-N° 36.                                                                                                                                                                                                                                           
-Le tableau de Monseigneur le Dauphin et de Madame, fille du Roi, d’une Bacchante, et de plusieurs Dames de qualité, si on les eût rassemblés ; aurait formé la Cour la plus intéressante et la plus belle, on a généralement trouvé M. de Calonne aussi bien fait que ressemblant.                                                                                                                                                                                
+N° 36.
+Le tableau de Monseigneur le Dauphin[^59] et de Madame, fille du Roi, d’une Bacchante, et de plusieurs Dames de qualité, si on les eût rassemblés ; aurait formé la Cour la plus intéressante et la plus belle, on a généralement trouvé M. de Calonne[^60] aussi bien fait que ressemblant.                                                                                                                                                                                
                                                                                                                     
 **FIN.**
 
-*Lu et approuvé, ce 5 Nov. 1785,SUARD*  \
-*Vu l’App, permis d'impr, le 5 Nov. 1785, DE CROSNE.*  \
-*De l'Imprimerie de LAPORTE, rue des Noyers.*  \
+*Lu et approuvé, ce 5 Nov. 1785,SUARD*\
+*Vu l’App, permis d'impr, le 5 Nov. 1785, DE CROSNE.*\
+*De l'Imprimerie de LAPORTE, rue des Noyers.*\
 
 
 [^1]:Elisabeth Vigée Le Brun (1755-1842) est une artiste peintre française, considérée comme une grande portraitiste de son temps.Fervente royaliste, elle sera successivement peintre de la cour de France, de Marie-Antoinette et de Louis XVI, du royaume de Naples, de la Cour de l'empereur de Vienne, de l'empereur de Russie et de la Restauration. On lui connaît aussi plusieurs autoportraits, dont deux avec sa fille.
@@ -462,7 +464,7 @@ Le tableau de Monseigneur le Dauphin et de Madame, fille du Roi, d’une Bacchan
 [^20]: .
 [^21]: .
 [^22]: .
-[^23]: *voir note nuémro 1*
+[^23]: *voir note nuémro [^1]*
 [^24]: .
 [^25]: .
 [^26]: .
@@ -472,11 +474,32 @@ Le tableau de Monseigneur le Dauphin et de Madame, fille du Roi, d’une Bacchan
 [^30]: .
 [^31]: .
 [^32]: .
-[^33]:
+[^33]: .
 [^34]: .
 [^35]: .
 [^36]: .
 [^37]: .
 [^38]: .
 [^39]: . 
+[^40]: .
+[^41]: *voir note numéro 18*
+[^42]: .
+[^43]: *voir note numéro 12*
+[^44]: *voir note numéro 13*
+[^45]: .
+[^47]: .
+[^48]: .
+[^49]: *voir note numéro 16*. 
+[^50]: *voir note numéro 17*. 
+[^51]: .
+[^52]: .
+[^53]: .
+[^54]: .
+[^55]: .
+[^56]: .
+[^57]: .
+[^58]: .
+[^59]: . 
+[^60]: .
+
 
