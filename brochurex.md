@@ -17,7 +17,7 @@ LES TABLEAUX.
                                                 
 J’ai cru voir l'Univers dans le Salon des arts,  
 Je me suis cru dans Rome en voyant [les Horaces](https://collections.louvre.fr/ark:/53355/cl010062239) (1),  
-Pleurant comme un Troyen sur de [tristes remparts]() (2),  
+[Pleurant comme un Troyen sur de tristes remparts](https://ow-mba.angers.fr/fr/notice/2013-22-25-retour-de-priam-avec-le-corps-d-hector-fd182676-2071-43c7-b2ab-9bc5aa36553d) (2),  
 Le Brun[^1] me consolait en me montrant les Grâces[^2] (3).  
 
 
@@ -27,19 +27,19 @@ Les vassaux de nos Rois venaient leur rendre hommage,
 Ces hommes demi-Dieux m’ont parus des vassaux[^3].  
 
         
-Là,c'est un fils vainqueur condamné par son père (5);  
-Auprès de ce tombeau,c'est Cléopâtre en pleurs (6);  
+[Là,c'est un fils vainqueur condamné par son père](https://mba.tours.fr/TPL_CODE/TPL_COLLECTIONPIECE/98-18e.htm?COLLECTIONNUM=13&PIECENUM=119&NOMARTISTE=BER) (5);  
+[Auprès de ce tombeau,c'est Cléopâtre en pleurs](https://ow-mba.angers.fr/fr/notice/2013-22-15-cleopatre-au-tombeau-de-marc-antoine-5d6766c6-0004-476b-84eb-8b7b3bfe5217) (6);  
 Regrettant son amant, qu'elle couvre de fleurs,  
 Et qui va partager son urne cinéraire.  
 
 
-Des Romaines, ici,c'est l’accord généreux,  
+[Des Romaines, ici,c'est l’accord généreux](https://collections.louvre.fr/ark:/53355/cl010057464),  
 Pour aller du Sénat dégager la parole :  
 En déposant leur luxe aux pieds du Capitole,  
 On les voit s’embellir de ce trait vertueux.  
 
 
-Dans un sombre tableau, c'est Alceste mourante (8 et 9),  
+Dans un sombre tableau, c'est [Alceste mourante](https://collections.louvre.fr/ark:/53355/cl010061403) (8 et 9),  
 Pour presser son époux par un dernier effort,  
 [2] 714
 
@@ -51,25 +51,25 @@ D’un seul coup de pinceau la ramène à la vie.
 
 
 Sur ces riches tapis tissus pour la grandeur  
-Expire dans les fers une Reine d'Afie (10);  
+[Expire dans les fers une Reine d'Afie](https://collections.louvre.fr/ark:/53355/cl010066445) (10);  
 Les cris de sa famille amènent le vainqueur,  
 Attendri par des pleurs, sa vertu les essuie.  
 
 
 On aperçoit plus loin une prison s’ouvrir,  
-La femme de Pœtus, dans sa romaine ivresse (11)  
+[La femme de Pœtus](https://www.slam.org/collection/objects/50635/), dans sa romaine ivresse (11)  
 D’un époux trop coupable, accusant la faiblesse.  
 Lui donne en se perçant, l’exemple de mourir.  
 
 
 Un Palais embrasé, des ruines célèbres (12)  
 Nous montre de Vénus le fils religieux,  
-Il veut combattre encorhttps://collections.louvre.fr/ark:/53355/cl010066445e au milieu des ténèbres,  
+Il veut combattre encore au milieu des ténèbres,  
 Pour disputer aux Grecs et son père et ses dieux,  
-Son épouse et son fils enchaînent son courage.  
+[Son épouse et son fils enchaînent son courage](https://collections.louvre.fr/ark:/53355/cl010057847).  
 
 
-Deux serpents, étouff[és dans la main d](https://www.slam.org/collection/objects/50635/)’un enfant (13)  
+[Deux serpents, étouffés dans la main d’un enfant](https://collections.louvre.fr/ark:/53355/cl010062503) (13)  
 D'un enfant près de lui, font pâlir le visage;  
 L’un est le fils des Dieux, et c’est un Dieu naissant,  
 L’autre par sa frayeur se découvre à son père.  
@@ -81,18 +81,18 @@ C'est toujours des Romains la récolte étrangère.
 [3] 715
 
 
-D’un côté c'est un temple et des marbres épars (14),  
-De l'autre est un portique offert à nos regards.  
+[D’un côté c'est un temple et des marbres épars](https://collections.louvre.fr/ark:/53355/cl010062544) (14),  
+[De l'autre est un portique offert à nos regards](https://collections.louvre.fr/ark:/53355/cl010056617).  
 
             
- Mais ici, deux brigands, à ce tronc solitaire (15),  
+ [Mais ici, deux brigands, à ce tronc solitaire](https://www.parismuseescollections.paris.fr/fr/petit-palais/oeuvres/le-marechal-des-logis-d-apres-borel#infos-principales) (15),  
  Attachent la vertu, préparent son tourment ;  
  Ses cris font accourir un brave Militaire  
  Qui fait céder le crime à son bras triomphant.  
 
 
  Sous les yeux de leur mère assis sur des feuillages (16)  
- Une Grâce et l’Amour caressent des oiseaux,  
+ [Une Grâce et l’Amour caressent des oiseaux](https://atravers.hypotheses.org/7042),  
  Ils ont pris de nos bois les fragiles berceaux,  
  Et nourrissent déjà les sujets de leurs âges.  
  Approchons ces enfants, et sans les détourner,  
@@ -100,8 +100,8 @@ De l'autre est un portique offert à nos regards.
  .... Ils font par la bonté les enfants de nos Maîtres,  
  Nos cœurs, en les voyant, savent les deviner.  
                                                                        
-En passant près de là, Vernet sur les rivages (17)  
-Menace, tonne, éclate au milieu des orages,  
+En passant près de là, [Vernet sur les rivages (17)  
+Menace, tonne, éclate au milieu des orages](https://utpictura18.univ-amu.fr/notice/5973-tempete-naufrage-dun-vaisseau-vernet),  
 Sur tous les éléments il impose ses lois ;  
 La nature docile, à ses touches savantes,  
 Est calme sur les mers, ou terrible à son choix.  
@@ -110,14 +110,14 @@ Est calme sur les mers, ou terrible à son choix.
 Sur des toiles de mort et de sang dégoûtantes,  
 Deux Peintres, dans l’accès d’un délire effrayant,  
 D’Achille[^5] et de son fils[^6] expriment la vengeance ;  
-L’un nous montre d’Hector le cadavre sanglant (18)  
-Et traîné sous des murs qu’il laisse sans défense.  
+[L’un nous montre d’Hector le cadavre sanglant (18)  
+Et traîné sous des murs qu’il laisse sans défense](https://collections.louvre.fr/ark:/53355/cl010061091).  
 [4] 716
 
 
-L’autre fait voir Pyrrhus par la rage animé (19)  
+[L’autre fait voir Pyrrhus par la rage animé (19)  
 Dont le bras furieux, malgré sa voix plaintive,  
-Poignarde sur l'autel un vieillard désarmé[^7].  
+Poignarde sur l'autel un vieillard désarmé](https://utpictura18.univ-amu.fr/notice/20081-mort-priam-regnault)[^7].  
 Le monstre ose insulter son âme fugitive,  
 Joignant le père au fils sur des marbres fumants,  
 Son fer menace encore les femmes, les enfants.  
@@ -137,9 +137,9 @@ Il peut se faire aussi qu’on nous succède un jour,
 Et la postérité doit savoir notre histoire.  
 
 
-J’aime mieux voir Sully sur un simple brancart (21)  
+[J’aime mieux voir Sully sur un simple brancart (21)  
 Noblement entouré des drapeaux de Mayenne,  
-Et pleuré par Henry, que la race troyenne  
+Et pleuré par Henry](https://collections.louvre.fr/ark:/53355/cl010057667), que la race troyenne  
 Qui gémit sur Hector[^9] étendu sur un char.  
 
 
@@ -292,8 +292,8 @@ Pierre va les guider ; riche de ses moyens,
 L’Ecole de Paris n’aura plus de rivales.  
 
 
-Vernet s’est emparé de l’empire des mers (35 et 36);  
-Le Brun peindra l’Amour, Vénus et nos   Colberts.                                                                           
+[Vernet s’est emparé de l’empire des mers](https://collections.louvre.fr/ark:/53355/cl010056364) (35 et 36);  
+[Le Brun peindra l’Amour, Vénus et nos   Colberts](https://collections.louvre.fr/ark:/53355/cl020610704).                                                                           
                                                                
                                                                
                               F I N.            
@@ -433,13 +433,15 @@ M. Vernet est si connu par ses marines, qu’on ne peut guère lui disputer le m
 N° 36.                                                                                                                                                                                                                                           
 Le tableau de Monseigneur le Dauphin et de Madame, fille du Roi, d’une Bacchante, et de plusieurs Dames de qualité, si on les eût rassemblés ; aurait formé la Cour la plus intéressante et la plus belle, on a généralement trouvé M. de Calonne aussi bien fait que ressemblant.                                                                                                                                                                                
                                                                                                                     
-F I N.                                                                                                                                                                                                                                     
+**FIN.**
 
-Lu et approuvé, ce 5 Nov. 1785, SUARD                                                                                                                                                                                                         
-Vu l’App, permis d'impr, le 5 Nov. 1785, DE CROSNE.                                                                                                                                                                                          De l'Imprimerie de LAPORTE, rue des Noyers.                                                                                                                                             
+*Lu et approuvé, ce 5 Nov. 1785,SUARD*
+*Vu l’App, permis d'impr, le 5 Nov. 1785, DE CROSNE.*
+*De l'Imprimerie de LAPORTE, rue des Noyers.*
+
 
 [^1]:Elisabeth Vigée Le Brun (1755-1842) est une artiste peintre française, considérée comme une grande portraitiste de son temps.Fervente royaliste, elle sera successivement peintre de la cour de France, de Marie-Antoinette et de Louis XVI, du royaume de Naples, de la Cour de l'empereur de Vienne, de l'empereur de Russie et de la Restauration. On lui connaît aussi plusieurs autoportraits, dont deux avec sa fille.
-[^2]:Les portraits de Madame Le BRUN ([nom du tableau](lien),[nom du tableau](lien),[nom du tableau](lien),[nom du tableau](lien),[nom du tableau](lien), etc)
+[^2]:Les portraits de Madame Le BRUN ([Portraits M. de Calonne, Ministre d’Etat & Contrôleur-Général des Finances](https://salons.musee-orsay.fr/Detail/objects/44279),[Portraits Mme la Comtesse de Ségur](https://salons.musee-orsay.fr/Detail/objects/44280),[Portraits Mme la Baronne de Crussol](https://salons.musee-orsay.fr/Detail/objects/44281),[Portraits Mme la Comtesse de Clermont-Tonnerre](https://salons.musee-orsay.fr/Detail/objects/44282),[Portraits Mme la Comtesse de Chatenois](https://salons.musee-orsay.fr/Detail/objects/44284), etc)
 [^3]: .
 [^4]: .
 [^5]: .
@@ -461,11 +463,20 @@ Vu l’App, permis d'impr, le 5 Nov. 1785, DE CROSNE.                           
 [^21]: .
 [^22]: .
 [^23]: *voir note nuémro 1*
-[^4]: .
-[^5]: .
-[^6]: .
-[^7]: .
-[^8]: .
-[^9]: . 
-
+[^24]: .
+[^25]: .
+[^26]: .
+[^27]: .
+[^28]: .
+[^29]: . 
+[^30]: .
+[^31]: .
+[^32]: .
+[^33]:
+[^34]: .
+[^35]: .
+[^36]: .
+[^37]: .
+[^38]: .
+[^39]: . 
 
