@@ -8,9 +8,9 @@ title: brochurex
 
 
 
-### À PARIS;  
-### Chez les Marchands de Nouveautés  
-### M. DCC. LXXXV  
+<p style="text-align:center">À PARIS;  
+Chez les Marchands de Nouveautés  
+M. DCC. LXXXV</p>
 
 
 
