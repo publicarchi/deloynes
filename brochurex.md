@@ -4,16 +4,17 @@ title: brochurex
 
 
 
-# Les Tableaux, ou RÉFLEXIONS TARDIVES D'UN BON HOMME Qui arrive de la Campagne, sur le SALON de 1785.                     
-                                                            
-                                                                                                   
-A PARIS;                                                                                          
-Chez les Marchands de Nouveautés                                                                 
-M. DCC. LXXXV                                                                                      
+# Les Tableaux, ou RÉFLEXIONS TARDIVES D'UN BON HOMME Qui arrive de la Campagne, sur le SALON de 1785.
 
 
-LES TABLEAUX.
 
+### À PARIS;  
+### Chez les Marchands de Nouveautés  
+### M. DCC. LXXXV  
+
+
+
+**LES TABLEAUX.**
                                                 
 J’ai cru voir l'Univers dans le Salon des arts,  
 Je me suis cru dans Rome en voyant [les Horaces](https://collections.louvre.fr/ark:/53355/cl010062239) (1),  
@@ -41,7 +42,9 @@ On les voit s’embellir de ce trait vertueux.
 
 Dans un sombre tableau, c'est [Alceste mourante](https://collections.louvre.fr/ark:/53355/cl010061403) (8 et 9),  
 Pour presser son époux par un dernier effort,  
-[2] 714
+
+<p style="text-align:center">[2] 714</p>
+
 
         
 On lui voit tendre encore une main défaillante;  
@@ -78,7 +81,9 @@ L’autre par sa frayeur se découvre à son père.
 Promenons-nous encore dans les riches moissons,  
 Que sèment tous les ans nos fertiles crayons ;  
 C'est toujours des Romains la récolte étrangère.  
-[3] 715
+
+<p style="text-align:center">[3] 715</p>
+
 
 
 [D’un côté c'est un temple et des marbres épars](https://collections.louvre.fr/ark:/53355/cl010062544) (14),  
@@ -111,14 +116,16 @@ Sur des toiles de mort et de sang dégoûtantes,
 Deux Peintres, dans l’accès d’un délire effrayant,  
 D’Achille[^5] et de son fils[^6] expriment la vengeance ;  
 [L’un nous montre d’Hector le cadavre sanglant (18)  
-Et traîné sous des murs qu’il laisse sans défense](https://collections.louvre.fr/ark:/53355/cl010061091).  
-[4] 716
+Et traîné sous des murs qu’il laisse sans défense](https://collections.louvre.fr/ark:/53355/cl010061091).    
+
+<p style="text-align:center">[4] 716</p>
+
 
 
 [L’autre fait voir Pyrrhus par la rage animé (19)  
 Dont le bras furieux, malgré sa voix plaintive,  
 Poignarde sur l'autel un vieillard désarmé](https://utpictura18.univ-amu.fr/notice/20081-mort-priam-regnault)[^7].  
-Le monstre ose insulter son âme fugitive,  
+Le monstre ose insulter son âme fugitive,
 Joignant le père au fils sur des marbres fumants,  
 Son fer menace encore les femmes, les enfants.  
 On voit couler le sang sous de vastes portiques,  
@@ -146,8 +153,10 @@ Qui gémit sur Hector[^9] étendu sur un char.
 Ces Rois du vieil Homère[^10], ont un air d'imposture(22);  
 On aime ses aïeux, vivants par la peinture,  
 Le bon Roi Dagobert[^11], ce Roi des Chevaliers,  
-Dans sa gothique Cour ferait moins ridicule,  
-[5] 717
+Dans sa gothique Cour ferait moins ridicule,
+
+<p style="text-align:center">[5] 717</p>
+
 
 
 Son fauteuil, entouré de nos braves guerriers,  
@@ -182,7 +191,9 @@ Peignons le Souverain confiant sa Couronne
 Au Héros appelé sur les marches du Trône.  
       
 Plus loin Philippe Auguste,arrachant son bandeau (26),  
-[6] 718  
+
+<p style="text-align:center">[6] 718</p>
+
 L’offre en bon citoyen à de plus dignes têtes,  
 Remis sur le Pavois, et par un choix nouveau  
 Confirmé dans son rang, il marche à ses conquêtes.  
@@ -215,8 +226,10 @@ Pourrait nous, attendrir sur le sort de nos pères.
 
 À ces temps malheureux succède le Héros (31)  
 Dont la valeur brisa les fers de la patrie,  
-Son cœur mit à profit ses moments de repos,  
-[7] 719
+Son cœur mit à profit ses moments de repos,
+
+<p style="text-align:center">[7] 719</p>
+
 
 
 Il voulut sous son règne assurer notre vie.  
@@ -248,8 +261,10 @@ Mais j'allais m’égarer dans des routes profondes,
 J’allais pleurer à Metz, et le front consterné,   
 Joindre au pied des Autels un peuple prosterné.  
 Dans un noble transport, parcourant les deux mondes,  
-J’allais tracer en vers les tableaux de nos jours,  
-[8] 720
+J’allais tracer en vers les tableaux de nos jours,
+
+<p style="text-align:center">[8] 720</p>
+
 
                           
 De la Cour de son père en retraçant les larmes  
@@ -283,8 +298,10 @@ Escortés par nos Rois, nos Peintres animés
 Vont, d’un ordre pompeux, ouvrir la galerie   
 Des Romains, des Toscans, les maîtres renommés,   
 Enfin vont faire place à ceux de la patrie.  
-Les Viens, les Vanloos, les Renauds, les Doyens,  
-[9] 721
+Les Viens, les Vanloos, les Renauds, les Doyens,
+
+<p style="text-align:center">[9] 721</p>
+
 
 
 Les Brenets, les Davids vont peindre nos annales,  
@@ -293,19 +310,20 @@ L’Ecole de Paris n’aura plus de rivales.
 
 
 [Vernet s’est emparé de l’empire des mers](https://collections.louvre.fr/ark:/53355/cl010056364) (35 et 36);  
-[Le Brun peindra l’Amour, Vénus et nos   Colberts](https://collections.louvre.fr/ark:/53355/cl020610704).                                                                           
-                                                               
-                                                               
+[Le Brun peindra l’Amour, Vénus et nos   Colberts](https://collections.louvre.fr/ark:/53355/cl020610704.
+
+                                                                                                                            
                               F I N.            
 
-**Note manuscrite se trouvant sur la dernière page de la brochure**\
-Si l’auteur n’a eu dessein que de faire, à l’égard du salon, ce qu’on fait pour la géographie et l’histoire, en soulageant par des XXX techniques la mémoire des jeunes gens qui apprennent ces sciences (?), il faut lui savoir gré de son travail. Mais sa mémoire l’a lui-même mal servi, puisqu’après avoir parlé du tableau de monsieur VIEN, il en décrit un de monsieur VINCENT qui n’a pas été exposé. Voici l’article.\ 
-*"J’aime mieux voir Sully sur un simple brancard etc"* (page 716).\
-L’auteur a, de plus, fait une longue note au sujet de cette composition qu’on a pas vue. Il se plaint de ce  qu’il y a longtemps qu’on nous fait des tableaux d’un autre pays que le nôtre. C’est ce qui lui fait préférer  le Sully de monsieur VINCENT au Priam de monsieur VIEN, qu’il n’a pourtant pas eu, dit-il, l’intention de critiquer.\
-*"Mais pourquoi s’attendrir sur ces nobles forfait ?"* etc (page 716).\
+**Note manuscrite se trouvant sur la dernière page de la brochure**  \
+
+Si l’auteur n’a eu dessein que de faire, à l’égard du salon, ce qu’on fait pour la géographie et l’histoire, en soulageant par des XXX techniques la mémoire des jeunes gens qui apprennent ces sciences (?), il faut lui savoir gré de son travail. Mais sa mémoire l’a lui-même mal servi, puisqu’après avoir parlé du tableau de monsieur VIEN, il en décrit un de monsieur VINCENT qui n’a pas été exposé. Voici l’article.  \
+*"J’aime mieux voir Sully sur un simple brancard etc"* (page 716).  \
+L’auteur a, de plus, fait une longue note au sujet de cette composition qu’on a pas vue. Il se plaint de ce  qu’il y a longtemps qu’on nous fait des tableaux d’un autre pays que le nôtre. C’est ce qui lui fait préférer  le Sully de monsieur VINCENT au Priam de monsieur VIEN, qu’il n’a pourtant pas eu, dit-il, l’intention de critiquer.  \
+*"Mais pourquoi s’attendrir sur ces nobles forfait ?"* etc (page 716).  \
 L’auteur consacre presque toutes ses réflexions, et elle, mérite par là des éloges, à ces regrets amers sur ce que nos artistes ne s’occupent pas assez des annales. On doit, en faveur de son zèle, lui passer des négligences, des épithètes mal choisies et des expressions impropres. 
                     
-[ 10 ] 722
+<p style="text-align:center">[ 10 ] 722</p>
 
 **Notes tirées de l'explication des Peintures du Salon de 1785, et autres notes.**\
 
@@ -316,58 +334,58 @@ N°2.
 Retour de Priam avec le corps d’Hector son fils, tué par Achille. Tableau de M. Vien[^23].
 
 N°3.
-Madame le Brun[^24] a peint différentes Dames de qualité, et ses tableaux, faits avec autant de goût que de ressemblance, ont eu les applaudissements du Public.                                                                                 
-                                  
+Madame le Brun[^24] a peint différentes Dames de qualité, et ses tableaux, faits avec autant de goût que de ressemblance, ont eu les applaudissements du Public.
+
 N° 4.
-On sait que dans la tour du Louvre[^25] les grands Vassaux de la Couronne venaient rendre leur hommage[^26].                                                                                 
-N° 5.                                                                               
-Manlius Torquatus[^27] condamna son fils vainqueur à la mort, pour avoir combattu malgré la défense des Consuls. Ce tableau est de M. Barthélemi[^28].                                                                                                     
+On sait que dans la tour du Louvre[^25] les grands Vassaux de la Couronne venaient rendre leur hommage[^26].
 
-N°6.                                                                                             
-Cléopâtre rendant son dernier hommage à Antoine, et se préparant à la mort. Ce tableau est de M. Ménageot[^29].                                                                     
-                                                                                               
-N° 7.                                                                                              
-Piété et générosité des Dames Romaines qui se défirent de leurs bijoux, pour acquitter le vœu des Romains qui avaient promis une coupe d’or au Dieu Apollon, dans son temple de
-Delphes. Ce tableau est de M.Brenet[^30].                                   
+N° 5.
+Manlius Torquatus[^27] condamna son fils vainqueur à la mort, pour avoir combattu malgré la défense des Consuls. Ce tableau est de M. Barthélemi[^28].
 
-[11] 723                                                       
+N°6.
+Cléopâtre rendant son dernier hommage à Antoine, et se préparant à la mort. Ce tableau est de M. Ménageot[^29].
 
-N° 8.                                                        
+N° 7.
+Piété et générosité des Dames Romaines qui se défirent de leurs bijoux, pour acquitter le vœu des Romains qui avaient promis une coupe d’or au Dieu Apollon, dans son temple de Delphes. Ce tableau est de M.Brenet[^30].
+
+<p style="text-align:center">[11] 723</p>
+
+N° 8.
 Alceste faisant ses adieux à son mari, pour lequel elle s’était dévouée à la mort. Ce tableau, sous le titre de l'Héroïsme conjugal,est de M. Peyron[^31].
 
-N° 9.                                
+N° 9.
 Alceste rendue à son mari par Hercule qui l’avait tirée des enfers. Tableau de M. Ménageot.
 
-N° 10.                                                         
+N° 10.
 Mort de la femme de Darius, et générosité d’Alexandre qui quitte, sur la nouvelle qu’il en reçoit, ses expéditions militaires, et qui vient avec Ephestion consoler Sisigambis et le jeune fils de Darius. Ce tableau est de M. de la Grenée l’aîné[^32].
 
 N° 11.
 Pœtus, arrêté pour une conjuration contre l’Empereur Claude, et prêt d’être condamné, n’avait pas le courage de se donner la mort. Arie sa femme prend un poignard, se l’enfonce dans le sein, et le présentant à son mari, elle lui dit, tenez, Pœtus, il ne m’a pas fait de mal. Ce tableau est de M. Vincent[^33].
 
-N° 12.                                                               
+N° 12.
 Enée, au milieu de la ruine de Troye, n’ayant pu déterminer son père Anchise à quitter son Palais et sa Patrie, veut dans son désespoir retourner au combat, Creüse sa femme empêche cette résolution en lui présentant son fils Ascagne. Ce tableau est de M. Suvée[^34].
 
-N° 13.                                
+N° 13.
 Hercule, enfant, étouffant deux serpents dans son berceau. Amphitryon voulant s’assurer de la distinction qu’il devait faire de deux enfants qu'Alcmène avait mis au jour, fit lâcher deux serpents entre leurs berceaux en présence de la mère, de
 
-[12] 724                                                                                    
+<p style="text-align:center">[12] 724</p>
 
 la nourrice et des femmes du Palais ; le courage du petit Hercule détermina son choix, il reçut son fils Eurysthée, qui se jetta tout effrayé dans ses bras. Ce tableau est de M. Tarraval[^35].
 
- N° 14.                                                           
-Le tableau du temple de Diane à Nîmes, les ruines d’une longue galerie, et le portique d'Octavie à Rome, servant de marché au poisson, sont des tableaux de M. Robert[^36].                            
+N° 14.
+Le tableau du temple de Diane à Nîmes, les ruines d’une longue galerie, et le portique d'Octavie à Rome, servant de marché au poisson, sont des tableaux de M. Robert[^36].
 
-N° 15.                                                           
+N° 15.
 Le Maréchal de Logis.
-Le sieur Gillet, servant dans cette qualité au Régiment d’Artois Cavalerie, retourna de Nevers, sa garnison, à Autun sa patrie, et, s’étant égaré dans sa route, il est attiré dans une forêt par les cris lamentables d’une jeune fille que deux assassins avaient dépouillée et attachée à un arbre ; le brave Militaire vole au secours de l’infortunée, blesse, désarme, et met en fuite l’un des deux scélérats, court au second qui lui lâche un coup de pistolet, le manque, et reçoit lui-même un coup de sabre qui lui abat le poignet, c'est le moment où le sieur Gillet met en fuite le premier assassin, et qu’il combat le second, que M. Willes[^37] a saisi dans son tableau.                                               
+Le sieur Gillet, servant dans cette qualité au Régiment d’Artois Cavalerie, retourna de Nevers, sa garnison, à Autun sa patrie, et, s’étant égaré dans sa route, il est attiré dans une forêt par les cris lamentables d’une jeune fille que deux assassins avaient dépouillée et attachée à un arbre ; le brave Militaire vole au secours de l’infortunée, blesse, désarme, et met en fuite l’un des deux scélérats, court au second qui lui lâche un coup de pistolet, le manque, et reçoit lui-même un coup de sabre qui lui abat le poignet, c'est le moment où le sieur Gillet met en fuite le premier assassin, et qu’il combat le second, que M. Willes[^37] a saisi dans son tableau.
 
-N°16.                                                                                         
-Au-dessous du portrait de la Reine, Monseigneur le Dauphin, et Madame, fille du Roi, tenant un nid d'oiseaux dans un jardin. Ce tableau est de Madame le Brun.                                                             
+N°16.
+Au-dessous du portrait de la Reine, Monseigneur le Dauphin, et Madame, fille du Roi, tenant un nid d'oiseaux dans un jardin. Ce tableau est de Madame le Brun.
 
-N° 17.                                               
+N° 17.
 Une marine avec une tempête, et le naufrage d’un vaisseau ; par M. Vernet. Je me suis rappelé, en voyant le tableau, la tempête et le danger que j’ai couru dans la rade de Bourgneuf à la hauteur de Pornic ; et à la vue des rochers qui bordent cette côte, les pinceaux de M. Vernet[^38] m'ont paru aussi fidèles que ma mémoire.
 
-[13] 725
+<p style="text-align:center">[13] 725</p>
 
 N° 18.
 Achille traînant le corps d’Hector devant les murs de Troye ; et sous les yeux de Priam et d'Hécube qui implorent le vainqueur. Ce tableau est de M. Callet[^39].
@@ -379,7 +397,7 @@ Priam, voyant la ville de Troye livrée aux ennemis et aux flammes, s’était r
 N° 20.
 Si les fables d'Homère ont leur mérite, la Chevalerie de M. Tressan[^41] a le sien.
 
-N ° 21.
+N° 21.
 Sully, ayant reçu plusieurs blessures à la bataille d'Ivry, se retirait le lendemain à Roni, porté dans une litière faite à la hâte de branches d’arbres ; il était précédé de son Écuyer et de ses Pages, suivi des prisonniers qu’il avait faits, et de sa Compagnie de Gens-d’Armes ; sa marche avoir l’air d’un petit triomphe. Le Roi, qui était à la chasse, l’ayant rencontré, parut se réjouir de ce spectacle, s’approcha du brancard lui donna tous les témoignages de la sensibilité qu’un ami peut donner à son ami. Ce Prince lui dit en s’éloignant : « Adieu mon ami, portez-vous bien, et soyez sûr que vous avez un bon maître ». En donnant la préférence au tableau de M. Vincent, je n’ai pas l'intention de critiquer le beau tableau de M. Vien. Cet Artiste voudra bien me pardonner d’aimer davantage l’ami de Henri IV, que le
 
 <p style="text-align:center">[14] 726</p>
@@ -430,16 +448,16 @@ N° 34.
 La mort récente de M. le Duc de Brunswick[^59], et la respectable occasion, qui a terminé ses jours, sont généralement connues. On assure qu’un de nos Princes offre une médaille de très grand prix pour celui de nos Poètes qui fera la meilleure pièce de vers, au jugement de l’Académie, sur la vie et les actions de ce bon Prince.                                                                                         
 
 N° 35.
-M. Vernet est si connu par ses marines, qu’on ne peut guère lui disputer le mérite de ce genre de peinture.                                                                                                                                                                                                  
+M. Vernet est si connu par ses marines, qu’on ne peut guère lui disputer le mérite de ce genre de peinture.
 
 N° 36.
 Le tableau de Monseigneur le Dauphin[^60] et de Madame, fille du Roi, d’une Bacchante, et de plusieurs Dames de qualité, si on les eût rassemblés ; aurait formé la Cour la plus intéressante et la plus belle, on a généralement trouvé M. de Calonne[^61] aussi bien fait que ressemblant.                                                                                                                                                                                
                                                                                                                     
 **FIN.**
 
-*Lu et approuvé, ce 5 Nov. 1785,SUARD*\
-*Vu l’App, permis d'impr, le 5 Nov. 1785, DE CROSNE.*\
-*De l'Imprimerie de LAPORTE, rue des Noyers.*\
+*Lu et approuvé, ce 5 Nov. 1785,SUARD*  \
+*Vu l’App, permis d'impr, le 5 Nov. 1785, DE CROSNE.*  \
+*De l'Imprimerie de LAPORTE, rue des Noyers.*  \
 
 
 [^1]:Elisabeth Vigée Le Brun (1755-1842) est une artiste peintre française, considérée comme une grande portraitiste de son temps.Fervente royaliste, elle sera successivement peintre de la cour de France, de Marie-Antoinette et de Louis XVI, du royaume de Naples, de la Cour de l'empereur de Vienne, de l'empereur de Russie et de la Restauration. On lui connaît aussi plusieurs autoportraits, dont deux avec sa fille.
@@ -461,10 +479,10 @@ Le tableau de Monseigneur le Dauphin[^60] et de Madame, fille du Roi, d’une Ba
 [^17]: .
 [^18]: .
 [^19]: [Jules César](https://fr.wikipedia.org/wiki/Jules_César) est un conquérant, homme d'État et écrivain romain, (100 av. J.-C.-44 av. J.-C.).
-[^20]: [Titus](https://fr.wikipedia.org/wiki/Titus_(empereur_romain) (39-81) est un empereur romain. Il appartient à la dynastie des Flaviens, et règne de 79 à 81.
+[^20]: [Titus](https://fr.wikipedia.org/wiki/Titus_(empereur_romain)) (39-81) est un empereur romain. Il appartient à la dynastie des Flaviens, et règne de 79 à 81.
 [^21]: .
 [^22]: .
-[^23]: *voir note nuémro [^1]*
+[^23]: *voir note numéro [^1]*
 [^24]: .
 [^25]: .
 [^26]: .
@@ -484,13 +502,14 @@ Le tableau de Monseigneur le Dauphin[^60] et de Madame, fille du Roi, d’une Ba
 [^40]: .
 [^41]: *voir note numéro [^18]*
 [^42]: .
-[^43]: *voir note numéro 12*
-[^44]: *voir note numéro 13*
+[^43]: *voir note numéro [^12]*
+[^44]: *voir note numéro [^13]*
 [^45]: .
+[^46]: .
 [^47]: .
 [^48]: .
-[^49]: *voir note numéro 16*. 
-[^50]: *voir note numéro 17*. 
+[^49]: *voir note numéro [^16]*. 
+[^50]: *voir note numéro [^17]*. 
 [^51]: .
 [^52]: .
 [^53]: .
