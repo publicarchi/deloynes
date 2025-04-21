@@ -8,9 +8,9 @@ title: brochurex
 
 
 
-<p style="text-align:center">À PARIS;  
-Chez les Marchands de Nouveautés  
-M. DCC. LXXXV</p>
+<p style="text-align:center">À PARIS;    
+Chez les Marchands de Nouveautés    
+M. DCC. LXXXV  </p>
 
 
 
@@ -315,7 +315,7 @@ L’Ecole de Paris n’aura plus de rivales.
                                                                                                                             
                               F I N.            
 
-**Note manuscrite se trouvant sur la dernière page de la brochure**  \
+**NOTE MANUSCRITE SE TROUVANT SUR LA DERNIÈRE PAGE DE LA BROCHURE**  
 
 Si l’auteur n’a eu dessein que de faire, à l’égard du salon, ce qu’on fait pour la géographie et l’histoire, en soulageant par des XXX techniques la mémoire des jeunes gens qui apprennent ces sciences (?), il faut lui savoir gré de son travail. Mais sa mémoire l’a lui-même mal servi, puisqu’après avoir parlé du tableau de monsieur VIEN, il en décrit un de monsieur VINCENT qui n’a pas été exposé. Voici l’article.  \
 *"J’aime mieux voir Sully sur un simple brancard etc"* (page 716).  \
@@ -325,7 +325,7 @@ L’auteur consacre presque toutes ses réflexions, et elle, mérite par là des
                     
 <p style="text-align:center">[ 10 ] 722</p>
 
-**Notes tirées de l'explication des Peintures du Salon de 1785, et autres notes.**\
+**NOTES TIRÉES DE L'EXPLICATION DES PEINTURES DU SALON DE 1785, ET AUTRES NOTES.**\
 
 N°1.
 Le serment des Horaces entre les mains de leur père. Tableau de M. David[^22].
