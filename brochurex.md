@@ -7,10 +7,12 @@ title: brochurex
 
 
 
-À PARIS;
-Chez les Marchands de Nouveautés
+À PARIS;  
+Chez les Marchands de Nouveautés  
 
 **M. DCC. LXXXV**
+
+
 
 
 **LES TABLEAUX.**
