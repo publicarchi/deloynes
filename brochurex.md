@@ -3,15 +3,14 @@ title: brochurex
 ---
 
 
-
 # Les Tableaux, ou RÉFLEXIONS TARDIVES D'UN BON HOMME Qui arrive de la Campagne, sur le SALON de 1785.
 
 
 
-<p style="text-align:center">À PARIS;</p>
-<p style="text-align:center" >Chez les Marchands de Nouveautés</p>
-<p style="text-align:center">M. DCC. LXXXV</p>
+À PARIS;
+Chez les Marchands de Nouveautés
 
+**M. DCC. LXXXV**
 
 
 **LES TABLEAUX.**
