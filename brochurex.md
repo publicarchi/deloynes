@@ -220,7 +220,7 @@ Son cœur mit à profit ses moments de repos,
 
 
 Il voulut sous son règne assurer notre vie.  
-Ce Prince était César[^18] comme il était Titus[^19],  
+Ce Prince était César[^19] comme il était Titus[^20],  
 Ses enfants de nos jours retracent ses vertus,  
 Et la France, en fixant les traits d’un nouveau maître  
 Oubliant ses regrets, a cru le voir renaître.  
@@ -240,7 +240,7 @@ Ne peuvent déchirer les feuillets de l'histoire,
 Malgré tout son éclat, chaque règne à son rang.  
 Son jeune successeur vit croître son enfance  
 A l’abri des drapeaux d’un peuple triomphant ;  
-Philippe[^20] gouverna ; le jour de la Régence,  
+Philippe[^21] gouverna ; le jour de la Régence,  
 Fit pâlir nos rivaux sous le soleil naissant.  
 
 
@@ -310,71 +310,71 @@ L’auteur consacre presque toutes ses réflexions, et elle, mérite par là des
 **Notes tirées de l'explication des Peintures du Salon de 1785, et autres notes.**\
 
 N°1.
-Le serment des Horaces entre les mains de leur père. Tableau de M. David[^21].
+Le serment des Horaces entre les mains de leur père. Tableau de M. David[^22].
 
 N°2.
-Retour de Priam avec le corps d’Hector son fils, tué par Achille. Tableau de M. Vien[^22].
+Retour de Priam avec le corps d’Hector son fils, tué par Achille. Tableau de M. Vien[^23].
 
 N°3.
-Madame le Brun[^23] a peint différentes Dames de qualité, et ses tableaux, faits avec autant de goût que de ressemblance, ont eu les applaudissements du Public.                                                                                 
+Madame le Brun[^24] a peint différentes Dames de qualité, et ses tableaux, faits avec autant de goût que de ressemblance, ont eu les applaudissements du Public.                                                                                 
                                   
 N° 4.
-On sait que dans la tour du Louvre[^24] les grands Vassaux de la Couronne venaient rendre leur hommage[^25].                                                                                 
+On sait que dans la tour du Louvre[^25] les grands Vassaux de la Couronne venaient rendre leur hommage[^26].                                                                                 
 N° 5.                                                                               
-Manlius Torquatus[^26] condamna son fils vainqueur à la mort, pour avoir combattu malgré la défense des Consuls. Ce tableau est de M. Barthélemi[^27].                                                                                                     
+Manlius Torquatus[^27] condamna son fils vainqueur à la mort, pour avoir combattu malgré la défense des Consuls. Ce tableau est de M. Barthélemi[^28].                                                                                                     
 
 N°6.                                                                                             
-Cléopâtre rendant son dernier hommage à Antoine, et se préparant à la mort. Ce tableau est de M. Ménageot[^28].                                                                     
+Cléopâtre rendant son dernier hommage à Antoine, et se préparant à la mort. Ce tableau est de M. Ménageot[^29].                                                                     
                                                                                                
 N° 7.                                                                                              
 Piété et générosité des Dames Romaines qui se défirent de leurs bijoux, pour acquitter le vœu des Romains qui avaient promis une coupe d’or au Dieu Apollon, dans son temple de
-Delphes. Ce tableau est de M.Brenet[^29].                                   
+Delphes. Ce tableau est de M.Brenet[^30].                                   
 
 [11] 723                                                       
 
 N° 8.                                                        
-Alceste faisant ses adieux à son mari, pour lequel elle s’était dévouée à la mort. Ce tableau, sous le titre de l'Héroïsme conjugal,est de M. Peyron[^30].
+Alceste faisant ses adieux à son mari, pour lequel elle s’était dévouée à la mort. Ce tableau, sous le titre de l'Héroïsme conjugal,est de M. Peyron[^31].
 
 N° 9.                                
 Alceste rendue à son mari par Hercule qui l’avait tirée des enfers. Tableau de M. Ménageot.
 
 N° 10.                                                         
-Mort de la femme de Darius, et générosité d’Alexandre qui quitte, sur la nouvelle qu’il en reçoit, ses expéditions militaires, et qui vient avec Ephestion consoler Sisigambis et le jeune fils de Darius. Ce tableau est de M. de la Grenée l’aîné[^31].
+Mort de la femme de Darius, et générosité d’Alexandre qui quitte, sur la nouvelle qu’il en reçoit, ses expéditions militaires, et qui vient avec Ephestion consoler Sisigambis et le jeune fils de Darius. Ce tableau est de M. de la Grenée l’aîné[^32].
 
 N° 11.
-Pœtus, arrêté pour une conjuration contre l’Empereur Claude, et prêt d’être condamné, n’avait pas le courage de se donner la mort. Arie sa femme prend un poignard, se l’enfonce dans le sein, et le présentant à son mari, elle lui dit, tenez, Pœtus, il ne m’a pas fait de mal. Ce tableau est de M. Vincent[^32].
+Pœtus, arrêté pour une conjuration contre l’Empereur Claude, et prêt d’être condamné, n’avait pas le courage de se donner la mort. Arie sa femme prend un poignard, se l’enfonce dans le sein, et le présentant à son mari, elle lui dit, tenez, Pœtus, il ne m’a pas fait de mal. Ce tableau est de M. Vincent[^33].
 
 N° 12.                                                               
-Enée, au milieu de la ruine de Troye, n’ayant pu déterminer son père Anchise à quitter son Palais et sa Patrie, veut dans son désespoir retourner au combat, Creüse sa femme empêche cette résolution en lui présentant son fils Ascagne. Ce tableau est de M. Suvée[^33].
+Enée, au milieu de la ruine de Troye, n’ayant pu déterminer son père Anchise à quitter son Palais et sa Patrie, veut dans son désespoir retourner au combat, Creüse sa femme empêche cette résolution en lui présentant son fils Ascagne. Ce tableau est de M. Suvée[^34].
 
 N° 13.                                
 Hercule, enfant, étouffant deux serpents dans son berceau. Amphitryon voulant s’assurer de la distinction qu’il devait faire de deux enfants qu'Alcmène avait mis au jour, fit lâcher deux serpents entre leurs berceaux en présence de la mère, de
 
 [12] 724                                                                                    
 
-la nourrice et des femmes du Palais ; le courage du petit Hercule détermina son choix, il reçut son fils Eurysthée, qui se jetta tout effrayé dans ses bras. Ce tableau est de M. Tarraval[^34].
+la nourrice et des femmes du Palais ; le courage du petit Hercule détermina son choix, il reçut son fils Eurysthée, qui se jetta tout effrayé dans ses bras. Ce tableau est de M. Tarraval[^35].
 
  N° 14.                                                           
-Le tableau du temple de Diane à Nîmes, les ruines d’une longue galerie, et le portique d'Octavie à Rome, servant de marché au poisson, sont des tableaux de M. Robert[^35].                            
+Le tableau du temple de Diane à Nîmes, les ruines d’une longue galerie, et le portique d'Octavie à Rome, servant de marché au poisson, sont des tableaux de M. Robert[^36].                            
 
 N° 15.                                                           
 Le Maréchal de Logis.
-Le sieur Gillet, servant dans cette qualité au Régiment d’Artois Cavalerie, retourna de Nevers, sa garnison, à Autun sa patrie, et, s’étant égaré dans sa route, il est attiré dans une forêt par les cris lamentables d’une jeune fille que deux assassins avaient dépouillée et attachée à un arbre ; le brave Militaire vole au secours de l’infortunée, blesse, désarme, et met en fuite l’un des deux scélérats, court au second qui lui lâche un coup de pistolet, le manque, et reçoit lui-même un coup de sabre qui lui abat le poignet, c'est le moment où le sieur Gillet met en fuite le premier assassin, et qu’il combat le second, que M. Willes[^36] a saisi dans son tableau.                                               
+Le sieur Gillet, servant dans cette qualité au Régiment d’Artois Cavalerie, retourna de Nevers, sa garnison, à Autun sa patrie, et, s’étant égaré dans sa route, il est attiré dans une forêt par les cris lamentables d’une jeune fille que deux assassins avaient dépouillée et attachée à un arbre ; le brave Militaire vole au secours de l’infortunée, blesse, désarme, et met en fuite l’un des deux scélérats, court au second qui lui lâche un coup de pistolet, le manque, et reçoit lui-même un coup de sabre qui lui abat le poignet, c'est le moment où le sieur Gillet met en fuite le premier assassin, et qu’il combat le second, que M. Willes[^37] a saisi dans son tableau.                                               
 
 N°16.                                                                                         
 Au-dessous du portrait de la Reine, Monseigneur le Dauphin, et Madame, fille du Roi, tenant un nid d'oiseaux dans un jardin. Ce tableau est de Madame le Brun.                                                             
 
 N° 17.                                               
-Une marine avec une tempête, et le naufrage d’un vaisseau ; par M. Vernet. Je me suis rappelé, en voyant le tableau, la tempête et le danger que j’ai couru dans la rade de Bourgneuf à la hauteur de Pornic ; et à la vue des rochers qui bordent cette côte, les pinceaux de M. Vernet[^37] m'ont paru aussi fidèles que ma mémoire.
+Une marine avec une tempête, et le naufrage d’un vaisseau ; par M. Vernet. Je me suis rappelé, en voyant le tableau, la tempête et le danger que j’ai couru dans la rade de Bourgneuf à la hauteur de Pornic ; et à la vue des rochers qui bordent cette côte, les pinceaux de M. Vernet[^38] m'ont paru aussi fidèles que ma mémoire.
 
 [13] 725
 
 N° 18.
-Achille traînant le corps d’Hector devant les murs de Troye ; et sous les yeux de Priam et d'Hécube qui implorent le vainqueur. Ce tableau est de M. Callet[^38].
+Achille traînant le corps d’Hector devant les murs de Troye ; et sous les yeux de Priam et d'Hécube qui implorent le vainqueur. Ce tableau est de M. Callet[^39].
 
 N° 19.
 Mort de Priam.
-Priam, voyant la ville de Troye livrée aux ennemis et aux flammes, s’était réfugié avec sa femme et ses filles dans une cour de son Palais. Polite son fils, poursuivi par Pyrrhus, vient expirer à la vue de ses parents. Ce père infortuné voulant venger la mort de Polite, tombe sous le fer du vainqueur qui l’immole sur le corps du dernier de ses fils, et près d’un autel consacré aux Dieux Pénates. Ce tableau est de M. Renaud[^39].
+Priam, voyant la ville de Troye livrée aux ennemis et aux flammes, s’était réfugié avec sa femme et ses filles dans une cour de son Palais. Polite son fils, poursuivi par Pyrrhus, vient expirer à la vue de ses parents. Ce père infortuné voulant venger la mort de Polite, tombe sous le fer du vainqueur qui l’immole sur le corps du dernier de ses fils, et près d’un autel consacré aux Dieux Pénates. Ce tableau est de M. Renaud[^40].
 
 N° 20.
 Si les fables d'Homère ont leur mérite, la Chevalerie de M. Tressan[^41] a le sien.
@@ -433,7 +433,7 @@ N° 35.
 M. Vernet est si connu par ses marines, qu’on ne peut guère lui disputer le mérite de ce genre de peinture.                                                                                                                                                                                                  
 
 N° 36.
-Le tableau de Monseigneur le Dauphin[^59] et de Madame, fille du Roi, d’une Bacchante, et de plusieurs Dames de qualité, si on les eût rassemblés ; aurait formé la Cour la plus intéressante et la plus belle, on a généralement trouvé M. de Calonne[^60] aussi bien fait que ressemblant.                                                                                                                                                                                
+Le tableau de Monseigneur le Dauphin[^60] et de Madame, fille du Roi, d’une Bacchante, et de plusieurs Dames de qualité, si on les eût rassemblés ; aurait formé la Cour la plus intéressante et la plus belle, on a généralement trouvé M. de Calonne[^61] aussi bien fait que ressemblant.                                                                                                                                                                                
                                                                                                                     
 **FIN.**
 
@@ -460,8 +460,8 @@ Le tableau de Monseigneur le Dauphin[^59] et de Madame, fille du Roi, d’une Ba
 [^16]: .
 [^17]: .
 [^18]: .
-[^19]: . 
-[^20]: .
+[^19]: [Jules César](https://fr.wikipedia.org/wiki/Jules_César) est un conquérant, homme d'État et écrivain romain, (100 av. J.-C.-44 av. J.-C.).
+[^20]: [Titus](https://fr.wikipedia.org/wiki/Titus_(empereur_romain) (39-81) est un empereur romain. Il appartient à la dynastie des Flaviens, et règne de 79 à 81.
 [^21]: .
 [^22]: .
 [^23]: *voir note nuémro [^1]*
@@ -482,7 +482,7 @@ Le tableau de Monseigneur le Dauphin[^59] et de Madame, fille du Roi, d’une Ba
 [^38]: .
 [^39]: . 
 [^40]: .
-[^41]: *voir note numéro 18*
+[^41]: *voir note numéro [^18]*
 [^42]: .
 [^43]: *voir note numéro 12*
 [^44]: *voir note numéro 13*
@@ -501,5 +501,5 @@ Le tableau de Monseigneur le Dauphin[^59] et de Madame, fille du Roi, d’une Ba
 [^58]: .
 [^59]: . 
 [^60]: .
-
+[^61]: .
 
