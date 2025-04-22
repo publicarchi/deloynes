@@ -453,6 +453,7 @@ M. Vernet est si connu par ses marines, qu’on ne peut guère lui disputer le m
 
 N° 36.
 Le tableau de Monseigneur le Dauphin[^60] et de Madame, fille du Roi, d’une Bacchante, et de plusieurs Dames de qualité, si on les eût rassemblés ; aurait formé la Cour la plus intéressante et la plus belle, on a généralement trouvé M. de Calonne[^61] aussi bien fait que ressemblant.                                                                                                                                                                                
+             
                                                                                                                     
 **FIN.**
 
