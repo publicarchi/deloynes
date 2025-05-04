@@ -311,7 +311,7 @@ L’Ecole de Paris n’aura plus de rivales.
 
 
 [Vernet s’est emparé de l’empire des mers](https://collections.louvre.fr/ark:/53355/cl010056364) (35 et 36);  
-[Le Brun peindra l’Amour, Vénus et nos   Colberts](https://collections.louvre.fr/ark:/53355/cl020610704.
+[Le Brun peindra l’Amour, Vénus et nos   Colberts](https://collections.louvre.fr/ark:/53355/cl020610704).
 
                                                                                                                             
                               F I N.            
