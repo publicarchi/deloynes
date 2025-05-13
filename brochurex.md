@@ -319,11 +319,9 @@ L’Ecole de Paris n’aura plus de rivales.
 
 **NOTE MANUSCRITE SE TROUVANT SUR LA DERNIÈRE PAGE DE LA BROCHURE**  
 
-Si l’auteur n’a eu dessein que de faire, à l’égard du salon, ce qu’on fait pour la géographie et l’histoire, en soulageant par des techniques la mémoire des jeunes gens qui apprennent ces sciences (?), il faut lui savoir gré de son travail. Mais sa mémoire l’a lui-même mal servi, puisqu’après avoir parlé du tableau de monsieur VIEN, il en décrit un de monsieur VINCENT qui n’a pas été exposé. Voici l’article.  \
-*"J’aime mieux voir Sully sur un simple brancard etc"* (page 716).  \
-L’auteur a, de plus, fait une longue note au sujet de cette composition qu’on a pas vue. Il se plaint de ce  qu’il y a longtemps qu’on nous fait des tableaux d’un autre pays que le nôtre. C’est ce qui lui fait préférer  le Sully de monsieur VINCENT au Priam de monsieur VIEN, qu’il n’a pourtant pas eu, dit-il, l’intention de critiquer.  \
-*"Mais pourquoi s’attendrir sur ces nobles forfait ?"* etc (page 716).  \
-L’auteur consacre presque toutes ses réflexions, et elle, mérite par là des éloges, à ces regrets amers sur ce que nos artistes ne s’occupent pas assez des annales. On doit, en faveur de son zèle, lui passer des négligences, des épithètes mal choisies et des expressions impropres. 
+Si l’auteur n’a eu dessein que de faire, à l’égard du salon, ce qu’on fait pour la géographie et l’histoire, en soulageant par des techniques la mémoire des jeunes gens qui apprennent ces sciences (?), il faut lui savoir gré de son travail. Mais sa mémoire l’a lui-même mal servi, puisqu’après avoir parlé du tableau de monsieur VIEN, il en décrit un de monsieur VINCENT qui n’a pas été exposé. Voici l’article : \*"J’aime mieux voir Sully sur un simple brancard etc"* (page 716).  \
+L’auteur a, de plus, fait une longue note au sujet de cette composition qu’on a pas vue. Il se plaint de ce  qu’il y a longtemps qu’on nous fait des tableaux d’un autre pays que le nôtre. C’est ce qui lui fait préférer  le Sully de monsieur VINCENT au Priam de monsieur VIEN, qu’il n’a pourtant pas eu, dit-il, l’intention de critiquer :  \*"Mais pourquoi s’attendrir sur ces nobles forfait ?"* etc (page 716).  \
+L’auteur consacre presque toutes ses réflexions, et elle mérite par là des éloges, à ces regrets amers sur ce que nos artistes ne s’occupent pas assez des annales. On doit, en faveur de son zèle, lui passer des négligences, des épithètes mal choisies et des expressions impropres. 
                     
 <p style="text-align:center">[10;722]</p>
 
@@ -331,11 +329,11 @@ L’auteur consacre presque toutes ses réflexions, et elle, mérite par là des
 
 **N°1.**
 
-Le serment des Horaces entre les mains de leur père. **Tableau de M. David**[^22].
+Le serment des Horaces entre les mains de leur père. *Tableau de M. David*[^22].
 
 **N°2.**
 
-Retour de Priam avec le corps d’Hector son fils, tué par Achille. **Tableau de M. Vien**[^23].
+Retour de Priam avec le corps d’Hector son fils, tué par Achille. *Tableau de M. Vien*[^23].
 
 **N°3.**
 
@@ -351,33 +349,33 @@ Manlius Torquatus[^27] condamna son fils vainqueur à la mort, pour avoir combat
 
 **N°6.**
 
-Cléopâtre rendant son dernier hommage à Antoine, et se préparant à la mort. **Ce tableau est de M. Ménageot**[^29].
+Cléopâtre rendant son dernier hommage à Antoine, et se préparant à la mort. *Ce tableau est de M. Ménageot*[^29].
 
 **N° 7.**
 
-Piété et générosité des Dames Romaines qui se défirent de leurs bijoux, pour acquitter le vœu des Romains qui avaient promis une coupe d’or au Dieu Apollon, dans son temple de Delphes. **Ce tableau est de M.Brenet**[^30].
+Piété et générosité des Dames Romaines qui se défirent de leurs bijoux, pour acquitter le vœu des Romains qui avaient promis une coupe d’or au Dieu Apollon, dans son temple de Delphes. *Ce tableau est de M.Brenet*[^30].
 
 <p style="text-align:center">[11;723]</p>
 
 **N° 8.**
 
-Alceste faisant ses adieux à son mari, pour lequel elle s’était dévouée à la mort. Ce tableau, sous le titre de l'Héroïsme conjugal,est de **M. Peyron**[^31].
+Alceste faisant ses adieux à son mari, pour lequel elle s’était dévouée à la mort. Ce tableau, sous le titre de l'Héroïsme conjugal,est de *M. Peyron*[^31].
 
 **N° 9.**
 
-Alceste rendue à son mari par Hercule qui l’avait tirée des enfers. **Tableau de M. Ménageot.**
+Alceste rendue à son mari par Hercule qui l’avait tirée des enfers. *Tableau de M. Ménageot.*
 
 **N° 10.**
 
-Mort de la femme de Darius, et générosité d’Alexandre qui quitte, sur la nouvelle qu’il en reçoit, ses expéditions militaires, et qui vient avec Ephestion consoler Sisigambis et le jeune fils de Darius. **Ce tableau est de M. de la Grenée l’aîné**[^32].
+Mort de la femme de Darius, et générosité d’Alexandre qui quitte, sur la nouvelle qu’il en reçoit, ses expéditions militaires, et qui vient avec Ephestion consoler Sisigambis et le jeune fils de Darius. *Ce tableau est de M. de la Grenée l’aîné*[^32].
 
 **N° 11.**
 
-Pœtus, arrêté pour une conjuration contre l’Empereur Claude, et prêt d’être condamné, n’avait pas le courage de se donner la mort. Arie sa femme prend un poignard, se l’enfonce dans le sein, et le présentant à son mari, elle lui dit, tenez, Pœtus, il ne m’a pas fait de mal. **Ce tableau est de M. Vincent**[^33].
+Pœtus, arrêté pour une conjuration contre l’Empereur Claude, et prêt d’être condamné, n’avait pas le courage de se donner la mort. Arie sa femme prend un poignard, se l’enfonce dans le sein, et le présentant à son mari, elle lui dit, tenez, Pœtus, il ne m’a pas fait de mal. *Ce tableau est de M. Vincent*[^33].
 
 **N° 12.**
 
-Enée, au milieu de la ruine de Troye, n’ayant pu déterminer son père Anchise à quitter son Palais et sa Patrie, veut dans son désespoir retourner au combat, Creüse sa femme empêche cette résolution en lui présentant son fils Ascagne. **Ce tableau est de M. Suvée**[^34].
+Enée, au milieu de la ruine de Troye, n’ayant pu déterminer son père Anchise à quitter son Palais et sa Patrie, veut dans son désespoir retourner au combat, Creüse sa femme empêche cette résolution en lui présentant son fils Ascagne. *Ce tableau est de M. Suvée*[^34].
 
 **N° 13.**
 
@@ -385,35 +383,35 @@ Hercule, enfant, étouffant deux serpents dans son berceau. Amphitryon voulant s
 
 <p style="text-align:center">[12;724]</p>
 
-La nourrice et des femmes du Palais ; le courage du petit Hercule détermina son choix, il reçut son fils Eurysthée, qui se jetta tout effrayé dans ses bras. **Ce tableau est de M. Tarraval**[^35].
+La nourrice et des femmes du Palais ; le courage du petit Hercule détermina son choix, il reçut son fils Eurysthée, qui se jetta tout effrayé dans ses bras. *Ce tableau est de M. Tarraval*[^35].
 
 **N° 14.**
 
-Le tableau du temple de Diane à Nîmes, les ruines d’une longue galerie, et le portique d'Octavie à Rome, servant de marché au poisson, sont **des tableaux de M. Robert**[^36].
+Le tableau du temple de Diane à Nîmes, les ruines d’une longue galerie, et le portique d'Octavie à Rome, servant de marché au poisson, sont *des tableaux de M. Robert*[^36].
 
 **N° 15.**
 
 Le Maréchal de Logis.
-Le sieur Gillet, servant dans cette qualité au Régiment d’Artois Cavalerie, retourna de Nevers, sa garnison, à Autun sa patrie, et, s’étant égaré dans sa route, il est attiré dans une forêt par les cris lamentables d’une jeune fille que deux assassins avaient dépouillée et attachée à un arbre ; le brave Militaire vole au secours de l’infortunée, blesse, désarme, et met en fuite l’un des deux scélérats, court au second qui lui lâche un coup de pistolet, le manque, et reçoit lui-même un coup de sabre qui lui abat le poignet, c'est le moment où le sieur Gillet met en fuite le premier assassin, et qu’il combat le second, que **M. Willes[^37] a saisi dans son tableau.**
+Le sieur Gillet, servant dans cette qualité au Régiment d’Artois Cavalerie, retourna de Nevers, sa garnison, à Autun sa patrie, et, s’étant égaré dans sa route, il est attiré dans une forêt par les cris lamentables d’une jeune fille que deux assassins avaient dépouillée et attachée à un arbre ; le brave Militaire vole au secours de l’infortunée, blesse, désarme, et met en fuite l’un des deux scélérats, court au second qui lui lâche un coup de pistolet, le manque, et reçoit lui-même un coup de sabre qui lui abat le poignet, c'est le moment où le sieur Gillet met en fuite le premier assassin, et qu’il combat le second, que *M. Willes[^37] a saisi dans son tableau.*
 
 **N°16.**
 
-Au-dessous du portrait de la Reine, Monseigneur le Dauphin, et Madame, fille du Roi, tenant un nid d'oiseaux dans un jardin. **Ce tableau est de Madame le Brun.**
+Au-dessous du portrait de la Reine, Monseigneur le Dauphin, et Madame, fille du Roi, tenant un nid d'oiseaux dans un jardin. *Ce tableau est de Madame le Brun.*
 
 **N° 17.**
 
-Une marine avec une tempête, et le naufrage d’un vaisseau ; **par M. Vernet**. Je me suis rappelé, en voyant le tableau, la tempête et le danger que j’ai couru dans la rade de Bourgneuf à la hauteur de Pornic ; et à la vue des rochers qui bordent cette côte, les pinceaux de M. Vernet[^38] m'ont paru aussi fidèles que ma mémoire.
+Une marine avec une tempête, et le naufrage d’un vaisseau ; *par M. Vernet*. Je me suis rappelé, en voyant le tableau, la tempête et le danger que j’ai couru dans la rade de Bourgneuf à la hauteur de Pornic ; et à la vue des rochers qui bordent cette côte, les pinceaux de M. Vernet[^38] m'ont paru aussi fidèles que ma mémoire.
 
 <p style="text-align:center">[13;725]</p>
 
 **N° 18.**
 
-Achille traînant le corps d’Hector devant les murs de Troye ; et sous les yeux de Priam et d'Hécube qui implorent le vainqueur. **Ce tableau est de M. Callet**[^39].
+Achille traînant le corps d’Hector devant les murs de Troye ; et sous les yeux de Priam et d'Hécube qui implorent le vainqueur. *Ce tableau est de M. Callet*[^39].
 
 **N° 19.**
 
 Mort de Priam.
-Priam, voyant la ville de Troye livrée aux ennemis et aux flammes, s’était réfugié avec sa femme et ses filles dans une cour de son Palais. Polite son fils, poursuivi par Pyrrhus, vient expirer à la vue de ses parents. Ce père infortuné voulant venger la mort de Polite, tombe sous le fer du vainqueur qui l’immole sur le corps du dernier de ses fils, et près d’un autel consacré aux Dieux Pénates. **Ce tableau est de M. Renaud[^40].**
+Priam, voyant la ville de Troye livrée aux ennemis et aux flammes, s’était réfugié avec sa femme et ses filles dans une cour de son Palais. Polite son fils, poursuivi par Pyrrhus, vient expirer à la vue de ses parents. Ce père infortuné voulant venger la mort de Polite, tombe sous le fer du vainqueur qui l’immole sur le corps du dernier de ses fils, et près d’un autel consacré aux Dieux Pénates. *Ce tableau est de M. Renaud[^40].*
 
 **N° 20.**
 
@@ -481,7 +479,7 @@ La mort récente de M. le Duc de Brunswick[^59], et la respectable occasion, qui
 
 **N° 35.**
 
-M. Vernet est si connu par ses marines, qu’on ne peut guère lui disputer le mérite de ce genre de peinture.
+*M. Vernet* est si connu par ses marines, qu’on ne peut guère lui disputer le mérite de ce genre de peinture.
 
 **N° 36.**
 
