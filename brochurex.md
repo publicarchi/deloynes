@@ -314,7 +314,7 @@ L’Ecole de Paris n’aura plus de rivales.
 [Le Brun peindra l’Amour, Vénus et nos   Colberts](https://collections.louvre.fr/ark:/53355/cl020610704).
 
                                                                                                                             
-                                          **F I N.**    
+                                          F I N.
                                
 
 **NOTE MANUSCRITE SE TROUVANT SUR LA DERNIÈRE PAGE DE LA BROCHURE**  
@@ -330,9 +330,11 @@ L’auteur consacre presque toutes ses réflexions, et elle, mérite par là des
 **NOTES TIRÉES DE L'EXPLICATION DES PEINTURES DU SALON DE 1785, ET AUTRES NOTES.**\
 
 N°1.
+
 Le serment des Horaces entre les mains de leur père. **Tableau de M. David**[^22].
 
 N°2.
+
 Retour de Priam avec le corps d’Hector son fils, tué par Achille. **Tableau de M. Vien**[^23].
 
 N°3.
