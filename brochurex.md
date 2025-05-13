@@ -314,7 +314,7 @@ L’Ecole de Paris n’aura plus de rivales.
 [Le Brun peindra l’Amour, Vénus et nos   Colberts](https://collections.louvre.fr/ark:/53355/cl020610704).
 
                                                                                                                             
-                                          <strong> **F I N.**    
+                                          **F I N.**    
                                
 
 **NOTE MANUSCRITE SE TROUVANT SUR LA DERNIÈRE PAGE DE LA BROCHURE**  
