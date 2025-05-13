@@ -329,128 +329,162 @@ L’auteur consacre presque toutes ses réflexions, et elle, mérite par là des
 
 **NOTES TIRÉES DE L'EXPLICATION DES PEINTURES DU SALON DE 1785, ET AUTRES NOTES.**\
 
-N°1.
+**N°1.**
 
 Le serment des Horaces entre les mains de leur père. **Tableau de M. David**[^22].
 
-N°2.
+**N°2.**
 
 Retour de Priam avec le corps d’Hector son fils, tué par Achille. **Tableau de M. Vien**[^23].
 
-N°3.
+**N°3.**
+
 Madame le Brun[^24] a peint différentes Dames de qualité, et ses tableaux, faits avec autant de goût que de ressemblance, ont eu les applaudissements du Public.
 
-N° 4.
+**N° 4.**
+
 On sait que dans la tour du Louvre[^25] les grands Vassaux de la Couronne venaient rendre leur hommage[^26].
 
-N° 5.
+**N° 5.**
+
 Manlius Torquatus[^27] condamna son fils vainqueur à la mort, pour avoir combattu malgré la défense des Consuls. Ce tableau est de M. Barthélemi[^28].
 
-N°6.
+**N°6.**
+
 Cléopâtre rendant son dernier hommage à Antoine, et se préparant à la mort. **Ce tableau est de M. Ménageot**[^29].
 
-N° 7.
+**N° 7.**
+
 Piété et générosité des Dames Romaines qui se défirent de leurs bijoux, pour acquitter le vœu des Romains qui avaient promis une coupe d’or au Dieu Apollon, dans son temple de Delphes. **Ce tableau est de M.Brenet**[^30].
 
 <p style="text-align:center">[11;723]</p>
 
-N° 8.
+**N° 8.**
+
 Alceste faisant ses adieux à son mari, pour lequel elle s’était dévouée à la mort. Ce tableau, sous le titre de l'Héroïsme conjugal,est de **M. Peyron**[^31].
 
-N° 9.
+**N° 9.**
+
 Alceste rendue à son mari par Hercule qui l’avait tirée des enfers. **Tableau de M. Ménageot.**
 
-N° 10.
+**N° 10.**
+
 Mort de la femme de Darius, et générosité d’Alexandre qui quitte, sur la nouvelle qu’il en reçoit, ses expéditions militaires, et qui vient avec Ephestion consoler Sisigambis et le jeune fils de Darius. **Ce tableau est de M. de la Grenée l’aîné**[^32].
 
-N° 11.
+**N° 11.**
+
 Pœtus, arrêté pour une conjuration contre l’Empereur Claude, et prêt d’être condamné, n’avait pas le courage de se donner la mort. Arie sa femme prend un poignard, se l’enfonce dans le sein, et le présentant à son mari, elle lui dit, tenez, Pœtus, il ne m’a pas fait de mal. **Ce tableau est de M. Vincent**[^33].
 
-N° 12.
+**N° 12.**
+
 Enée, au milieu de la ruine de Troye, n’ayant pu déterminer son père Anchise à quitter son Palais et sa Patrie, veut dans son désespoir retourner au combat, Creüse sa femme empêche cette résolution en lui présentant son fils Ascagne. **Ce tableau est de M. Suvée**[^34].
 
-N° 13.
+**N° 13.**
+
 Hercule, enfant, étouffant deux serpents dans son berceau. Amphitryon voulant s’assurer de la distinction qu’il devait faire de deux enfants qu'Alcmène avait mis au jour, fit lâcher deux serpents entre leurs berceaux en présence de la mère. 
 
 <p style="text-align:center">[12;724]</p>
 
 La nourrice et des femmes du Palais ; le courage du petit Hercule détermina son choix, il reçut son fils Eurysthée, qui se jetta tout effrayé dans ses bras. **Ce tableau est de M. Tarraval**[^35].
 
-N° 14.
+**N° 14.**
+
 Le tableau du temple de Diane à Nîmes, les ruines d’une longue galerie, et le portique d'Octavie à Rome, servant de marché au poisson, sont **des tableaux de M. Robert**[^36].
 
-N° 15.
+**N° 15.**
+
 Le Maréchal de Logis.
 Le sieur Gillet, servant dans cette qualité au Régiment d’Artois Cavalerie, retourna de Nevers, sa garnison, à Autun sa patrie, et, s’étant égaré dans sa route, il est attiré dans une forêt par les cris lamentables d’une jeune fille que deux assassins avaient dépouillée et attachée à un arbre ; le brave Militaire vole au secours de l’infortunée, blesse, désarme, et met en fuite l’un des deux scélérats, court au second qui lui lâche un coup de pistolet, le manque, et reçoit lui-même un coup de sabre qui lui abat le poignet, c'est le moment où le sieur Gillet met en fuite le premier assassin, et qu’il combat le second, que **M. Willes[^37] a saisi dans son tableau.**
 
-N°16.
+**N°16.**
+
 Au-dessous du portrait de la Reine, Monseigneur le Dauphin, et Madame, fille du Roi, tenant un nid d'oiseaux dans un jardin. **Ce tableau est de Madame le Brun.**
 
-N° 17.
+**N° 17.**
+
 Une marine avec une tempête, et le naufrage d’un vaisseau ; **par M. Vernet**. Je me suis rappelé, en voyant le tableau, la tempête et le danger que j’ai couru dans la rade de Bourgneuf à la hauteur de Pornic ; et à la vue des rochers qui bordent cette côte, les pinceaux de M. Vernet[^38] m'ont paru aussi fidèles que ma mémoire.
 
 <p style="text-align:center">[13;725]</p>
 
-N° 18.
+**N° 18.**
+
 Achille traînant le corps d’Hector devant les murs de Troye ; et sous les yeux de Priam et d'Hécube qui implorent le vainqueur. **Ce tableau est de M. Callet**[^39].
 
-N° 19.
+**N° 19.**
+
 Mort de Priam.
 Priam, voyant la ville de Troye livrée aux ennemis et aux flammes, s’était réfugié avec sa femme et ses filles dans une cour de son Palais. Polite son fils, poursuivi par Pyrrhus, vient expirer à la vue de ses parents. Ce père infortuné voulant venger la mort de Polite, tombe sous le fer du vainqueur qui l’immole sur le corps du dernier de ses fils, et près d’un autel consacré aux Dieux Pénates. **Ce tableau est de M. Renaud[^40].**
 
-N° 20.
+**N° 20.**
+
 Si les fables d'Homère ont leur mérite, la Chevalerie de M. Tressan[^41] a le sien.
 
-N° 21.
+**N° 21.**
+
 Sully, ayant reçu plusieurs blessures à la bataille d'Ivry, se retirait le lendemain à Roni, porté dans une litière faite à la hâte de branches d’arbres ; il était précédé de son Écuyer et de ses Pages, suivi des prisonniers qu’il avait faits, et de sa Compagnie de Gens-d’Armes ; sa marche avoir l’air d’un petit triomphe. Le Roi, qui était à la chasse, l’ayant rencontré, parut se réjouir de ce spectacle, s’approcha du brancard lui donna tous les témoignages de la sensibilité qu’un ami peut donner à son ami. Ce Prince lui dit en s’éloignant : « Adieu mon ami, portez-vous bien, et soyez sûr que vous avez un bon maître ». En donnant la préférence au tableau de M. Vincent, je n’ai pas l'intention de critiquer le beau tableau de M. Vien. Cet Artiste voudra bien me pardonner d’aimer davantage l’ami de Henri IV, que le fils de Priam et les Troyens affligés de sa mort ; et puis il y a longtemps qu’on nous fait les tableaux d’un autre pays que le nôtre.
 
-N° 22.                                                            
+**N° 22.**  
+
 On voit encore de nos jours le fauteuil[^42] du bon Roi Dagobert dans le Trésor de Saint-Denis s’il faut en croire les Religieux de l’Abbaye, et il fait foule.
 
-N° 23.
+**N° 23.**
+
 Clovis[^43] fut celui de nos Rois de la première race qui pénétra dans l'intérieur de la France, et qui fit plus de conquête; on le regarde comme le vrai fondateur de notre Monarchie.
 
-N° 24.
+**N° 24.**
+
 Charlemagne[^44] est un des plus grands Rois qui aient existé ; nous lui devons des lois sages, et nos premières écoles ; il ne devrait pas être indifférent pour les arts.
 
-N° 25.
+**N° 25.**
+
 Depuis Hugues Capet[^45] jusqu’à nos jours, les Montmorencis ont presque toujours commandé nos armées avec le succès qui détermine l'héroïsme : l’un d’eux[^46] épousa la veuve de Louis-le-Gros[^47], et servit de père à son fils.
 
-N° 26.
+**N° 26.**
+
 Philippe Auguste[^48], avant la bataille de Bovines, offrit sa Couronne au plus digne de la porter ; cet acte seul de patriotisme lui eût donné le Trône dont il voulait descendre ; l’armée n'en vit pas de plus digne que lui de la commander, elle le continua dans le rang de ses pères.
 
-N° 27.
+**N° 27.**
+
 Joinville[^49] était le contemporain de S. Louis[^50], et son Historien ; son style naïf, touchant et vrai le rendra toujours intéressant, quoique gaulois.
 
 <p style="text-align:center">[15;727]</p>
 
-N° 28.
+**N° 28.**
+
 On connaît les charmants contes que M. de Tressan nous a donnés dans sa vieillesse.
 
-N° 29.
+**N° 29.**
+
 Le Connétable du Guesclin[^51] chassa les Anglais du Royaume, fit rentrer les Provinces conquises et la Guyenne sous la domination de Charles V[^52]. Ce Roi voulut bien être le Sully de son temps, et confier les expéditions militaires à son brave Connétable ; il fit bien.
 
-N° 30.
+**N° 30.**
+
 Charles VII[^53], déshérité sous un Gouvernement faible et partagé, se trouvait à la mort de Charles VI[^54], son père, borné àla plus petite de ses Provinces ; il fît rentrer ses peuples sous sa domination, et les rendit heureux. Louis XII[^55] fut surnommé le père de ses peuples , et ce n'était point un vain titre, il le mérita jusqu’à sa mort. François I[^56], héritier du Milanais, du Chef de Valentine, son aïeule, voulut en faire la conquête : ses guerres d’Italie lui donnèrent l’occasion de fixer les arts en France ; il en avait l’esprit et le goût.
 
-N° 31.
+**N° 31.**
+
 Tout le monde sait le mot populaire de Henri IV[^57], et l’on retient toujours ce qui fait plaisir.
 
-N° 32.
+**N° 32.**
+
 On rendit publique, quelque temps après la mort de Monseigneur le Dauphin, une lettre intéressante que M. le Duc de Nivernais[^58] reçut d’un Anglais ; on l’aurait crue d’un Français.
 
-N° 33.
+**N° 33.**
+
 Nos Sculpteurs donnent depuis quelque temps au Louvre le spectacle de nos grands hommes dans tous les genres; ils méritent les éloges de la Nation, qui leur en fait bon gré.
 
 <p style="text-align:center">[16;728]</p>
 
-N° 34.
+**N° 34.**
+
 La mort récente de M. le Duc de Brunswick[^59], et la respectable occasion, qui a terminé ses jours, sont généralement connues. On assure qu’un de nos Princes offre une médaille de très grand prix pour celui de nos Poètes qui fera la meilleure pièce de vers, au jugement de l’Académie, sur la vie et les actions de ce bon Prince.                                                                                         
 
-N° 35.
+**N° 35.**
+
 M. Vernet est si connu par ses marines, qu’on ne peut guère lui disputer le mérite de ce genre de peinture.
 
-N° 36.
+**N° 36.**
+
 Le tableau de Monseigneur le Dauphin[^60] et de Madame, fille du Roi, d’une Bacchante, et de plusieurs Dames de qualité, si on les eût rassemblés ; aurait formé la Cour la plus intéressante et la plus belle, on a généralement trouvé M. de Calonne[^61] aussi bien fait que ressemblant.                                                                                                                                                                                
              
                                                                                                                     
