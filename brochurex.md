@@ -319,8 +319,8 @@ L’Ecole de Paris n’aura plus de rivales.
 
 **NOTE MANUSCRITE SE TROUVANT SUR LA DERNIÈRE PAGE DE LA BROCHURE**  
 
-Si l’auteur n’a eu dessein que de faire, à l’égard du salon, ce qu’on fait pour la géographie et l’histoire, en soulageant par des techniques la mémoire des jeunes gens qui apprennent ces sciences (?), il faut lui savoir gré de son travail. Mais sa mémoire l’a lui-même mal servi, puisqu’après avoir parlé du tableau de monsieur VIEN, il en décrit un de monsieur VINCENT qui n’a pas été exposé. Voici l’article : \*"J’aime mieux voir Sully sur un simple brancard etc"* (page 716).  \
-L’auteur a, de plus, fait une longue note au sujet de cette composition qu’on a pas vue. Il se plaint de ce  qu’il y a longtemps qu’on nous fait des tableaux d’un autre pays que le nôtre. C’est ce qui lui fait préférer  le Sully de monsieur VINCENT au Priam de monsieur VIEN, qu’il n’a pourtant pas eu, dit-il, l’intention de critiquer :  \*"Mais pourquoi s’attendrir sur ces nobles forfait ?"* etc (page 716).  \
+Si l’auteur n’a eu dessein que de faire, à l’égard du salon, ce qu’on fait pour la géographie et l’histoire, en soulageant par des techniques la mémoire des jeunes gens qui apprennent ces sciences (?), il faut lui savoir gré de son travail. Mais sa mémoire l’a lui-même mal servi, puisqu’après avoir parlé du tableau de monsieur VIEN, il en décrit un de monsieur VINCENT qui n’a pas été exposé. Voici l’article : \ *"J’aime mieux voir Sully sur un simple brancard etc"* (page 716).  \
+L’auteur a, de plus, fait une longue note au sujet de cette composition qu’on a pas vue. Il se plaint de ce  qu’il y a longtemps qu’on nous fait des tableaux d’un autre pays que le nôtre. C’est ce qui lui fait préférer  le Sully de monsieur VINCENT au Priam de monsieur VIEN, qu’il n’a pourtant pas eu, dit-il, l’intention de critiquer :  \ *"Mais pourquoi s’attendrir sur ces nobles forfait ?"* etc (page 716).  \
 L’auteur consacre presque toutes ses réflexions, et elle mérite par là des éloges, à ces regrets amers sur ce que nos artistes ne s’occupent pas assez des annales. On doit, en faveur de son zèle, lui passer des négligences, des épithètes mal choisies et des expressions impropres. 
                     
 <p style="text-align:center">[10;722]</p>
@@ -345,7 +345,7 @@ On sait que dans la tour du Louvre[^25] les grands Vassaux de la Couronne venaie
 
 **N° 5.**
 
-Manlius Torquatus[^27] condamna son fils vainqueur à la mort, pour avoir combattu malgré la défense des Consuls. Ce tableau est de M. Barthélemi[^28].
+Manlius Torquatus[^27] condamna son fils vainqueur à la mort, pour avoir combattu malgré la défense des Consuls. *Ce tableau est de M. Barthélemi*[^28].
 
 **N°6.**
 
@@ -392,7 +392,7 @@ Le tableau du temple de Diane à Nîmes, les ruines d’une longue galerie, et l
 **N° 15.**
 
 Le Maréchal de Logis.
-Le sieur Gillet, servant dans cette qualité au Régiment d’Artois Cavalerie, retourna de Nevers, sa garnison, à Autun sa patrie, et, s’étant égaré dans sa route, il est attiré dans une forêt par les cris lamentables d’une jeune fille que deux assassins avaient dépouillée et attachée à un arbre ; le brave Militaire vole au secours de l’infortunée, blesse, désarme, et met en fuite l’un des deux scélérats, court au second qui lui lâche un coup de pistolet, le manque, et reçoit lui-même un coup de sabre qui lui abat le poignet, c'est le moment où le sieur Gillet met en fuite le premier assassin, et qu’il combat le second, que *M. Willes[^37] a saisi dans son tableau.*
+Le sieur Gillet, servant dans cette qualité au Régiment d’Artois Cavalerie, retourna de Nevers, sa garnison, à Autun sa patrie, et, s’étant égaré dans sa route, il est attiré dans une forêt par les cris lamentables d’une jeune fille que deux assassins avaient dépouillée et attachée à un arbre ; le brave Militaire vole au secours de l’infortunée, blessé, désarmé, et met en fuite l’un des deux scélérats, court au second qui lui lâche un coup de pistolet, le manque, et reçoit lui-même un coup de sabre qui lui abat le poignet, c'est le moment où le sieur Gillet met en fuite le premier assassin, et qu’il combat le second, que *M. Willes[^37] a saisi dans son tableau.*
 
 **N°16.**
 
@@ -400,7 +400,7 @@ Au-dessous du portrait de la Reine, Monseigneur le Dauphin, et Madame, fille du 
 
 **N° 17.**
 
-Une marine avec une tempête, et le naufrage d’un vaisseau ; *par M. Vernet*. Je me suis rappelé, en voyant le tableau, la tempête et le danger que j’ai couru dans la rade de Bourgneuf à la hauteur de Pornic ; et à la vue des rochers qui bordent cette côte, les pinceaux de M. Vernet[^38] m'ont paru aussi fidèles que ma mémoire.
+Une marine avec une tempête, et le naufrage d’un vaisseau ; *par M. Vernet*. Je me suis rappelé, en voyant le tableau, la tempête et le danger que j’ai couru dans la rade de Bourgneuf à la hauteur de Pornic ; et à la vue des rochers qui bordent cette côte, les pinceaux de *M. Vernet*[^38] m'ont paru aussi fidèles que ma mémoire.
 
 <p style="text-align:center">[13;725]</p>
 
@@ -419,7 +419,7 @@ Si les fables d'Homère ont leur mérite, la Chevalerie de M. Tressan[^41] a le 
 
 **N° 21.**
 
-Sully, ayant reçu plusieurs blessures à la bataille d'Ivry, se retirait le lendemain à Roni, porté dans une litière faite à la hâte de branches d’arbres ; il était précédé de son Écuyer et de ses Pages, suivi des prisonniers qu’il avait faits, et de sa Compagnie de Gens-d’Armes ; sa marche avoir l’air d’un petit triomphe. Le Roi, qui était à la chasse, l’ayant rencontré, parut se réjouir de ce spectacle, s’approcha du brancard lui donna tous les témoignages de la sensibilité qu’un ami peut donner à son ami. Ce Prince lui dit en s’éloignant : « Adieu mon ami, portez-vous bien, et soyez sûr que vous avez un bon maître ». En donnant la préférence au tableau de M. Vincent, je n’ai pas l'intention de critiquer le beau tableau de M. Vien. Cet Artiste voudra bien me pardonner d’aimer davantage l’ami de Henri IV, que le fils de Priam et les Troyens affligés de sa mort ; et puis il y a longtemps qu’on nous fait les tableaux d’un autre pays que le nôtre.
+Sully, ayant reçu plusieurs blessures à la bataille d'Ivry, se retirait le lendemain à Roni, porté dans une litière faite à la hâte de branches d’arbres ; il était précédé de son Écuyer et de ses Pages, suivi des prisonniers qu’il avait faits, et de sa Compagnie de Gens-d’Armes ; sa marche avait l’air d’un petit triomphe. Le Roi, qui était à la chasse, l’ayant rencontré, parut se réjouir de ce spectacle, s’approcha du brancard et lui donna tous les témoignages de la sensibilité qu’un ami peut donner à son ami. Ce Prince lui dit en s’éloignant : « Adieu mon ami, portez-vous bien, et soyez sûr que vous avez un bon maître ». En donnant la préférence au *tableau de M. Vincent*, je n’ai pas l'intention de critiquer le beau *tableau de M. Vien.* Cet Artiste voudra bien me pardonner d’aimer davantage l’ami de Henri IV, que le fils de Priam et les Troyens affligés de sa mort ; et puis il y a longtemps qu’on nous fait les tableaux d’un autre pays que le nôtre.
 
 **N° 22.**  
 
@@ -486,14 +486,14 @@ La mort récente de M. le Duc de Brunswick[^59], et la respectable occasion, qui
 Le tableau de Monseigneur le Dauphin[^60] et de Madame, fille du Roi, d’une Bacchante, et de plusieurs Dames de qualité, si on les eût rassemblés ; aurait formé la Cour la plus intéressante et la plus belle, on a généralement trouvé M. de Calonne[^61] aussi bien fait que ressemblant.                                                                                                                                                                                
              
                                                                                                                     
-**FIN.**
+                                        **FIN.** 
 
 *Lu et approuvé, ce 5 Nov. 1785,SUARD*  \
 *Vu l’App, permis d'impr, le 5 Nov. 1785, DE CROSNE.*  \
 *De l'Imprimerie de LAPORTE, rue des Noyers.*  \
 
 
-[^1]:Elisabeth Vigée Le Brun (1755-1842) est une artiste peintre française, considérée comme une grande portraitiste de son temps.Fervente royaliste, elle sera successivement peintre de la cour de France, de Marie-Antoinette et de Louis XVI, du royaume de Naples, de la Cour de l'empereur de Vienne, de l'empereur de Russie et de la Restauration. On lui connaît aussi plusieurs autoportraits, dont deux avec sa fille.
+[^1]:Elisabeth Vigée Le Brun (1755-1842) est une artiste peintre française, considérée comme une grande portraitiste de son temps. Fervente royaliste, elle sera successivement peintre de la cour de France, de Marie-Antoinette et de Louis XVI, du royaume de Naples, de la Cour de l'empereur de Vienne, de l'empereur de Russie et de la Restauration. On lui connaît aussi plusieurs autoportraits, dont deux avec sa fille.
 [^2]:Les portraits de Madame Le BRUN ([Portraits M. de Calonne, Ministre d’Etat & Contrôleur-Général des Finances](https://salons.musee-orsay.fr/Detail/objects/44279),[Portraits Mme la Comtesse de Ségur](https://salons.musee-orsay.fr/Detail/objects/44280),[Portraits Mme la Baronne de Crussol](https://salons.musee-orsay.fr/Detail/objects/44281),[Portraits Mme la Comtesse de Clermont-Tonnerre](https://salons.musee-orsay.fr/Detail/objects/44282),[Portraits Mme la Comtesse de Chatenois](https://salons.musee-orsay.fr/Detail/objects/44284), etc)
 [^3]: .
 [^4]: .
