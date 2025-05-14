@@ -486,7 +486,7 @@ La mort récente de M. le Duc de Brunswick[^59], et la respectable occasion, qui
 Le tableau de Monseigneur le Dauphin[^60] et de Madame, fille du Roi, d’une Bacchante, et de plusieurs Dames de qualité, si on les eût rassemblés ; aurait formé la Cour la plus intéressante et la plus belle, on a généralement trouvé M. de Calonne[^61] aussi bien fait que ressemblant.                                                                                                                                                                                
              
                                                                                                                     
-                                        **FIN.** 
+  **FIN.** 
 
 *Lu et approuvé, ce 5 Nov. 1785,SUARD*  \
 *Vu l’App, permis d'impr, le 5 Nov. 1785, DE CROSNE.*  \
