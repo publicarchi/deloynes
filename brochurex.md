@@ -495,7 +495,7 @@ Le tableau de Monseigneur le Dauphin[^60] et de Madame, fille du Roi, d’une Ba
 
 [^1]:Elisabeth Vigée Le Brun (1755-1842) est une artiste peintre française, considérée comme une grande portraitiste de son temps. Fervente royaliste, elle sera successivement peintre de la cour de France, de Marie-Antoinette et de Louis XVI, du royaume de Naples, de la Cour de l'empereur de Vienne, de l'empereur de Russie et de la Restauration. On lui connaît aussi plusieurs autoportraits, dont deux avec sa fille.
 [^2]:Les portraits de Madame Le BRUN ([Portraits M. de Calonne, Ministre d’Etat & Contrôleur-Général des Finances](https://salons.musee-orsay.fr/Detail/objects/44279),[Portraits Mme la Comtesse de Ségur](https://salons.musee-orsay.fr/Detail/objects/44280),[Portraits Mme la Baronne de Crussol](https://salons.musee-orsay.fr/Detail/objects/44281),[Portraits Mme la Comtesse de Clermont-Tonnerre](https://salons.musee-orsay.fr/Detail/objects/44282),[Portraits Mme la Comtesse de Chatenois](https://salons.musee-orsay.fr/Detail/objects/44284), etc)
-[^3]: .
+[^3]: La strophe dans son contexte « hommage, vassaux » fait une référence directe à l’époque du Moyen-âge tandis que les « hommes demi-Dieux » font référence aux personnages de la mythologie Antique.
 [^4]: .
 [^5]: .
 [^6]: .
