@@ -496,20 +496,20 @@ Le tableau de Monseigneur le Dauphin[^60] et de Madame, fille du Roi, d’une Ba
 [^1]:Elisabeth Vigée Le Brun (1755-1842) est une artiste peintre française, considérée comme une grande portraitiste de son temps. Fervente royaliste, elle sera successivement peintre de la cour de France, de Marie-Antoinette et de Louis XVI, du royaume de Naples, de la Cour de l'empereur de Vienne, de l'empereur de Russie et de la Restauration. On lui connaît aussi plusieurs autoportraits, dont deux avec sa fille.
 [^2]:Les portraits de Madame Le BRUN ([Portraits M. de Calonne, Ministre d’Etat & Contrôleur-Général des Finances](https://salons.musee-orsay.fr/Detail/objects/44279),[Portraits Mme la Comtesse de Ségur](https://salons.musee-orsay.fr/Detail/objects/44280),[Portraits Mme la Baronne de Crussol](https://salons.musee-orsay.fr/Detail/objects/44281),[Portraits Mme la Comtesse de Clermont-Tonnerre](https://salons.musee-orsay.fr/Detail/objects/44282),[Portraits Mme la Comtesse de Chatenois](https://salons.musee-orsay.fr/Detail/objects/44284), etc)
 [^3]: La strophe dans son contexte « hommage, vassaux » fait une référence directe à l’époque du Moyen-âge tandis que les « hommes demi-Dieux » font référence aux personnages de la mythologie Antique.
-[^4]: .
-[^5]: .
-[^6]: .
-[^7]: .
-[^8]: .
-[^9]: . 
-[^10]: .
-[^11]: .
-[^12]: .
-[^13]: .
-[^14]: .
-[^15]: .
-[^16]: .
-[^17]: .
+[^4]: .François Guillaume Ménageot, né le 9 juillet 1744 à Londres et mort le 4 octobre 1816 à Paris, est un peintre français. Directeur de l'Académie de France à Rome en 1787 et membre de l'Académie des beaux-arts, son œuvre est essentiellement constituée de scènes religieuses et historiques.
+[^5]: .Achille est un héros légendaire de la guerre de Troie, fils de Pélée, roi de Phthie en Thessalie, et de Thétis, une Néréide (nymphe marine). Thétis le plonge dans le Styx, l'un des fleuves des Enfers, pour que son corps devienne invulnérable ; son talon, par lequel le tient sa mère, n'y est pas trempé et reste celui d'un mortel, ce qui le mènera plus tard à sa perte.
+[^6]: .Néoptolème ou Pyrrhus est le fils d'Achille et l'ancêtre de la dynastie des Éacides qui règne en Épire. Les traditions divergent encore au sujet de sa mort. Selon les uns, il est assassiné par Oreste, amant d'Hermione, selon d'autres, par les habitants de Delphes, où il allait piller le temple d'Apollon pour venger son père.
+[^7]: .Priam est le roi mythique de Troie au moment de la guerre de Troie. Il est fils de Laomédon et de la nymphe Strymo et a pour épouse Hécube. il est tué par Néoptolème, le fils d’Achille, sur l'autel de Zeus dans son palais de Troie.
+[^8]: .Amadis de Gaule est un roman de chevalerie espagnol de Garci Rodríguez de Montalvo, publié en 1508 à Saragosse. L'ouvrage de Montalvo a été adapté en français par Nicolas Herberay des Essarts. Amadis est le type de l'amant constant et respectueux aussi bien que du chevalier errant. Accompagné de son frère Galaor et protégé par l'enchanteur Alquif et la fée Urgande, il doit affronter des épreuves innombrables afin de conquérir la belle Oriane. Amadis joue en Espagne un rôle analogue à celui du roi Arthur en Angleterre et de Charlemagne en France. Les aventures de ce prince n'ont rien d'historique ; on ne sait d'ailleurs pas à quelle époque précise il faut les rapporter.
+[^9]: . Hector est un héros troyen de la guerre de Troie. Fils du roi Priam et de la reine Hécube, il est tué par Achille qui veut venger la mort de Patrocle.
+[^10]: .Homère aurait été un aède de la fin du VIIIe siècle av. J.-C. Les deux premières œuvres de la littérature occidentale que sont l’Iliade et l’Odyssée lui sont attribuées. La place d'Homère dans la littérature grecque est majeure, puisqu'il représente à lui seul le genre épique de cette période
+[^11]: .Dagobert Ier (vers 600-639) est un roi des Francs. Membre de la dynastie des Mérovingiens, arrière-arrière-petit-fils de Clovis Ier, il règne sur le royaume des Francs de 629 à 639. Le Bon Roi Dagobert peut aussi être considéré à cette époque comme est une chanson parodique française anti-royaliste et anticléricale. Elle évoque deux personnages historiques : le roi mérovingien Dagobert Ier (vers 600–639) et son principal conseiller, saint Éloi (vers 588–660), évêque de Noyon. La chanson est dirigée contre Louis XVI et contre les liens entretenus par l'Église catholique avec l'Ancien Régime, mais elle est utilisée plus largement contre les monarchies dans l'histoire de France.
+[^12]: .Clovis Ier (vers 466-511), est roi des Francs saliens, puis roi de tous les Francs de 481 à 511.
+[^13]: .Charlemagne (vers 742-814) est est un roi des Francs et empereur. Il appartient à la dynastie des Carolingiens. Fils de Pépin le Bref et de Bertrade de Laon, il est roi des Francs à partir de 768, devient par conquête roi des Lombards en 774 et est couronné empereur à Rome par le pape Léon III le 24 ou 25 décembre 800.
+[^14]: .Roland, dit « Roland le Preux », mort en 778 à Roncevaux, est un noble franc du début de la période carolingienne, chargé en tant que préfet de la marche de Bretagne, de défendre la frontière du royaume des Francs contre les Bretons installés depuis le Ve siècle à l'ouest de la péninsule armoricaine.
+[^15]: .La maison de Montmorency est une famille de la noblesse française. Entrée en possession à la fin du Xe siècle de la ville de Montmorency, dans l'actuel département du Val-d'Oise en Île-de-France, elle en a pris le nom. Dès ce siècle elle est apparentée aux grands lignages féodaux et par eux aux carolingiens et aux premiers rois capétiens.
+[^16]: .Jean de Joinville (v. 1224 -1317) également connu sous le nom de Sire de Joinville, est un noble champenois, chroniqueur et biographe de Saint Louis. Sénéchal de Champagne et historien du règne, il suit Louis IX à Aigues-Mortes et en Terre sainte lors de la septième croisade. C'est en partie grâce à son témoignage que Saint Louis est canonisé en 1297.
+[^17]: .Louis IX ou Saint-Louis (1214-1270) est un roi de France capétien. Il régna pendant plus de 43 ans, de 1226 jusqu'à sa mort. Considéré comme un saint de son vivant, il est canonisé par l'Église catholique en 1297.
 [^18]: .
 [^19]: [Jules César](https://fr.wikipedia.org/wiki/Jules_César) est un conquérant, homme d'État et écrivain romain, (100 av. J.-C.-44 av. J.-C.).
 [^20]: [Titus](https://fr.wikipedia.org/wiki/Titus_(empereur_romain)) (39-81) est un empereur romain. Il appartient à la dynastie des Flaviens, et règne de 79 à 81.
