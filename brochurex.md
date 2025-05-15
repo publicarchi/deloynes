@@ -513,12 +513,12 @@ Le tableau de Monseigneur le Dauphin[^60] et de Madame, fille du Roi, d’une Ba
 [^18]: Lieutenant-général dans l’armée, Tressan fut attaché à la cour du roi Stanislas comme grand maréchal. Philosophe libéral, il fut l’un des premiers restaurateurs de la littérature romane, traduisit Roland furieux et des romans de chevalerie. Les talents de Tressan étaient multiples : on le sait physicien aussi, mais surtout homme de lettres qui fréquentait le salon parisien de Madame de Tencin.
 [^19]: [Jules César](https://fr.wikipedia.org/wiki/Jules_César) est un conquérant, homme d'État et écrivain romain, (100 av. J.-C.-44 av. J.-C.).
 [^20]: [Titus](https://fr.wikipedia.org/wiki/Titus_(empereur_romain)) (39-81) est un empereur romain. Il appartient à la dynastie des Flaviens, et règne de 79 à 81.
-[^21]: .
-[^22]: .
-[^23]: *voir note numéro [^1]*
-[^24]: .
-[^25]: .
-[^26]: .
+[^21]: Philippe d'Orléans (1674-1723) est le régent du royaume de France pendant la minorité de Louis XV. À la mort de Louis XIV, il devient régent, et son gouvernement, qui dure de 1715 jusqu'à sa mort en 1723, est appelé la Régence.
+[^22]: Jacques-Louis David (1748-1825) est un peintre et conventionnel français. Il est considéré comme le chef de file du mouvement néo-classique, dont il représente le style pictural. Formé à l'Académie royale de peinture et de sculpture, il devient en 1784 un peintre renommé avec Le Serment des Horaces.
+[^23]: Joseph-Marie Vien (1716-1809) est un peintre, dessinateur et graveur français, précurseur du néoclassicisme. En 1771, devient directeur de l’Académie de France à Rome de 1775 à 1781, et est nommé premier peintre du roi le 17 mai 1789, peu de temps avant la suppression de ce titre. Il fonda une école où il forma un nombre prodigieux d’élèves.
+[^24]: Elisabeth Vigée Le Brun (1755-1842) est une artiste peintre française, considérée comme une grande portraitiste de son temps.
+[^25]: Philippe Auguste fait construire une forteresse constituée d'un donjon, appelée la grosse tour du Louvre vers 1202, afin de renforcer la défense de la ville de Paris et d'en faire le centre politique et religieux du royaume.
+[^26]: . 
 [^27]: .
 [^28]: .
 [^29]: . 
