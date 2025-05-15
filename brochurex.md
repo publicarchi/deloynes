@@ -519,39 +519,45 @@ Le tableau de Monseigneur le Dauphin[^60] et de Madame, fille du Roi, d’une Ba
 [^24]: Elisabeth Vigée Le Brun (1755-1842) est une artiste peintre française, considérée comme une grande portraitiste de son temps.
 [^25]: Philippe Auguste fait construire une forteresse constituée d'un donjon, appelée la grosse tour du Louvre vers 1202, afin de renforcer la défense de la ville de Paris et d'en faire le centre politique et religieux du royaume.
 [^26]: . 
-[^27]: .
-[^28]: .
-[^29]: . 
-[^30]: .
-[^31]: .
-[^32]: .
-[^33]: .
-[^34]: .
-[^35]: .
-[^36]: .
-[^37]: .
-[^38]: .
-[^39]: . 
-[^40]: .
+[^27]: .Titus Manlius Torquatus (-279 à -202) était un homme politique de la République romaine. Il est consul en 235 av. J.-C il est consul pour la première fois. Il bat les Sardes, la Sardaigne ayant été acquise sur les Carthaginois après la première guerre punique. En 224 av. J.-C il est consul pour la seconde fois, et il est dictateur en 208 av. J.-C et bat les Carthaginois..
+[^28]: .Jean Simon Berthélemy (1743-1811), est un peintre français, mebre de l'Institut. De 1775 à 1789, il expose régulièrement au Salon des tableaux commandés par la manufacture des Gobelins, œuvres à sujets antiques ou médiévaux,
+[^29]: . François-Guillaume Ménageot, né le 9 juillet 1744 à Londres et mort le 4 octobre 1816 à Paris, est un peintre français. Directeur de l'Académie de France à Rome et membre de l'Académie des beaux-arts, son œuvre est essentiellement constituée de scènes religieuses et historiques. En 1787, il est préféré à David comme directeur de l’Académie de France de Rome et occupe ce poste jusqu’à sa suppression, le 27 novembre 1792.
+[^30]: .Nicolas Guy Brenet (1728-1792) est un peintre et graveur français. On le reconnaît comme précurseur de Jacques-Louis David et comme annonciateur du futur style troubadour dans ses sujets d'histoire médiévale.
+[^31]: .Pierre Peyron (1744-1814) est un peintre et graveur néoclassique français. Peyron fut finalement éclipsé par David aux Salons de 1785 et 1787. À son retour à Paris, il avait envoyé la Mort d’Alceste au Salon de 1785, alors que son rival David y présentait avec succès Le Serment des Horaces Nommé inspecteur de la manufacture des Gobelins, en 1785, il en remplit ses fonctions jusqu’à la Révolution, date à laquelle il vit sa place supprimée.
+
+
+[^32]: .Louis Jean François Lagrenée (1725-1805) est un peintre français. il est nommé professeur de peinture à l'Académie royale de peinture et de sculpture, en remplacement d'Edmé Bouchardon, avant d'être nommé à la direction de l'Académie de France à Rome, de 1781 à 1787. Il mène une carrière de peintre officiel, servant avec constance la politique artistique des Bâtiments du roi et sa préoccupation première, qui fut la régénérescence de la grande peinture. C'est un artiste particulièrement fécond qui s'illustre particulièrement dans les petits tableaux de cabinet aux mythologies galantes, allégories gracieuses.
+
+
+[^33]: .François-André Vincent (1746-1816) est un peintre français. Il est admis à l’Académie royale de peinture et de sculpture en 1777 et, à partir de cette date, expose régulièrement au Salon. Il devient l'un des premiers membres de l’Académie des beaux-arts de l'Institut de France, qui remplace l'Académie royale en 1795.À la Révolution, ses convictions royalistes l’opposent à David.
+[^34]: .Joseph-Benoît Suvée (1743-1807) est un peintre flamand, fortement marqué par la culture néoclassique française. Comme tel, il est l'émule et le concurrent du peintre David qui lui voue une haine persistante. Il est nommé nommé professeur à l'École des beaux-arts de Paris le 31 mars 1792 comme successeur de Brenet. Il est aussi nommé, en 1792, directeur de l'Académie de France à Rome, en remplacement de François-Guillaume Ménageot.
+[^35]: .Hugues Taraval (1729-1785) Hugues Taraval est le fils de Guillaume Taraval (1701-1750), qui lui enseigne les premiers rudiments de la peintre en son titre de premier peintre du roi de Suède, qui réalisait les décors dans des palais royaux. Il devient l'élève au sein de l’Académie royale de peinture et de sculpture. Lauréat du prix de Rome en 1756, avec Job raillé par sa femme. Peintre décorateur, il œuvra notamment à l'École militaire de Paris (1773), et au château de Fontainebleau (1781).
+[^36]: .Hubert Robert (1733 - 1808) est un peintre français, dessinateur, graveur, professeur de dessin, créateur de jardins et conservateur de musée. Il obtient une place de pensionnaire à l’Académie de France à Rome4, de 1759 à 1762. Précédé par une excellente réputation de dessinateur d’architectures en ruines, Hubert Robert est de retour à Paris au mois d’août 1765. Il présente en 1767 plusieurs peintures et dessins d’architectures en ruines salués par la critique, sa participation sera constante au Salon jusqu'en 1798. Déclaré « suspect » par le Comité de surveillance révolutionnaire, il est emprisonné de 1793 à 1794, et certaines de ses oeuvres seront détruites sur la période post-révolutionnaire.
+[^37]: .Pierre-Alexandre Wille (1748-1837), dit « Wille le fils », est un peintre de genre français.Il fut initié à l’art dans l’atelier de son père et, grâce aux relations de celui-ci put assez aisément se produire. Agréé par l’Académie en 1774, il prit part dès lors à la plupart des Salons ainsi qu’à certaines expositions du Salon de la Correspondance entre 1775 et 1819 ; il envoya une aquarelle, mais il n’est pas devenu académicien. La Révolution ruina du même coup le père et le fils.
+[^38]: .Claude Joseph Vernet (1714-1789) est un peintre, dessinateur et graveur français, célèbre pour ses marines et ses paysages. Il est formé dans le Sud Ouest de la France puis part pour Rome pour y étudier le travail des précédents paysagistes et peintres de la marine et il se constitue un solide réseau international. Sa notoriété lui permet de lancer la mode des marines à travers l'Europe. Suite a des commandes d'ordres royales, il agrandit son influences jusqu'à recevoir des commandes à travers le monde.
+[^39]: . Antoine-François Callet (1741-1823) est un peintre français qui obtient le grand prix de Rome en 1764. Il est agréé par l'Académie des beaux-arts en 1779 et expose au Salon à partir de 1783. Il décore le centre du plafond de la grande galerie du palais du Luxembourg et est l'un des portraitistes officiels du roi Louis XVI et est considéré comme l'un des plus grands portraitistes de son temps.
+[^40]: .Jean-Baptiste Regnault (1754 -1829) , est un peintre néo-classique français. Son Diogène visité par Alexandre lui vaut de remporter le Grand Prix de l'Académie royale de peinture et de sculpture, en 1776. Il est reçu à l'Académie royale de peinture et de sculpture en 1783 et expose au Salon. Il connaît un franc succès, est complimenté pour son traitement des couleurs et son goût pour l'Antiquité. Sous le Premier Empire, il est nommé professeur de peinture à l'École des beaux-arts de Paris. Il expose au Salon jusqu'en 1809, puis abandonne sa carrière officielle et continue à peindre pour son plaisir des sujets tirés de la mythologie.
+
+
 [^41]: *voir note numéro [^18]*
-[^42]: .
+[^42]: .Le trône de Dagobert ou fauteuil de Dagobert est un siège en bronze du haut Moyen Âge mentionné pour la première fois par l'abbé Suger au milieu du XIIe siècle, et qui faisait partie du trésor de Saint-Denis. Traditionnellement, il est désigné comme le trône de Dagobert, mais aucune source historique fiable n'atteste précisément de cette fonction. Il est conservé au département des Monnaies, Médailles et Antiques de la Bibliothèque nationale de France.
 [^43]: *voir note numéro [^12]*
 [^44]: *voir note numéro [^13]*
-[^45]: .
-[^46]: .
-[^47]: .
-[^48]: .
+[^45]: .Hugues Capet (939–996) est un roi franc issu de la branche robertienne et fondateur de la dynastie capétienne. Il a été duc des Francs, puis roi des Francs.
+[^46]: .Mathieu Jean Félicité, duc de Montmorency-Laval, (1766-1826), est un militaire et homme politique français révolutionnaire. D'abord admirateur des Philosophes, il se rallie ensuite à la Restauration des Bourbons. Député aux états généraux de 1789, Mathieu de Montmorency-Laval émigre en Suisse. Sous la Restauration, il devient maréchal de camp, pair de France, ministre des Affaires étrangères, et membre de l'Académie française.
+[^47]: .Louis VI, dit « le Gros », « l’Éveillé » ou « le Batailleur », (1081-1137), est roi des Francs du 30 juillet 1108 au 1ᵉʳ août 1137. Il est le cinquième roi de la dynastie dite des Capétiens directs.
+[^48]: .Philippe II dit « Auguste » (1165- 1223), est le septième roi (1180-1223) de la dynastie des Capétiens et le premier monarque auquel est attribué le titre de roi de France. Il est le fils héritier de Louis VII et d'Adèle de Champagne.
 [^49]: *voir note numéro [^16]*. 
 [^50]: *voir note numéro [^17]*. 
-[^51]: .
-[^52]: .
-[^53]: .
-[^54]: .
-[^55]: .
-[^56]: .
-[^57]: .
-[^58]: .
-[^59]: . 
-[^60]: .
-[^61]: .
+[^51]: .Bertrand du Guesclin (1320-1380), est un noble breton, connétable de France et de Castille, personnage majeur de la première partie de la guerre de Cent Ans
+[^52]: .Charles V, dit le Sage, (1338 -1380) fils de Jean II le Bon, est roi de France de 1364 à 1380, troisième représentant de la dynastie des Valois, qui règne sur la France depuis 1328. Son règne marque la fin de la première partie de la guerre de Cent Ans.
+[^53]: .Charles VII, dit « le Victorieux » ou « le Bien Servi », (1403- 1461), est roi de France de 1422 à 1461. Il est le cinquième roi de la branche dite de Valois de la dynastie capétienne. Charles VII est le fils de Charles VI et d'Isabeau de Bavière. Roi indissociable de l'épopée de Jeanne d'Arc, il réussit, au cours d'un long règne de près de quarante ans, presque aussi long que celui de son père et prédécesseur sur le trône (1380 – 1422), à renverser une situation compromise et finalement gagner la guerre de Cent Ans.
+[^54]: .Charles VI, dit « le Bien-Aimé »,(1368 -1422), est roi de France de 1380 jusqu'à sa mort. Fils du roi Charles V et de la reine Jeanne de Bourbon, il est le quatrième roi de la branche de Valois de la dynastie capétienne. Il monte sur le trône à l'âge de douze ans, alors que son père laisse derrière lui une situation militaire favorable, marquée par la reconquête de la plupart des possessions anglaises en France.
+[^55]: .Louis XII, (1462-1515) à Paris, surnommé le « Père du peuple » par les états généraux de 1506, est roi de France de 1498 à 1515. Durant son règne, il se lance dans les guerres d'Italie, notamment la troisième et la quatrième et, sur le plan intérieur, conduit la réforme de la justice et des impôts. Son image fut cultivée après sa mort comme symbole d'un monarque modéré, s'appuyant sur les états généraux, par contraste avec la monarchie absolue.
+[^56]: .François Ier, né sous le nom de François d’Angoulême (1494 -1547) à Rambouillet, est un roi de France ayant régné du 25 janvier 1515, jour de son sacre, à sa mort en 1547. Fils de Charles d'Orléans et de Louise de Savoie, il appartient à la branche de Valois-Angoulême de la dynastie capétienne. François Ier est considéré comme le roi emblématique de la période de la Renaissance française. Son règne, ponctué de guerres et d’importants faits diplomatiques, permet néanmoins un développement important des arts et des lettres en France.
+[^57]: .Henri IV, dit « le Grand » ou « Le Vert Galant », ou encore « Le Bon Roi Henri », né sous le nom d'Henri de Bourbon (1553-1610), est roi de Navarre à partir du 9 juin 1572 sous le nom d'Henri III, et roi de France sous le nom d'Henri IV du 2 août 1589 jusqu'à sa mort en 1610. Il réunit ainsi les dignités de roi de France et de Navarre et est le premier roi de France de la maison capétienne de Bourbon.
+[^58]: .Louis-Jules Mancini-Mazarini 3e et dernier duc de Nevers, dit de Nivernais (1716 -1798) est un ambassadeur, ministre d'État, épistolier, poète, académicien et auteur dramatique français.
+[^59]: . Louis-Jules Mancini-Mazarini (1716-1798) est un ambassadeur, ministre d'État, épistolier, poète, académicien et auteur dramatique français, fils du 2e duc de Nevers Philippe Jules François Mancini, pair de France, et de Marianna
+[^60]: .Louis Joseph Xavier François de France (1781 -1789), est le fils aîné de Louis XVI et de Marie-Antoinette, deuxième enfant du couple royal, il était dauphin du Viennois et héritier du trône de France. Il est le frère aîné de Louis XVII. Enfant de santé fragile, il est mort à l'âge de sept ans et demi à Meudon, le 4 juin 1789, pendant les États généraux.
+[^61]: .Charles-Alexandre de Calonne, comte d'Hannonville, (1734-1802) est un magistrat, administrateur, économiste et homme politique français, ministre et contrôleur général des finances de Louis XVI. Il propose une réforme du système fiscal (un impôt universel) que les deux ordres privilégiés (clergé et noblesse) doivent payer également. Sa proposition est rejetée et il est renvoyé disgracié. Entre 1783 et 1787, il s'est retrouvé au cœur des grandes spéculations boursières sous Louis XVI.
 
