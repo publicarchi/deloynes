@@ -2,6 +2,8 @@
 title: "Présentation de l'équipe d'annotateurs-éditeurs"
 permalink: equipe
 ---
+**Amélie LAVAUX** est titulaire d'une première Licence Master de recherche LLCER études japonaises de l'INALCO. Membre du RéLIJAM (Réseau français des études sur la littérature japonaise moderne), elle centre ses travaux sur le roman sentimental des plateformes d'auto-publication en ligne japonaises. Après une troisème année de Licence Lettres Écriture et Culture Numérique (option Numérique) à l’Université Paris Nanterre, elle a prévu d'entamer un Doctorat à l'INALCO.
+
 
 **Pauline MAS** est en dernière année de Licence Lettres Ecriture et Culture Numérique (option Numérique) à l’Université Paris Nanterre. Elle se dirige vers un master orienté numérique et souhaite à terme devenir cheffe de projet web.
 
