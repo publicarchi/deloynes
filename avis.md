@@ -357,7 +357,7 @@ Beau, imposant; mais un peu roide.
 
 ## DEJOUX.
  
- *Phllopœmen.*
+ *Philopœmen.*
 
  Peut-on rien de plus hideux et de plus menteur.Ce morceau est détestable comme sculpture, et il est faux comme statue historique. L’art consiste à inventer, choisir et assembler. Où est l’invention ?Et quel choix, quel ensemble ! Comment peut-on, pour rendre un fameux Général, un grand Homme qui, vieux et captif, faisait encore la terreur d’une Nation guerrière; comment peut-on, dis-je, en prendre le modèle parmi les malades de Bicêtre ou les cadavres de la Morgue ?
 
