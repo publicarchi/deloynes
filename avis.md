@@ -71,6 +71,7 @@ Quant à l’exécution, ce Tableau est bien peint, d’une bonne manière, en g
 
 Malgré tout cela, c’est un beau Tableau; un savant ouvrage. Vous y trouverez, sans doute, d’autres mérites qui m’ont échappés; mais pas un seul défaut de plus. Je l’ai jugé sévèrement, et cela est juste. M.Vien lui-même me le pardonnera. On est en droit d’exiger beaucoup d’une aussi haute capacité que la sienne.
 
+## [Lagrenée]
 
 [13, 647]
 N°.II. *Mort de la Femme de Darius.*
