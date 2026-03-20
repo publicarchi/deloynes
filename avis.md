@@ -284,7 +284,8 @@ Les dessins du même Auteur portent un grand caractère, sont beaux, précis, fa
 plusieurs Tableaux Hollandais et Flamands, qui sont généralement du goût de quelques particuliers, amateurs de ce genre ingénieux, noble et intéressant. 
 
 ## M. LE BARBIER l’aîné.
-N°. CXXXIV. J*upiter endormi.*
+
+N°. CXXXIV. *Jupiter endormi.*
 
 Jupiter dort sans être appuyé; la petite Junon s’appuie sans faire ployer les chairs sur lesquelles elle pèse. Tout cela est assez mal engencé, mais fort bien peint. Ce Tableau présente une satire ingénieuse sur l’Hymen : le mari insouciant dort; la femme veille, agaçante et maligne, et tient finement une aîle de l’aigle engagée sous son pied, pour vous dire apparemment, que dans le mariage
 le plaisir fouvent ne bat que d’une aîle.
@@ -344,6 +345,7 @@ La statue de l’hymen dans ce Tableau, est un trait d'esprit, qui prouve que M.
 C'est le plus strictement fidèle des Peintres Paysagistes; il ne vous privera pas d’une feuille, il ne vous fera pas grâce d’une laitue. Cependant ses Tableaux Sont d’un effet neuf, c’est un genre tout particulier, et qui a pour mérite la vérité dans toute son exactitude.
 
  ## M. ROLLAND.
+
 *Le Grand Condé.*
 
  Cette figure a un beau caractère, et présente un ensemble assez noble; mais son attitude blesse les lois de la pondération, que j’invite M. Rolland a étudier sur la nature, d’après les œuvres des grands [38, 673] maîtres, et dans les observations de Léonard de Vinci. Le haut du corps du Prince dûment jeté en arrière et hors de la ligne, demandait nécessairement un point d’appui plus prochain que n’est le pied contrastant; c'est à-dire, le pied gauche par lequel il ne peut être nullement soutenu. Toute figure tombe ou fatigue si la ligne perpendiculaire tirée du nœud de - la gorge n’arrive sur le talon ou médiatement entre les pieds; que M. Roland essaie à l'abaisser, cette perpendiculaire, où tombera-t-elle ? Une figure lançant un corps doit obéir aux mêmes lois qui disposent un homme portant un fardeau. L’extraction du bras projetant hors de la ligne, en fait un de ce membre et le concours des forces vers ce membre en action est tout également nécessaire; comme le poids est pareil, le point d’appui doit être le même : or, remarquez un homme en station dont une épaule est chargée, et voyez si ce n’est pas le pied répondant à cette épaule qui pince et foule la terre ? Si notre statue pouvait jeter le bâton, cet objet n'arriverait assurément pas au but où la tête paraît viser; il chasserait derrière l’épaule gauche : le mouvement rapide et circulaire du bras et de la partie droite du torse tournant sur le grand trochanter gauche sur lequel le tronc du Prince est
