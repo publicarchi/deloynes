@@ -340,11 +340,11 @@ Son Mercure est un petit plisson fort gentil et fort appétissant; mais c’est 
 
 La statue de l’hymen dans ce Tableau, est un trait d'esprit, qui prouve que M. Peyron a de l’imagination; et connaît toute la poétique de son Art. Dans l'esquisse d’une Romaine qui présente ses enfants comme ses plus chers bijoux, pourquoi n'est-ce pas cette mère vertueuse et tendre qui soit principalement éclairée ? l’objet intéressant doit être le plus saillant : ce principe est commun à tous les arts.
 
- ## M. NIVARD.
+## M. NIVARD.
 
 C'est le plus strictement fidèle des Peintres Paysagistes; il ne vous privera pas d’une feuille, il ne vous fera pas grâce d’une laitue. Cependant ses Tableaux Sont d’un effet neuf, c’est un genre tout particulier, et qui a pour mérite la vérité dans toute son exactitude.
 
- ## M. ROLLAND.
+## M. ROLLAND.
 
 *Le Grand Condé.*
 
