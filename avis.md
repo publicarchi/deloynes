@@ -236,7 +236,7 @@ Votre Portrait est digne de tous les éloges; il est grandement composé, dans t
 d’un Tableau de genre; votre groupe est savant, intéressant; la tête de femme en avant est d’un faire et d’une expression admirable, et se détache bien de la figure qui lui sert de fond; vos étoffes sont brillantes et fraîches, vos détails par-tout soignés et pleins de goût. Je voudrais néanmoins, pour qu’aucune grâce ne manquât à un objet si charmant, que vous vous fussiez donné plus de mouvement dans le corps et la physionomie; vous n'êtes point liée avec le groupe de derrière; la lumière saute et ne s’enchaîne point, et dans un Tableau de cette importance, qui tient par tant de beautés au genre de l'Histoire, vous n'eussiez pas dû vous conserver l'attitude habituelle aux Portraits ordinaires.
 Votre Vanloo ne semble pas de la même main; le faire en est mou, tâtonné, les broderies incertaines et tachées; les dorures noires; mais le Portrait de votre charmante nourrice, quoique les yeux n’en soient pas ensemble, est d’un coloris, d’un dessin et d’un transparent délicieux : ce dernier mérite est peut-être le feul qui manque à votre incomparable Portrait en pied.
 
- ## M. DAVID.
+## M. DAVID.
  
 *Serment des Horaces.*
 
