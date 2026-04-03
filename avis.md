@@ -312,7 +312,7 @@ La Psychée n’en approche sûrement pas : elle a une tête française, dont la
 d’autres parties. D’ailleurs, ce sujet, par sa pensée, par sa stature, sa pause et les formes, n’est en nul rapport avec l’amour de Bouchardon, auquel il est destiné à servir de pendant.
 
 
- ## M. JULIEN.
+## M. JULIEN.
 
 
 La Fontaine quoique moins nud d'accessoires, quoique point drapé à grands plis et d’une manière large, est de fort peu au-dessous du Pascal. La [36, 671] bonhomie et l’esprit fin et profond, règnent à la fois dans tous les traits du Poète inimitable.
