@@ -252,8 +252,7 @@ et le fassent bondir; sa sensibilité veut être conduite mollement et parcourir
 on exige avec raison dans tout sujet une série étroite et progressive des corps, des lumières et des passages des couleurs. D’après ceci, le Tableau 
 [31; 665]
 d’Horace est fautif; il présente trois groupes sur trois plans peu distincts; le groupe des frères, puis un trou; le vieil Horace puis un trou, et enfin le groupe des femmes qui conservent seules entre elles cet enchaînement gradué commandé par l’exemple et les préceptes des grands maîtres. Malgré ceci, malgré la roideur de l'action de l'Horace vainqueur, malgré la grosseur de son bras, malgré la manière fausse et gauche dont il tient sa pique, la pose chancelante du père, l’attitude molle et oisive de celle des femmes qui est au milieu, malgré sa tête qui se confond dans son col, les épées d'étain et sans effet, j’avouerai que c'est le Tableau moderne que j'ai vu, qui m’ait paru le
-plus décidé, tenant le moins au genre connu, à la manière habituelle de nos maîtres. Je conviendrai que c’est une grande conception, et qu’elle estexé-
-entée aussi hardiment que facilement, et je m'extasierai avec vous sur l'action des Horaces qui se tiennent embrassés pendant leur serment, expression
+plus décidé, tenant le moins au genre connu, à la manière habituelle de nos maîtres. Je conviendrai que c’est une grande conception, et qu’elle est exécutée aussi hardiment que facilement, et je m'extasierai avec vous sur l'action des Horaces qui se tiennent embrassés pendant leur serment, expression
 sublime et symbolique de leur union de la sainte et forte amitié qui les lient, et de l’objet commun qui rapproche et enchaîne l’un à l’autre jusqu'à la mort ces trois frères guerriers.
 
 *Belisaire.*
@@ -356,7 +355,7 @@ Pourquoi donner de la contraction à la main qui tient la ceinture ? C’est une
 ## M. GOIX.
 *Mathieu Molé.*
 
-Beau, imposant; mais un peu raide.
+Beau, imposant; mais un peu roide.
 
 ## DEJOUX.
  
