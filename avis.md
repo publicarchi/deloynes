@@ -327,7 +327,7 @@ Poursuivre dans les airs une rime qui fuit.
 
 On sait bien qu’il ne courait point après les rimes, et qu’elles venaient aisément se ranger sous la main.
 
-La tête n’a ni os, ni plans; de face de trois quarts ou de profil, vous ne remarquerez pas le plus léger méplat. La figure est toute pomée et rondelette comme les fix ou fept morceaux de M. Bridan, qui, sans excepter son Vauban, sont tous jetés au même moule. 
+La tête n’a ni os, ni plans; de face de trois quarts ou de profil, vous ne remarquerez pas le plus léger méplat. La figure est toute pomée et rondelette comme les six ou sept morceaux de M. Bridan, qui, sans excepter son Vauban, sont tous jetés au même moule. 
 
 Son Mercure est un petit plisson fort gentil et fort appétissant; mais c’est un Mercure de nos jours; un Mercure galant, et ce n’est point un Dieu.
 
