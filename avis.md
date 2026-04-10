@@ -11,7 +11,7 @@ Par Madame E.A.R.T.L.A.D.C.S
 DÉDIÉ AUX FEMMES
 
 
->*Anch’io son Pittor !*
+>*Anch’io son Pittor !*[^1]
 >Et moi aussi, je suis Peintre ! 
 
 
@@ -26,28 +26,27 @@ on le voit bien : et aux Élèves de l'Académie; ils s’en plaignent.
 
 Mesdames, 
 
-Dans ce siècle aimable, brillant des succès et de la gloire de mon Sexe, pourquoi me condamnerais-je au silence honteux d’une fausse timidité ou de l’ignorance? Je suis Femme Française et Peintre; j’ai droit à votre confiance, à votre accueil, et à celui du Public; mais je n’accepte ni le vôtre, ni le sien : je veux le mériter. Et si ce frivole Ouvrage ne me les obtient pas, mes effets, mes efforts multipliés, la vivacité, l’infatigabilité de mon ardeur, les arracheront à vous et à tous mes Contemporains. Je convaincrai décidément ce sexe hautain, qui doute encore des puissances morales des Femmes, que nous avons pu, que nous pouvons, que nous pourrons toujours, dans [638] la carrière des Arts et des Sciences, marcher fièrement ces égales. Mon ambition n’est pas folle, et ne peut l’être que partiellement, que quant à moi : quelques miens avantages, médiocres et vains, accroîtraient de bien; peu la somme des preuves de nos facultés essentielles; mais je m’en console : mon objet est prouvé, invinciblement démontré. Les Dacier, les Duchâtelet, les Rosalba, les Sabran, les Guiards, les.... les Genlis,
-et vous aussi, aimable Bourdic, n’avez-vous pas toutes depuis longtemps révolu cette question, qui n’en est une encore que chez les Anglois, dans les cafés, les auberges, etc.?
+Dans ce siècle aimable, brillant des succès et de la gloire de mon Sexe, pourquoi me condamnerais-je au silence honteux d’une fausse timidité ou de l’ignorance? Je suis Femme Française et Peintre; j’ai droit à votre confiance, à votre accueil, et à celui du Public; mais je n’accepte ni le vôtre, ni le sien : je veux le mériter. Et si ce frivole Ouvrage ne me les obtient pas, mes effets, mes efforts multipliés, la vivacité, l’infatigabilité de mon ardeur, les arracheront à vous et à tous mes Contemporains. Je convaincrai décidément ce sexe hautain, qui doute encore des puissances morales des Femmes, que nous avons pu, que nous pouvons, que nous pourrons toujours, dans [638] la carrière des Arts et des Sciences, marcher fièrement ces égales. Mon ambition n’est pas folle, et ne peut l’être que partiellement, que quant à moi : quelques miens avantages, médiocres et vains, accroîtraient de bien; peu la somme des preuves de nos facultés essentielles; mais je m’en console : mon objet est prouvé, invinciblement démontré. Les Dacier[^2], les Duchâtelet[^3], les Rosalba[^4], les Sabran[^5], les Guiards[^6], les.... les Genlis[^7],
+et vous aussi, aimable Bourdic[^8], n’avez-vous pas toutes depuis longtemps révolu cette question, qui n’en est une encore que chez les Anglois, dans les cafés, les auberges, etc.?
 
  
 [639]
 
-#AVIS IMPORTANT D’UNE FEMME, 
-SUR LE SALON DE 1785.
+# AVIS IMPORTANT D’UNE FEMME, SUR LE SALON DE 1785.
 
 
 
 
-## M. VIEN. 
-N°. Ier. *Retour d’Hector*. 
+## M. VIEN[^9].
+N°. Ier. [*Retour d’Hector*](https://ow-mba.angers.fr/r/fd182676-2071-43c7-b2ab-9bc5aa36553d). 
  
 Ce Tableau est d’une vaste et riche composition; il y règne une bonne entente de couleurs, une grande connaissance des effets, un charme, un vrai qui attire et retient. Il est beau; digne de rester. Mais malgré le plaisir que ce Morceau me cause; quoiqu’il me frappe par mille beautés faillantes, toutes parcourues et senties à la première vue; quoiqu’il commande des sensations qui m’y rappellent et m'y fixent, ma satisfaction n'est pas complète. Ce qui plaît en cet ouvrage, n’exclut point le sentiment de ce qui y plairait davantage : en nombrant les beautés dont il brille, je suppute celles omises. Il domine chez moi, en le contem- [6, 640] plant, une forte d’inquiétude, un regret confus qui m’avertit de ce qui y manque; en un mot, mon admiration n'est que partielle, et je dis même arbitraire au mérite de l'Artiste. Oui, si le nom de Vien frappant mon cerveau, n’y réveillait en même temps par mille succès habituels, l’idée du beau, du sage, du savant, je l'avoue, son Hector m'intéresserait peu par son exécution, et par le mérite particulier et isolé de chacune de ses figures. 
 
-D’où vient donc qu’à la vue de ce sujet terrible, je ne fuis pas seulement émue ? C’est qu’il ne suffit pas pour toucher et plaire, qu’un Tableau d'Histoire soit bien peint; que ses figures soient individuellement bien dessinés; que plusieurs parties soient belles et sans reproches; tout cela est beaucoup ailleurs, sans doute; mais ici c’est bien peu. Il faut plus : il faut qu’un tel morceau soit traité dans le sens du sujet, dans la convenance générale; qu’il y régné ensemble, fidélité, vigueur et justesse; qu’il s’y trouve un accord entier, une nécessité absolue de toutes les parties composantes; sans quoi, ce n'est plus un Tableau d'Histoire, une composition, une instruction pour l’esprit, une jouissance pour l’âme, ce n’est qu’un amas indigeste de figures académiques, froides et muettes, comme les mercenaires engourdis dont elles sont les stériles images.
+D’où vient donc qu’à la vue de ce sujet terrible, je ne suis pas seulement émue ? C’est qu’il ne suffit pas pour toucher et plaire, qu’un Tableau d'Histoire soit bien peint; que ses figures soient individuellement bien dessinés; que plusieurs parties soient belles et sans reproches; tout cela est beaucoup ailleurs, sans doute; mais ici c’est bien peu. Il faut plus : il faut qu’un tel morceau soit traité dans le sens du sujet, dans la convenance générale; qu’il y régné ensemble, fidélité, vigueur et justesse; qu’il s’y trouve un accord entier, une nécessité absolue de toutes les parties composantes; sans quoi, ce n'est plus un Tableau d'Histoire, une composition, une instruction pour l’esprit, une jouissance pour l’âme, ce n’est qu’un amas indigeste de figures académiques, froides et muettes, comme les mercenaires engourdis[^10] dont elles sont les stériles images.
 
-Ce sujet, traité avec tant de force et d’énergie dans Homère, est ici défiguré, amoli. M. Vien, plein de talents d’ailleurs, n’a point l'âme forte de Bouchardon; celui-ci, à la lecture du père des Poètes, voyait les hommes hauts de vingt pieds. M. Vien, comme mille autres, au travers des belles images du Poème, ne voit que ces chers Parisiens, [7, 641] petits, pâles et sans formes; l’*Iliade*, la sublime *Iliade* n’est pour lui qu’un récit de Gazette; et le retour du corps d’un Héros, et le spectacle de sa famille désolée, en se peignant à son imagination, n’y cause pas d’autre ébranlement que celui qu’y porterait l’apparition familière de l'enterrement d'un Bourgeois du quartier. Un Auteur, homme d’esprit, mais qui penfe à la mode, car les opinions y font aussi soumises, nous assure dans sa lettre du 5 de ce mois, qu’il auroit été aussi ridicule à l'Artiste de chercher à nous émouvoir par ce vieux sujet, qu’il ferait puérile à nous d’y être encore sensibles. Moi, Femme, et conséquemment compatisslante et faible, j’ai la bonhomie de m’attendrir par la seule pensée de la mort d’un grand Homme, défendeur de sa Patrie et victime de son amour pour elle; j'imagine même que je ne suis pas seule affectée par cette image, et je me persuade que ce sujet intéressera toujours, quand il sera traité dans la vérité, dans les passions et dans les convenances. Combien d’attraits n’avez-vous pas trouvés à la simple Estampe de la mort du Général Wolff ? Ce sujet, traduit par la gravure, affaibli par l'unicolorité, rétréci par sa forme, a su trouver encore le chemin de votre cœur, et la mort d'Hector vous trouvera indifférent et glacé ! Je vous laisse le plaisir d’en faire le parallèle. Mais dites-moi, qui donc ne fera pas ému à la vue d’une belle Femme, épouse et mère, qui, entourée de sa Famille et de ses Concitoyens en larmes, rencontre le cadavre de son Époux ? Cet Époux.... un Héros qui fut adoré, qui fut le protecteur de sa Patrie et sa superbe espérance ! Si cette scène de douleurs se passait de nos jours et sous nos yeux, quel Spectateur ne serait pas déchiré? Eh bien ! [8, 642] n’est-ce point une scène nouvelle, qu’un nouveau Tableau? Qu’importe à mon cœur attendri, les qualités bien connues, les noms répétés des Personnages? Ma mémoire commande-t-elle à ma sensibilité? Et ce sujet, si puissant sur mon âme dans le Poème, traité de nouveau par de nouveaux moyens, un nouvel art, devra-t-il cesser de m‘intéresser, seulement parce que les noms de Priam et d’Hector frappent mon oreille depuis mon enfance; et ce qui est là plein d'ascendant, beau, sublime, fera ici muet, languissant et sans effet? Cessez, M. le Marquis, de chercher à nous persuader que ce vieux sujet ait, par la longueur de son règne, perdu le droit de nous attendrir encore. Vous n’avez pas prouvé, M. le Marquis : votre décision sur ce point, n’est qu’un aveu ingénu du peu d’effet qu’a produit sur votre âme le Tableau sage, savant, mais inanimé, de M. Vien. Vous chargez au contraire ce professeur, en voulant le disculper; vous avez raison, et M. Vien seul a tort. Vous raisonnez avec vous, en contemplant ce Tableau; vous raisonnez, dis-je, vos sensations : c’est m’approuver, si le morceau, je le répète, eût été conçu et exécuté dans la vérité, dans la passion, il eût plus offert à votre imagination, et moins à votre raison; il eût frappé, stupéfié, pour ainsi dire, les Spectateurs et vous-même. C’est-là l’effet infaillible du beau, du vrai beau, rendu poétiquement et d’une grande manière. Il faut, pour bien juger en Peinture, se souvenir, avant tout, d'un principe connu, mais souvent oublié; c'est que la Peinture n'est autre chose que la Poésie mise visuellement en action.
+Ce sujet, traité avec tant de force et d’énergie dans Homère, est ici défiguré, amoli. M. Vien, plein de talents d’ailleurs, n’a point l'âme forte de Bouchardon; celui-ci, à la lecture du père des Poètes, voyait les hommes hauts de vingt pieds. M. Vien, comme mille autres, au travers des belles images du Poème, ne voit que ces chers Parisiens, [7, 641] petits, pâles et sans formes; l’*Iliade*, la sublime *Iliade* n’est pour lui qu’un récit de Gazette; et le retour du corps d’un Héros, et le spectacle de sa famille désolée, en se peignant à son imagination, n’y cause pas d’autre ébranlement que celui qu’y porterait l’apparition familière de l'enterrement d'un Bourgeois du quartier. Un Auteur, homme d’esprit, mais qui penfe à la mode, car les opinions y font aussi soumises, nous assure dans sa lettre du 5 de ce mois, qu’il auroit été aussi ridicule à l'Artiste de chercher à nous émouvoir par ce vieux sujet, qu’il ferait puérile à nous d’y être encore sensibles. Moi, Femme, et conséquemment compatisslante et faible, j’ai la bonhomie[^11] de m’attendrir par la seule pensée de la mort d’un grand Homme, défendeur de sa Patrie et victime de son amour pour elle; j'imagine même que je ne suis pas seule affectée par cette image, et je me persuade que ce sujet intéressera toujours, quand il sera traité dans la vérité, dans les passions et dans les convenances. Combien d’attraits n’avez-vous pas trouvés à la simple Estampe[^12] de la mort du Général Wolff ? Ce sujet, traduit par la gravure, affaibli par l'unicolorité, rétréci par sa forme, a su trouver encore le chemin de votre cœur, et la mort d'Hector vous trouvera indifférent et glacé ! Je vous laisse le plaisir d’en faire le parallèle. Mais dites-moi, qui donc ne fera pas ému à la vue d’une belle Femme, épouse et mère, qui, entourée de sa Famille et de ses Concitoyens en larmes, rencontre le cadavre de son Époux ? Cet Époux.... un Héros qui fut adoré, qui fut le protecteur de sa Patrie et sa superbe espérance ! Si cette scène de douleurs se passait de nos jours et sous nos yeux, quel Spectateur ne serait pas déchiré? Eh bien ! [8, 642] n’est-ce point une scène nouvelle, qu’un nouveau Tableau? Qu’importe à mon cœur attendri, les qualités bien connues, les noms répétés des Personnages? Ma mémoire commande-t-elle à ma sensibilité? Et ce sujet, si puissant sur mon âme dans le Poème, traité de nouveau par de nouveaux moyens, un nouvel art, devra-t-il cesser de m‘intéresser, seulement parce que les noms de Priam et d’Hector frappent mon oreille depuis mon enfance; et ce qui est là plein d'ascendant, beau, sublime, fera ici muet, languissant et sans effet? Cessez, M. le Marquis, de chercher à nous persuader que ce vieux sujet ait, par la longueur de son règne, perdu le droit de nous attendrir encore. Vous n’avez pas prouvé, M. le Marquis : votre décision sur ce point, n’est qu’un aveu ingénu[^13] du peu d’effet qu’a produit sur votre âme le Tableau sage, savant, mais inanimé, de M. Vien. Vous chargez au contraire ce professeur, en voulant le disculper; vous avez raison, et M. Vien seul a tort. Vous raisonnez avec vous, en contemplant ce Tableau; vous raisonnez, dis-je, vos sensations : c’est m’approuver, si le morceau[^14], je le répète, eût été conçu et exécuté dans la vérité, dans la passion, il eût plus offert à votre imagination, et moins à votre raison; il eût frappé, stupéfié, pour ainsi dire, les Spectateurs et vous-même. C’est-là l’effet infaillible du beau, du vrai beau, rendu poétiquement et d’une grande manière. Il faut, pour bien juger en Peinture, se souvenir, avant tout, d'un principe connu, mais souvent oublié; c'est que la Peinture n'est autre chose que la Poésie mise visuellement en action.
 
-*Sicut pictus Poesis erit.*
+*Sicut pictus Poesis erit*[^15].
  
 [9, 643]
 Toutes deux parlent à l'âme, l’intéressent, l‘émeuvent, la déchirent, la consolent, l’instruisent, la fortifient, l’égayent et l’enflamment également; toutes deux commandent aux sens de les ébranlent par le ministère d’un seul; toutes deux ont le même but, le même effet et plusieurs rapports intermédiaires et communs : les moyens seuls diffèrent : à cela près, la Poésie et la Peinture font une seule et même chose.
@@ -55,7 +54,7 @@ Toutes deux parlent à l'âme, l’intéressent, l‘émeuvent, la déchirent, l
 *Sicut pictas Poetis erit.*
 
 Souvenez-vous de cela. 
-Il y a dans tout Tableau le Poème et la partie mécanique de l’art. La première partie comprend l'invention et la distribution; la seconde la composition et l’exécution. En jetant les yeux sur un Tableau, cherchez-y le Poème; s’il vous frappe, si vous n’avez point de peine à le démêler, si toutes les parties de l’Ouvrage concourent, pour ainsi dire, à le faire faillir, le morceau est bon : s'il y a un parti pris, si tout ce qui est accessoire est sacrifié à l’objet principal, si les groupes sont tous nécessaires et ne se nuisent point, le Tableau est bien distribué, si les plans sont bien sentis et dégradés, les personnages produisant de beaux effets, quant aux formes, aux couleurs et aux lumières, si le clair obscur y est bien entendu, si les figures sont bien posées et dans l’action nécessaire, si les têtes et les corps ont de l'expression, du mouvement et sont nobles et beaux, si les draperies ont de la légèreté et de la vérité, la composition est excellente; et si, enfin, à tant de parties exactes, le Peintre joint la bonne exécution, c'est-à-dire, s’il définit bien et purement, s’il peint bien, s’il fait nature (c’est le terme), son œuvre est parf- [10, 644] aite, au-dessus de tout. Mais il n’y a rien de connu qui réunisse tout cela. Le meilleur Peintre est celui qui possède le plus grand nombre de ces parties de son art; et; je l’avoue avec franchise, parmi tous vos émules; M. Vien, vous êtes encore le premier : mais doucement, écoutez votre modestie ordinaire.
+Il y a dans tout Tableau le Poème et la partie mécanique de l’art. La première partie comprend l'invention et la distribution; la seconde la composition et l’exécution. En jetant les yeux sur un Tableau, cherchez-y le Poème; s’il vous frappe, si vous n’avez point de peine à le démêler, si toutes les parties de l’Ouvrage concourent, pour ainsi dire, à le faire faillir, le morceau est bon : s'il y a un parti pris, si tout ce qui est accessoire est sacrifié à l’objet principal, si les groupes sont tous nécessaires et ne se nuisent point, le Tableau est bien distribué, si les plans sont bien sentis et dégradés, les personnages produisant de beaux effets, quant aux formes, aux couleurs et aux lumières, si le clair obscur y est bien entendu, si les figures sont bien posées et dans l’action nécessaire, si les têtes et les corps ont de l'expression, du mouvement et sont nobles et beaux, si les draperies ont de la légèreté et de la vérité, la composition est excellente; et si, enfin, à tant de parties exactes, le Peintre joint la bonne exécution, c'est-à-dire, s’il définit bien et purement, s’il peint bien, s’il fait nature (c’est le terme), son œuvre est parf- [10, 644] aite, au-dessus de tout. Mais il n’y a rien de connu qui réunisse tout cela. Le meilleur Peintre est celui qui possède le plus grand nombre de ces parties de son art; et; je l’avoue avec franchise, parmi tous vos émules[^16]; M. Vien, vous êtes encore le premier : mais doucement, écoutez votre modestie ordinaire.
 
 Vous êtes invaincu, mais non pas invincible.
 
@@ -74,20 +73,20 @@ Malgré tout cela, c’est un beau Tableau; un savant ouvrage. Vous y trouverez,
 ## [Lagrenée]
 
 [13, 647]
-N°.II. *Mort de la Femme de Darius.*
+N°.II. [*Mort de la Femme de Darius.*](https://collections.louvre.fr/ark:/53355/cl010066445)
 
 Quel a été le but de M.Lagrenée ? Est-ce de toucher par la vue de la Femme de Darius expirée ? La mort est un acte rebutant et effroyable; il faut que l’objet mourant soit bien intéressant, pour faire perdre à cette scène ce qu’elle a de dégoûtant; et l'Histoire ne nous apprend rien de cette Princesse, qui rende sa mort un sujet fort pathétique. Ce sera donc la générosité, si vous voulez, la politesse d’Alexandre, que l'Artiste aura voulu solemniser. Mais en ce cas, pourquoi mes yeux tombent-ils d’abord sur la Morte et non sur le Héros consolateur ? Pourquoi tout ne se rapporte-t-il pas à ce Personnage capital qui joue ici, en tous sens, le premier rôle ? Il fallait prendre un parti; jeter de côté la Princesse expirée, le lit, tout l’appareil de mort, ne le laisser qu’entrevoir, et ramasser tout l'intérêt pour en revêtir, si l’on peut parler ainsi, Alexandre et les Princesses éplorées. Alors le moral du Tableau eût été senti et non équivoque; et cet autre agencement m’eût épargné la vue de cette vieille muette et vautrée, qui ne prend nul intérêt à la scène; de cette belle Camariste, vêtue de jaune, qui nous tourne si obligeamment le derrière et nous en présente une robuste moitié, pour faire pont, reverbère, si vous voulez, ou enfin, conducteur de la lumière, et la faire tomber sur l’esclave familier, si grâcieusement étendu sur le lit de sa maîtresse, lequel devient sans fondement par son ton lumineux, l’objet régnant dans ce morceau. Mais ne murmurons pas de l’état actuel de ce Tableau, une autre composition nous eût enlevé cet anodin Alexandre à la main crochue, à l’air bénin [14, 648] et si couvert de poussière; et c’eut été grand dommage ! Car il ne nous resterait que celui de Le Brun, si ancien et connu de tout le monde; excepté de M. Lagrenée. 
 
 
-Il y a dans le Tableau d'Ubalde, N°.III, une certaine figure qu’on croit à genoux; d’autres disent à moitié dans l’eau; les uns la prennent pour une Femme, d’autres pour une Sirène. Je décide que c'est une amphibie.  [14,648 ] 
+Il y a dans le Tableau d'Ubalde, [N°.III](https://www.sothebys.com/en/auctions/ecatalogue/2018/master-paintings-evening-sale-n09812/lot.71.html), une certaine figure qu’on croit à genoux; d’autres disent à moitié dans l’eau; les uns la prennent pour une Femme, d’autres pour une Sirène. Je décide que c'est une amphibie.  [14,648 ] 
 
 ## M.VANLOO AMÉDÉE.
-N°. IV. *Jephté.*
+N°. IV. [*Jephté.*](https://commons.wikimedia.org/wiki/File:Le_v%C5%93u_de_Jepht%C3%A9_-_Charles_Am%C3%A9d%C3%A9e_Philippe_van_Loo_-_MBA_Dijon_CA_387.jpg)
 
 Ce tableau a dix pieds de haut sur huit de large; cela …(censure).
 
 ## M. BRENET.
-N°. VII 
+[N°. VII](https://collections.louvre.fr/ark:/53355/cl010057464) 
 
 Le tableau de la piété des Dames Romaines, est bien ordonné : il y a de l'espace, on le mesure; mais la scène est étroite. Il y a une si petite affluence qu’on ne peut concevoir une grande opinion de la généralité célébrée des pièces Romaines. 
 
@@ -95,19 +94,19 @@ Le Receveur des bijoux et inscripteur des noms, est bien composé et a un bel ai
 je le trouve bien agencé; mais je connais, à ce qu’il me semble, ce bon Vieillard qui se tient immobile et si droit; je ne me le rappelle pas bien; mais je le reconnaîtrai au premier Cabinet de Bosses, que j’irai voir. [15,649]
 
 ## M. LAGRENÉE le jeune.
-N°. IX. *Moyse sauvé des eaux.* 
+N°. IX. [*Moyse sauvé des eaux.*](https://musee-magnin.fr/collection/objet/jean-jacques-lagrenee-moise-sauve-des-eaux) 
 
 Le paysage est joli. Les plans sont un peu confondus, mal distribués et d’une lumière trop égale; mais les têtes sont charmantes.
 
 La frise est d’un goût, d’une couleur et d’un dessin fin, précieux, enchanteur. Les figures ont plus de huit têtes de haut, parce que ces objets sont imités des Anciens, qui avaient coutume de les placer à une hauteur qui nécessitait cette exagération.
 
 ## M. TARAVAL.
-N°, X. *Hercule enfant.*
+N°, X. [*Hercule enfant.*](https://collections.louvre.fr/ark:/53355/cl010062503)
 
 Croiriez-vous que j'estime ce tableau comme bien ordonné ? Mais aussi je trouve, comme vous, que c'est un recueil complet de Mascarons et de.... C'est l'exacte vérité : je ne flatte point.[16,650] 
 
 ## M. MENAGEOT
-N°. XIX. *Cléopâtre au tombeau d"Antoine.*
+N°. XIX. [*Cléopâtre au tombeau d"Antoine.*](https://ow-mba.angers.fr/r/5d6766c6-0004-476b-84eb-8b7b3bfe5217)
 
 J'examinais ce tableau, fort embarrassé de le juger. Un bourgeois de faubourg arrive avec son fils. Qu’est ce grand Tableau carré, Martin mon ami, car je n’y vois rien, moi ? Mon cher père je n’y vois pas grand'chose non plus; si ce n’est une triste et grande dame mon cher père, qui va pleurer tout à son heure, elle a un petit page qu’est tout drôle. Un petit page, mon fils ! ah, ah; et bien, je fais la fin de l'histoire maintenant; tiens mon fils, c’est une belle chose que ça; faudra faire venir ta mère, elle aime les histoires attendrissantes et puis elle fait la chanson.Comment mon cher père est ce que c'est une chanson que cette histoire-là ? et vraiment oui, Martin mon ami, vois-tu pas que c'est la Dame à Malborough qui le pleure et se lamente avec son petit page. Ah ! Vraiment oui, mon père, elle estbien affligée, même Madame Malborough, car elle a fait tendre sa chambre en noir. 
 
@@ -117,7 +116,7 @@ Le bon sens des Badauts quelquefois m’épouvante.
 
 
 ## M. SUVÉE.
-N°. XII. *Enée au milieu des ruines de Troyes, n' ayant pu déterminer Anchise, son père, à quitter son palais et sa patrie, veut, dans son désespoir, retourner au combat; sa femme l’arrête, en lui présentant son fils Ascagne.*
+N°. XII. [*Enée au milieu des ruines de Troyes, n' ayant pu déterminer Anchise, son père, à quitter son palais et sa patrie, veut, dans son désespoir, retourner au combat; sa femme l’arrête, en lui présentant son fils Ascagne.*](https://collections.louvre.fr/ark:/53355/cl010057847)
 
 Retenez le texte; il nous annonce qu'Enée au désespoir des malheurs de sa patrie et de la résistance de son père, veut retourner au combat, voilà la donnée. Que fait donc Enée dans le Tableau que j’examine ? Il est posé droit, bien appuyé, bien pondérant, bien fiable, une jambe, un bras en l'air, la main raide, les doigts convulsivement écartés, le visage froid et muet. Dites moi, dans la bonne vérité, si l'action de cette figure, son mouvement général est celui d’un homme, qui, poussé par le désespoir veut s'échapper des mains de ce qu’il a de plus cher et courir de nouveaux dangers malgré les vœux et l’amour de sa famille ?
 Il la contemple à la vérité avec une sorte de compassion qui a quelque chose de vraisemblable; mais a-t-il rien dans sa physionomie et dans son attitude [17, 651] qui peigne le vif désir, la soif du combat; les mouvements du désespoir ? Voilà donc encore un sujet en partie manqué. Cependant il faut rendre justice à l’ouvrage en général. Hors Enée qui ne représente, en quoi que ce foit, le Héros de Virgile, tout est bien conçu, tout est à sa place, la femme supplie avec chaleur, l'enfant est intéressant, Anchile est beau, noblement composé. Enfin, les plans dans ce Tableau (ont bien sentis; la scène capitale, celle de devant, attire décidément les regards, se détache bien du fonds et en fait aisément mesurer la distance tout ceci fait une grande partie du mérite d’un Tableau; il ne reste donc qu’à examiner une exécution, la manipulation; si vous voulez, la partie picturale : ce mot rend mon idée.
@@ -144,7 +143,7 @@ C’est une belle péroraison de tout ce que ce grand Maître nous a dit depuis 
 
 
 ## M. ROSLIN
-Nos. XXX et XXXI. *Portraits de M, d'Affry et du Président Nicolaï.*
+Nos. XXX et XXXI. [*Portraits de M, d'Affry et du Président Nicolaï.*](https://hls-dhs-dss.ch/fr/articles/023244/2017-06-15/)
 
 Le premier est assez mal posé, tombe en avant, mais son velours est superbe, et la broderie brille comme au soleil et n’est point faite minutieusement. 
 
@@ -169,7 +168,7 @@ Ce Maître abuse singulièrement de sa facilité; ses productions actuelles ne s
 
 
 ## M. DUPLESSIS. 
-N°, XLIII
+[N°, XLIII](https://collections.louvre.fr/ark:/53355/cl010061007)
 
 Le Portrait de M. Vien est assez mal posé; les demies-teintes font toutes de la même couleur sur la figure, le taffetas, les meubles; mais il présente le modèle d'une bonne manière.
 Les autres Portraits de ce maître valent mieux que celui-ci.
@@ -186,13 +185,13 @@ Comment est-il possible que cette Artiste, autrefois célébre, toujours femme a
 
 
 ## M. BERTHELEMY.
-Manlius Torquatus condamnant son Fils à la mort.
+[*Manlius Torquatus condamnant son Fils à la mort.*](https://pop.culture.gouv.fr/notice/joconde/02650000673)
 
 Sujet heureux et bien senti par l'Artiste; aussi sa composition est-elle belle, grande, juste et l’ouvrage serait parfait si l’exécution répondait aux autres parties : mais le coloris en est faux, lerouge de brique domine, et les lumières en sont étendues, délayées, fermées au hasard, avec une témérité que l'auteur ne considère sûrement que comme une belle hardiesse. Les draperies sont molles et cotonneuses; et les chairs, quant aux parties lumineuses, sont peintes trop fermes, trop à la manière du marbre. Je dis quant aux parties lumineuses, car celles ombrées fuient trop précipitamment, et sont louches et profondes, souvent sans sujet. Au total, ce tableau tient du vieux genre français et semble être commandé pour être copié en tapisserie. C'est un grand vice, sans doute, que cette incohérence de couleurs qui frappe et blesse les spectateurs les plus ignorans, et dérobe à l’ouvrage l’éloge mérité par sa composition, sur laquelle je reviens avec plaisir, pour vous faire remarquer [24,658]avec quelle adresse l'Artiste, en n’ôtant rien â la beauté du jeune-homme, a su jeter toute l’attention sur la figure du père. Comme ce dernier est beau ! éprouve profondément le combat cruel de la nature blessée et de l’amour du devoir! Son attitude est vraie, simple, toute ordinaire, et cependant porte dans l'âme la plus poignante impression.
 
 
 ## M.CALLET.
-N°. LXII. *Achille traînant le corps d'Hector devant les murs de Troyes, et fous les yeux de Priam et d'Hécube qui implorent le vainqueur.*
+N°. LXII. [*Achille traînant le corps d'Hector devant les murs de Troyes, et fous les yeux de Priam et d'Hécube qui implorent le vainqueur.*](https://collections.louvre.fr/ark:/53355/cl010061091)
 
 Je vois mal, ou point du tout, la famille troyenne qui s’efforce, par ses cris; de fléchir Achille irrité. Ainsi l’énoncé est en partie mal rendu. Cependant ce morceau est une grande conception. Achille est noble; son attitude fière, juste, et son expression terrible. Le char me paraît longé fort adroitement. Mais je trouve le corps d’Hector d’une perspective bien précipitée, et le ton général du Tableau n’est pas nature.
 
@@ -201,12 +200,12 @@ Je vois mal, ou point du tout, la famille troyenne qui s’efforce, par ses cris
 
  Petit tableau, mieux fini que le grand dont nous allons parler; mais moins pensé, moins bien traité dans la convenance. Ce sujet était difficile à rendre. Il me paraît presque impossible de donner à la Romaine une action qui puisse présenter un [25,659] sens clair et évident. Le Poetas a la tête bien pensante, et l'irrésolution y est exprimée avec justesse. Cette demi-affection est une convenance de plus, sentie et rendue par l'Artiste.
 
-N°.LXVIII. *Arria voyant que Paetus n’avait pas le courage de se tuer, prit un poignard, si enfonça dans le rein, et le présenta à son mari en lui disant : Tiens Fœtus, il ne fait point de mal.*
+N°.LXVIII. [*Arria voyant que Paetus n’avait pas le courage de se tuer, prit un poignard, si enfonça dans le rein, et le présenta à son mari en lui disant : Tiens Fœtus, il ne fait point de mal.*](https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Vincent_-_Arria_and_Paetus.jpg)
 
 Dans ce Tableau, Arria est un chef-d’œuvre d’invention et de composition. Le corps de cette femme poignardée chancelle; ses genoux s'affaiblissent, se dérobent fous elle : sa tête s'affaille; les dernieres angoisses assaillissent cette Héroïne; mais, son visage conserve encore un air de sérénité et de fermeté que troublent à peine les vives douleurset les approches d’une mort cruelle et précipitée. C'est l'accord le plus heureux et le plus ingénieux des affections les plus violentes et les plus contrastantes. Cet ouvrage est digne de figurer à côté des premières œuvres de cet auteur, dont on se souvient encore. En considération de ces beautés du premier mérite, nous ne dirons rien du ton général du tableau, de l’attitude forcenée de Paetus, de celle indolente de la suivante, et enfin des draperies : objets qui permettent tous des reproches; mais dont les défauts font pleinement rachetés par l’extrême beauté, l'ingéniosité d'Arria, dont il y a peu d'exemples. [26,660]
 
 ## Mme, LE BRUN.
-*La Bacchante.*
+[*La Bacchante.*](https://artsandculture.google.com/asset/bacchante-elisabeth-louise-vigée-lebrun/-QFGg3u8lLpRTw?hl=fr)
 
 Je m'étais promis de n’en rien dire d’abord. Amie de Madame Le Brun, je voulais la laisser en entière jouissance des applaudissements de quelques femmes, et de l’enjouement panique de cette nuée de Clercs, petits Commis, Gens à rabats, Gens de table, Gens de toilette, Gens de parties, Gens … [passage censuré] et tous Conducteurs électriques de la plus légère étincelle de réputation; de quelque main que vienne l'applaudissement, il fait toujours du bruit et flatte : mais il faut à Madame Le Brun des louanges plus délicates, et la vérité peut aussi se faire entendre sans troubler le rêve heureux de sa renommée. Revenons à la Bacchante. 
 
@@ -221,7 +220,7 @@ La tête de la Baronne de Crussol est posée péniblement, et fait mal à la lon
 Qu’importe après tout; cette main créatrice, pour n’être pas heureuse une fois de plus, n’en est-elle pas moins capable ? Cette main…[passage censuré]. Pour moi, si j'étais homme, je serais perpétuel-[28, 662] lement dédommagé des Bacchantes, des Junons et des vertus, par le plaisir de parler de cette Artiste si justement etc.
  
 
-*Portrait de M. de Calonne*
+[*Portrait de M. de Calonne*](https://fr.wikipedia.org/wiki/Fichier:Vigée-Lebrun,_Elisabeth-Louise_-_Charles-Alexandre_de_Calonne_%281734-1802%29_-_Google_Art_Project.jpg)
 
 C’est ici que Madame le Brun a touché le plus en maître; c’est ici où il y a le plus de difficultés vaincues, et faut avouer; c’est dans cette occasion qu’elle s'est rendue le plus entièrement maîtresse de son sujet.
 
@@ -234,11 +233,11 @@ chose là-dessous; c’est un homme. Comme si mon sexe était éternellement con
 
 Votre Portrait est digne de tous les éloges; il est grandement composé, dans toutes les belles convenances de l'histoire et avec tous les agrémens [29, 663]
 d’un Tableau de genre; votre groupe est savant, intéressant; la tête de femme en avant est d’un faire et d’une expression admirable, et se détache bien de la figure qui lui sert de fond; vos étoffes sont brillantes et fraîches, vos détails par-tout soignés et pleins de goût. Je voudrais néanmoins, pour qu’aucune grâce ne manquât à un objet si charmant, que vous vous fussiez donné plus de mouvement dans le corps et la physionomie; vous n'êtes point liée avec le groupe de derrière; la lumière saute et ne s’enchaîne point, et dans un Tableau de cette importance, qui tient par tant de beautés au genre de l'Histoire, vous n'eussiez pas dû vous conserver l'attitude habituelle aux Portraits ordinaires.
-Votre Vanloo ne semble pas de la même main; le faire en est mou, tâtonné, les broderies incertaines et tachées; les dorures noires; mais le Portrait de votre charmante nourrice, quoique les yeux n’en soient pas ensemble, est d’un coloris, d’un dessin et d’un transparent délicieux : ce dernier mérite est peut-être le feul qui manque à votre incomparable Portrait en pied.
+Votre [Vanloo](https://fr.wikipedia.org/wiki/Fichier:Labille-Guiard,_van_Loo.jpg) ne semble pas de la même main; le faire en est mou, tâtonné, les broderies incertaines et tachées; les dorures noires; mais le Portrait de votre charmante nourrice, quoique les yeux n’en soient pas ensemble, est d’un coloris, d’un dessin et d’un transparent délicieux : ce dernier mérite est peut-être le feul qui manque à votre incomparable Portrait en pied.
 
  ## M. DAVID.
  
-*Serment des Horaces.*
+[*Serment des Horaces.*](https://collections.louvre.fr/ark:/53355/cl010062239)
 
 Ce superbe Tableau, d’une composition absolument neuve et un de tous ceux connus qui nous rappellent le mieux le costume simple, la vie citoyenne et intérieure, et les mœurs patriotes et cruelles des premiers Romains. Ce morceau a été longtemps l’objet de l’impatience du public, et l’a justifiée; il en fait maintenant les plaisirs et le désespoir des critiques : essayons cependant de mettre au [30; 664] jour quelques légers défauts qui ont échappé à la malignité des détracteurs du talent de ce maître, aussi bien qu’à l'enthousiasme de ses partisans exclusifs.
 On le loue beaucoup d’avoir placé ses trois frères sur un même plan longitudinal perpendiculaire au plan horizontal du Tableau; il y a quelque chose d'adroit à la vérité d’avoir ainsi esquissé la représentation uniforme de trois hommes, armés
@@ -255,7 +254,7 @@ d’Horace est fautif; il présente trois groupes sur trois plans peu distincts;
 plus décidé, tenant le moins au genre connu, à la manière habituelle de nos maîtres. Je conviendrai que c’est une grande conception, et qu’elle est exécutée aussi hardiment que facilement, et je m'extasierai avec vous sur l'action des Horaces qui se tiennent embrassés pendant leur serment, expression
 sublime et symbolique de leur union de la sainte et forte amitié qui les lient, et de l’objet commun qui rapproche et enchaîne l’un à l’autre jusqu'à la mort ces trois frères guerriers.
 
-*Belisaire.*
+[*Belisaire.*](https://fr.wikipedia.org/wiki/Bélisaire_demandant_l%27aumône)
 
 Son petit Tableau estmoins beau que le grand, le Peintre a rendu les fonds trop lumineux, et les lumières sur les personnages scintillent et brillent trop également. La correction du soldat est heureuse. 
 
@@ -265,7 +264,7 @@ n’en sont pas bons. L’habit est d’un faire qui n'indique point le spongieu
 faire que les chairs et les corps polis.
 
 ## M. RENAUD.
-N°. CVI. *Mort de Priam.*
+N°. CVI. [*Mort de Priam.*](https://fr.wikipedia.org/wiki/Fichier:Jean_Baptiste_Regnault_-_The_Death_of_Priam,_1785.jpg)
 
  Le groupe de Priam et Pyrhus est plein de jeu, de force et d’un effet terrible; d’un dessinadroit et d’un coloris aussi vigoureux que le sujet le comporte; mais il est entouré d’objets égaux en couleur, faisant par-ci, par-là, des pelotes de jourqui fatiguent l’œil, le tiraillent et ne lui permettentde se poser sur rien. Il semble que le Peintre ait aspergé de la lumière sur tout le tableau, qui, en général, est parfaitement dessiné, composé facilement, et annonce une imagination féconde, beaucoup d’ardeur et une facilité qui promettent tout. Il n’est pas bien décidé que l'Artiste ait choisi la nuit pour l'instant de la scène; le texte le commande, le coloris bleu des chairs me le ferait assez croire, sauf l'avis du Peintre.
 
@@ -276,7 +275,7 @@ le plus pathétique, et cependant que, par un art sans exemple, il ne nuit point
 
 ## M.WILLE fils.
 
-N°s. CXLIII et CXLIV. 
+N°s. [CXLIII](https://webmuseo.com/ws/musenor/app/collection/record/31819?vc=ePkH4LF7w1I9geonuEdwpklTY2itSGT60ccMQqRoguaW8swcSAEKDykADso3Ag$$) et [CXLIV.](https://www.mahmah.ch/collection/oeuvres/le-marechal-des-logis/e-2016-0921) 
 Ces deux Tableaux dramatiques, d’un genre familier, sont extrêmement étudiés et soignés; on y reconnaît le faire, la composition et la couleur de la double récompense, et d’un autre Tableau intitulé le Père de famille, non moins capital, mais moins connu, qu’une suite de circonstances singulières ont fait tomber entre les mains d'un Md. Mercier, rue Saint Denis, vis-à-vis la rue de la Féronnerie, qui se fait un vrai plaisir de le laisser voir au public et à toute heure.
 
 Les dessins du même Auteur portent un grand caractère, sont beaux, précis, facilement faits, et justifient M. Wille des torts qu’on lui a imputés dans ses Ouvrages peints, et réduisent à leurs places toutes les invectives que quelques Critiques se font permis contre ce jeune Artiste; telles que les épithètes de productions triviales, d'œuvres asines etc. Ce Peintre est recommandable par le mérite chéri de son père, Graveur célébré, qui devenu notre concitoyen par un long séjour en France, nous a transmis avec foin et avec le plus grand succès
@@ -284,7 +283,7 @@ plusieurs Tableaux Hollandais et Flamands, qui sont généralement du goût de q
 
 ## M. LE BARBIER l’aîné.
 
-N°. CXXXIV. *Jupiter endormi.*
+N°. CXXXIV. [*Jupiter endormi.*](https://fr.wikipedia.org/wiki/Fichier:Jean-Jacques-François_Le_Barbier_-_Jupiter_Asleep_on_Mount_Ida,_1785.jpg)
 
 Jupiter dort sans être appuyé; la petite Junon s’appuie sans faire ployer les chairs sur lesquelles elle pèse. Tout cela est assez mal engencé, mais fort bien peint. Ce Tableau présente une satire ingénieuse sur l’Hymen : le mari insouciant dort; la femme veille, agaçante et maligne, et tient finement une aîle de l’aigle engagée sous son pied, pour vous dire apparemment, que dans le mariage
 le plaisir fouvent ne bat que d’une aîle.
@@ -292,7 +291,7 @@ le plaisir fouvent ne bat que d’une aîle.
 ## M. TAILLASSON. 
 N° CXI.
 
-La tête de sa Magdelaine a généralement plu.
+La tête de sa [Magdelaine](https://www.mbam.qc.ca/fr/oeuvres/37403/) a généralement plu.
 
 ## CESAR VANLOO.
 
@@ -306,7 +305,7 @@ parties de l’Art avec les Peintres d'Histoire. Le Portrait de Mademoiselle Ves
 
 ## M. PAJOU.
 
-Son Pascal est jugé : je l’admire avec autant d'enthousiasme que le Public.
+Son [Pascal](https://collections.louvre.fr/ark:/53355/cl010094792) est jugé : je l’admire avec autant d'enthousiasme que le Public.
 
 La Psychée n’en approche sûrement pas : elle a une tête française, dont la pause et les traits sont maniérés : elle se tortille pour être décente et montrer un air fâché. Le resserrement de cœur dans un sujet profondément affligé, n'opère jamais l'espèce de mouvement où se trouve cette Belle : les esprits qui se retirent en foule dans ce viscère, ne laissent aucun moyen distributif de force et d’énergie dans les muscles des extrémités, et dans cet état les membres font pendants, flexibles et mollement inertes, à moins que ce soit une douleur mêlée de colère ou de désespoir, et ce n’est pas ici le cas. Les hanches, les cuisses; les pieds et les bras, sont d’une proportion plus forte que celles du torse et
 d’autres parties. D’ailleurs, ce sujet, par sa pensée, par sa stature, sa pause et les formes, n’est en nul rapport avec l’amour de Bouchardon, auquel il est destiné à servir de pendant.
@@ -321,7 +320,7 @@ Son Ganimède a des parties charmantes : les Critiques l’ont bien jugé; et le
 
 ## M. BOIZOT. 
 
- Le Racine tient plutôt d’un Auteur Aséatique que de ce grand Poète, qui semble
+ Le [Racine](https://www.lestresorsdegamaliel.com/sculptures/527-jean-racine-louis-simon-boizot.html) tient plutôt d’un Auteur Aséatique que de ce grand Poète, qui semble
 
 Poursuivre dans les airs une rime qui fuit. 
 
@@ -331,41 +330,59 @@ La tête n’a ni os, ni plans; de face de trois quarts ou de profil, vous ne re
 
 Son Mercure est un petit plisson fort gentil et fort appétissant; mais c’est un Mercure de nos jours; un Mercure galant, et ce n’est point un Dieu.
 
-## M. PEYRON, Peintre.
+## M. PEYRON, Peintre.[^]
 
-*Alceste mourante.*
+[*Alceste mourante.*](https://collections.louvre.fr/ark:/53355/cl010061403)
 
- Il y a dans ce Tableau de la Poésie, de l’intérêt, une heureuse simplicité et beaucoup de vérité; c’est parmi tous les morceaux de ce Salon un des plus heureusement composé, et surtout éclairé d’une façon très savante. Je reproche seulement à l’Artiste d’avoir posé tellement son héroïne, qu’elle semble devoir rouler sur son lit. On se plaint [37, 672] que le Salon de cette année réveille la misérable idée d’un Hôpital. C'est une plate comparaison que les Académiciens auraient pû ne point mériter en n’admettant pas cette espèce de meuble, qui emporte toujours avec lui une idée ignoble, en ne l'admettant, dis-je, que dans une impérieuse nécessité; mais c'est le succès de la mort de Léonard de Vinci par M. Ménageot, qui a accrédité cet accessoire.
+ Il y a dans ce Tableau de la Poésie, de l’intérêt, une heureuse simplicité et beaucoup de vérité; c’est parmi tous les morceaux de ce Salon un des plus heureusement composé, et surtout éclairé d’une façon très savante. Je reproche seulement à l’Artiste d’avoir posé tellement son héroïne, qu’elle semble devoir rouler sur son lit. On se plaint [37, 672] que le Salon de cette année réveille la misérable idée d’un Hôpital. C'est une plate comparaison que les Académiciens auraient pû ne point mériter en n’admettant pas cette espèce de meuble, qui emporte toujours avec lui une idée ignoble, en ne l'admettant, dis-je, que dans une impérieuse nécessité; mais c'est le succès de la [mort de Léonard de Vinci par M. Ménageot](https://histoire-image.org/etudes/mort-leonard-vinci), qui a accrédité cet accessoire.
 
 La statue de l’hymen dans ce Tableau, est un trait d'esprit, qui prouve que M. Peyron a de l’imagination; et connaît toute la poétique de son Art. Dans l'esquisse d’une Romaine qui présente ses enfants comme ses plus chers bijoux, pourquoi n'est-ce pas cette mère vertueuse et tendre qui soit principalement éclairée ? L’objet intéressant doit être le plus saillant : ce principe est commun à tous les arts.
 
- ## M. NIVARD.
+ ## M. NIVARD.[^]
 
 C'est le plus strictement fidèle des Peintres Paysagistes; il ne vous privera pas d’une feuille, il ne vous fera pas grâce d’une laitue. Cependant ses Tableaux Sont d’un effet neuf, c’est un genre tout particulier, et qui a pour mérite la vérité dans toute son exactitude.
 
- ## M. ROLLAND.
+ ## M. ROLLAND.[^]
 
-*Le Grand Condé.*
+[*Le Grand Condé.*](https://www.musee-conde.fr/fr/notice/oa-369-figure-en-pied-du-grand-conde-ee33b857-f898-4af7-bb92-9454bf959a81)
 
- Cette figure a un beau caractère, et présente un ensemble assez noble; mais son attitude blesse les lois de la pondération, que j’invite M. Rolland a étudier sur la nature, d’après les œuvres des grands [38, 673] maîtres, et dans les observations de Léonard de Vinci. Le haut du corps du Prince dûment jeté en arrière et hors de la ligne, demandait nécessairement un point d’appui plus prochain que n’est le pied contrastant; c'est à-dire, le pied gauche par lequel il ne peut être nullement soutenu. Toute figure tombe ou fatigue si la ligne perpendiculaire tirée du nœud de - la gorge n’arrive sur le talon ou médiatement entre les pieds; que M. Roland essaie à l'abaisser, cette perpendiculaire, où tombera-t-elle ? Une figure lançant un corps doit obéir aux mêmes lois qui disposent un homme portant un fardeau. L’extraction du bras projetant hors de la ligne, en fait un de ce membre et le concours des forces vers ce membre en action est tout également nécessaire; comme le poids est pareil, le point d’appui doit être le même : or, remarquez un homme en station dont une épaule est chargée, et voyez si ce n’est pas le pied répondant à cette épaule qui pince et foule la terre ? Si notre statue pouvait jeter le bâton, cet objet n'arriverait assurément pas au but où la tête paraît viser; il chasserait derrière l’épaule gauche : le mouvement rapide et circulaire du bras et de la partie droite du torse tournant sur le grand trochanter gauche sur lequel le tronc du Prince est
+ Cette figure a un beau caractère, et présente un ensemble assez noble; mais son attitude blesse les lois de la pondération, que j’invite M. Rolland a étudier sur la nature, d’après les œuvres des grands [38, 673] maîtres, et dans les observations de Léonard de Vinci. Le haut du corps du Prince dûment jeté en arrière et hors de la ligne, demandait nécessairement un point d’appui plus prochain que n’est le pied contrastant; c'est à-dire, le pied gauche par lequel il ne peut être nullement soutenu. Toute figure tombe ou fatigue si la ligne perpendiculaire tirée du nœud de - la gorge n’arrive sur le talon ou médiatement entre les pieds; que M. Roland essaie à l'abaisser, cette perpendiculaire, où tombera-t-elle ? Une figure lançant un corps doit obéir aux mêmes lois qui disposent un homme portant un fardeau. L’extraction du bras projetant hors de la ligne, en fait un de ce membre et le concours des forces vers ce membre en action est tout également nécessaire; comme le poids est pareil, le point d’appui doit être le même : or, remarquez un homme en station dont une épaule est chargée, et voyez si ce n’est pas le pied répondant à cette épaule qui pince et foule la terre ? Si notre statue pouvait jeter le bâton, cet objet n'arriverait assurément pas au but où la tête paraît viser; il chasserait derrière l’épaule gauche : le mouvement rapide et circulaire du bras et de la partie droite du torse tournant sur le grand trochanter gauche[^] sur lequel le tronc du Prince est
 fiché comme sur un pivot, ferait franchir au bâton une section de cercle de plus de 90 degrés : ce qui fait une grande différence d’avec son intention, car son œil est à peu près en raison d’un angle de 40 degrés avec la ligne médiale du torse.
 
 Pourquoi donner de la contraction à la main qui tient la ceinture ? C’est une convulsion. [39, 674]
 
-## M. GOIX.
-*Mathieu Molé.*
+## M. GOIX.[^]
+
+[*Mathieu Molé.*](https://fr.wikipedia.org/wiki/Fichier:Gois_Mathieu_Molé.jpg)
 
 Beau, imposant; mais un peu roide.
 
-## DEJOUX.
+## DEJOUX.[^]
  
  *Philopœmen.*
 
- Peut-on rien de plus hideux et de plus menteur.Ce morceau est détestable comme sculpture, et il est faux comme statue historique. L’art consiste à inventer, choisir et assembler. Où est l’invention ? Et quel choix, quel ensemble ! Comment peut-on, pour rendre un fameux Général, un grand Homme qui, vieux et captif, faisait encore la terreur d’une Nation guerrière; comment peut-on, dis-je, en prendre le modèle parmi les malades de Bicêtre ou les cadavres de la Morgue ?
+ Peut-on rien de plus hideux et de plus menteur.Ce morceau est détestable comme sculpture, et il est faux comme statue historique. L’art consiste à inventer, choisir et assembler. Où est l’invention ? Et quel choix, quel ensemble ! Comment peut-on, pour rendre un fameux Général, un grand Homme qui, vieux et captif, faisait encore la terreur d’une Nation guerrière; comment peut-on, dis-je, en prendre le modèle parmi les malades de Bicêtre[^] ou les cadavres de la Morgue ?
 
 La Critique est... utile, et l’Art en a besoin.
 
 FIN.
 
-	
+[^1]:Cette phrase célèbre aurait été prononcée par le peintre italienle Corrège, enthousiasmé devant la  Sainte Cécile de Raphaël à Bologne.
+[^2]:Anne Dacier (1645-1720), traductrice et philologue française. Connue pour avoir traduit les œuvres d'Homère. 
+[^3]:Émilie Du Châtelet (1706-1749), est une femme de Lettres, mathématicienne et physicienne française. Elle traduisit entre autres Leibniz et Newton. 
+[^4]:Rosalba Carreira (1675-1757), peintre vénitienne.
+[^5]:Françoise Éléonore Dejean de Manville (1749-1827), connue sous le nom de comtesse de Sabran, est une épistolière française. Élizabeth Vigée Le Brun a réalisé son portrait.
+[^6]:Adélaïde Labille-Guiard, artiste peintre, miniaturiste et pastelliste française (1749 - 1803). En 1783, elle est une des rares femmes membre de l’Académie royale de peinture. Elle était mariée au Peintre Vincent. Elle expose au Salon de 1783: voir plus bas, au n° CII.
+[^7]:Félicité du Crest (1746-1830), comtesse de Genlis, est une romancière française. Adélaïde Labille-Guiard peigna son portrait.
+[^8]:Marie-Anne-Henriette Bourdic-Viot (1746-1802) est une écrivaine, poétesse et essayiste. En 1768, elle envoie ses essais poétiques commencés au château d’Aubenas à Voltaire qui la recommande à la revue poétique, l’Almanach des Muses. ( Source : Wikipédia )
+[^9]:Joseph-Marie Vien, peintre, dessinateur et graveur français (1716 - 1809). Il fut l’un des maîtres de David, et l’un des premiers initiateurs du goût à l’antique en France.
+[^10]:L'expression désigne ici les modèles rémunérés qui posaient pour les peintres et pour les élèves des écoles de peinture. La formule péjorative participe d'une critique de la froideur de la peinture académique.
+[^11]: "Ce mot exprime une manière d’être qui réunit la bonté du cœur et la simplicité extérieure, même dans les moindres choses". (*Dic. Acad.*, 1798)
+[^12]: "Image que l’on imprime sur du papier, sur du velin, par le moyen d’une planche de cuivre ou de bois, qui est gravée".(*Dic. Acad.*, 1798)
+[^13]:"Un aveu naïf, simple, franc, qui est sans déguisement, sans finesse".(*Dic. Acad.*, 1798)
+[^14]:"Se prend quelquefois pour une pièce entière qui ne fait point partie d’un tout ; et alors il ne se dit que des ouvrages de la main ou des productions de l’esprit".(*Dic. Acad.*, 1798)
+[^15]:"La poésie sera comme une peinture". Il s'agit d'une variation sur le précepte d'Horace : "*Ut pictura poesis erit*" tiré d'un vers de l'*Épître aux Pisons*, ou *Art poétique*. Cette phrase a servi de modèle pour penser le parallèle entre les arts durant tout l'âge classique.
+[^16]:Il s'agit de concurrents et d'antagonistes.
+
+
 
