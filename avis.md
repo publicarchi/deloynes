@@ -394,7 +394,7 @@ FIN.
 [^26]:Hugues Taraval, peintre français (1729 - 1785). Élève de Jean-Baptiste Marie Pierre et lauréat du prix de Rome en 1756, il est agréé à l’Académie en 1765.
 [^27]:François-Guillaume Ménageot, peintre français (1744 - 1816) Directeur de l’Académie de France à Rome et membre de l’Académie des beaux-arts, son œuvre est essentiellement constituée de scènes religieuses et historiques.
 [^28]:"Jeune Gentilhomme servant auprès d’un Roi, d’un Prince, d’un Seigneur, etc. dont il porte la livrée." (*Dic. Acad.*, 1798)
-[^29]:
+[^29]: Allusion à la cinquième section de la chanson de *Marlbrough s’en va-t-en guerre* (XVIIIe siècle), contant les aventures de John Churchill (1650-1722), premier duc Marlbrough. « Elle aperçoit son page // Mironton, mironton, mirontaine // Elle aperçoit son page // Tout de noir habillé. // Tout de noir habillé ». Mélodie reprise dans le *Mariage de Figaro* (1778) de Pierre-Augustin Caron de Beaumarchais, acte II, scène IV. Dans cette scène, Chérubin chante son amour pour la comtesse. La réutilisation de la chanson met en valeur le succès de la pièce.
 [^30]: "Personnes qu'on tournent en dérision à cause de leur frivole curiosité, de leur empressement pour voir tout ce qui est nouveau, tout ce qui fait spectacle." (*Dic. Acad.*, 1798)
 [^31]:Joseph-Benoît Suvée peintre flamand (1743 - 1807). D’abord élève de Matthias de Visch, il vient en France en 1762 pour devenir l’élève de Jean-Jacques Bachelier. Nommé à l’Académie en 1778, il succédera à Brenet comme professeur à l’École des beaux-arts de Paris en 1792.
 [^32]:Ce terme signifie équilibrer.
